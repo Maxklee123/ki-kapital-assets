@@ -1,0 +1,13 @@
+Der Prompt, der deinen Schreibstil lernt - und ihn nicht wieder vergisst.
+
+KI im Job scheitert selten am Werkzeug. Sie scheitert an einer Zeile: "Schreib mir eine Mail an..." - das liefert Durchschnitt, und Durchschnitt klingt nach allen.
+
+In diesem Karussell steht der vollstaendige Prompt zum Kopieren. Er liest aus fuenf deiner eigenen Mails zehn Regeln heraus und schreibt danach eine Testmail, damit du den Fehler siehst, bevor der Kunde ihn sieht.
+
+Eine Sache vorher, und sie ist nicht optional: anonymisieren. 42,7 % kopieren interne Mail-Entwuerfe unveraendert in KI-Tools, die im Haus gar nicht freigegeben sind. Namen, Kunden und Betraege durch Platzhalter zu ersetzen dauert 20 Sekunden.
+
+Folge fuer einen Workflow pro Tag - Der 15-Minuten-Vorsprung.
+
+Quellen: ESCRIBA/Bilendi 2026, 1.037 Beschaeftigte DE | Bitkom 2026, 604 Unternehmen. Stand: 09.09.2026.
+
+#kiimjob #karriere #kuenstlicheintelligenz

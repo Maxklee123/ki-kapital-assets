@@ -1,0 +1,13 @@
+Fuenf eigene Mails, zehn Regeln, ein Textbaustein. So lernt die KI deinen Ton.
+
+KI im Job: die meisten geben der KI ein Thema und wundern sich, dass der Text nach niemandem klingt. Die KI hat keinen eigenen Ton - sie kopiert den, den sie bekommt.
+
+Deshalb kommt der Ton nicht aus dem Prompt, sondern aus deinem Ordner "Gesendet". Fuenf Mails reichen. Die KI zieht zehn Regeln daraus, du streichst jede, die du nicht wiedererkennst, und speicherst den Rest als Textbaustein.
+
+Die Schritte stehen im Video. Einmal 15 Minuten Aufwand, danach zwei Minuten je Mail.
+
+Quellen: ESCRIBA/Bilendi 2026, 1.037 Beschaeftigte DE | Bitkom 2026, 604 Unternehmen. Stand: 09.09.2026.
+
+#kiimjob #karriere #kuenstlicheintelligenz
+
+EIGENKOMMENTAR: Schreibst du Mails schneller mit KI - oder dauert das Korrigieren am Ende laenger?

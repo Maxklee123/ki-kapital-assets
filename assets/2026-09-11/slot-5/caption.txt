@@ -1,0 +1,20 @@
+Drei Stellen pruefen statt dreissig. Der Unterschied sind vier Zeilen.
+
+Eine KI-Antwort hat eine glatte Oberflaeche: Der Satz, den das Modell belegen kann, sieht aus wie der, den es geraten hat. Deshalb liest du den ganzen Text - und deshalb misst der Work AI Index 2026 6,4 Stunden Botsitting pro Woche.
+
+Die Mechanik dagegen: Du verlangst eine sichtbare Kennzeichnung, bevor die KI antwortet.
+
+1. Markiere alles, was nicht in meinem Text steht, mit [UNGEPRUEFT].
+2. Setz darunter eine Zeile "Herkunft": meine Quelle oder deine Annahme?
+3. Nenn die zwei Stellen, an denen du am ehesten falsch liegst.
+4. Fehlt dir Kontext: eine Rueckfrage, nicht raten.
+
+Danach pruefst du Markierungen statt Texte. Meist drei bis fuenf pro Antwort.
+
+Pruefen ist keine Zeitverschwendung. Ungeordnetes Pruefen schon.
+
+Folge fuer einen Workflow pro Tag - Der 15-Minuten-Vorsprung.
+
+Quelle: Glean Work AI Institute, "Work AI Index 2026", veroeffentlicht 29.07.2026, n=6.000. Stand: 11.09.2026.
+
+#kiimjob #karriere #kuenstlicheintelligenz

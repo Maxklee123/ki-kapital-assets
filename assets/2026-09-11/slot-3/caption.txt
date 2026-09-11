@@ -1,0 +1,15 @@
+6,4 Stunden pro Woche. So viel kostet dich das Pruefen deiner KI.
+
+Das Glean Work AI Institute hat 6.000 Vollzeit-Digitalarbeiter befragt (USA, Grossbritannien, Australien, veroeffentlicht Juli 2026). KI spart rund 11 Stunden pro Woche. 6,4 Stunden gehen fuer Botsitting zurueck: Kontext nachreichen, Output pruefen, Fehler debuggen, Prompts neu starten.
+
+37 Prozent der gesamten KI-Zeit sind genau das. 69 Prozent geben zu, Ergebnisse unzureichend geprueft weitergereicht zu haben. 41 Prozent haben Arbeit abgegeben, die sie nicht erklaeren konnten.
+
+Nur 13 Prozent sehen eine deutliche Leistungssteigerung. Netto bleiben 4,6 Stunden.
+
+Nicht die KI ist langsam. Die Pruefung ist unsortiert - weil eine KI-Antwort fertig aussieht, auch wenn sie es nicht ist.
+
+Folge fuer einen Workflow pro Tag - Der 15-Minuten-Vorsprung.
+
+Quelle: Glean Work AI Institute, "Work AI Index 2026", veroeffentlicht 29.07.2026, n=6.000. Stand: 11.09.2026.
+
+#kiimjob #karriere #kuenstlicheintelligenz

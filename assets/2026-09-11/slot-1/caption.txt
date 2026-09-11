@@ -1,0 +1,17 @@
+11 Stunden pro Woche spart dir KI. 6,4 davon gehen wieder drauf - fuers Pruefen.
+
+Das Glean Work AI Institute hat 6.000 Vollzeit-Digitalarbeiter in den USA, Grossbritannien und Australien befragt. Ergebnis: KI spart im Schnitt rund 11 Stunden Arbeit pro Woche. 6,4 Stunden gehen fuer "Botsitting" zurueck - Kontext nachreichen, Output pruefen, Fehler debuggen, Prompts neu starten, selbstsicher-falsche Antworten aufraeumen.
+
+37 Prozent der gesamten KI-Zeit ist genau das. Nur 36 Prozent sind produktive Arbeit.
+
+Der Grund ist kein Tool-Problem. Eine KI-Antwort sieht fertig aus, egal ob sie stimmt - also pruefst du alles, statt der zwei Stellen, die wirklich wackeln.
+
+Der Workflow von heute dreht das um: vier Zeilen, die ueber jedem Prompt stehen. Die KI markiert selbst, was sie ergaenzt hat, schreibt ihre Quelle darunter und nennt ihre zwei schwaechsten Stellen. Du liest nur noch die Markierungen.
+
+Kein Tech-Wissen noetig. Einmal in die Notizen, ab morgen ueber jedem Prompt.
+
+Folge fuer einen Workflow pro Tag - Der 15-Minuten-Vorsprung.
+
+Quellen: Glean Work AI Institute, "Work AI Index 2026", veroeffentlicht 29.07.2026, n=6.000 (USA/UK/Australien). Stand: 11.09.2026.
+
+#kiimjob #karriere #kuenstlicheintelligenz

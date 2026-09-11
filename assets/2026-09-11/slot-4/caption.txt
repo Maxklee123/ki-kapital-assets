@@ -1,0 +1,15 @@
+Der Unterschied zwischen geprueft und geraten sieht in einer KI-Antwort gleich aus.
+
+Genau das kostet die 6,4 Stunden pro Woche, die der Work AI Index 2026 als Botsitting misst: Weil eine KI den belegten Satz genauso sicher schreibt wie den geratenen, pruefst du den ganzen Text statt der drei Stellen, die wirklich wackeln.
+
+Der Pruef-Kopf dreht das um. Vier Bausteine, feste Reihenfolge: markieren, Herkunft nennen, Schwachstellen benennen, bei fehlendem Kontext nachfragen statt ergaenzen.
+
+Der vollstaendige Prompt steht auf Slide 5 - zum Kopieren. Er funktioniert vor jeder Aufgabe: Protokoll aus Meeting-Notizen, Reporting-Mail aus Rohzahlen, Recherche fuer eine Vorlage.
+
+Du pruefst danach Markierungen, nicht Texte. Meist drei bis fuenf Stellen pro Antwort.
+
+Folge fuer einen Workflow pro Tag - Der 15-Minuten-Vorsprung.
+
+Quelle: Glean Work AI Institute, "Work AI Index 2026", veroeffentlicht 29.07.2026, n=6.000 (USA/UK/Australien). Stand: 11.09.2026.
+
+#kiimjob #karriere #kuenstlicheintelligenz

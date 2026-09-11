@@ -1,0 +1,13 @@
+Schreib mir STACK - du bekommst den vollstaendigen Pruef-Kopf als Vorlage zurueck.
+
+Vier Zeilen, die ueber jedem Prompt stehen: Die KI markiert selbst, was sie ergaenzt hat, nennt ihre Herkunft, benennt ihre zwei schwaechsten Stellen und fragt nach, statt zu raten.
+
+Dazu die zwei Varianten aus dem heutigen Deep-Dive: eine fuer Protokolle aus Meeting-Notizen, eine fuer Reporting-Mails aus Rohzahlen.
+
+Hintergrund ist der Work AI Index 2026: 11 Stunden KI-Zeitersparnis pro Woche, 6,4 Stunden davon gehen fuer Botsitting wieder weg.
+
+DM mit dem Wort STACK genuegt.
+
+Quelle: Glean Work AI Institute, "Work AI Index 2026", 29.07.2026, n=6.000. Stand: 11.09.2026.
+
+#kiimjob #karriere #kuenstlicheintelligenz

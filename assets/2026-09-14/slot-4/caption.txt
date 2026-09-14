@@ -1,0 +1,22 @@
+Eine Vorlage schlaegt zehn gute Prompts. Der Unterschied sind vier Zeilen.
+
+Ein guter Prompt loest eine Aufgabe einmal. Eine Vorlage loest dieselbe Aufgabe jede Woche - und liefert jede Woche dasselbe Format. Das ist der ganze Unterschied zwischen KI benutzen und mit KI arbeiten.
+
+Vier Zeilen braucht jeder Eintrag:
+
+ROLLE - wer die KI sein soll. Ein Satz, kein Lebenslauf.
+INPUT - was du jedes Mal mitlieferst. Immer dieselben Felder.
+FORMAT - wie das Ergebnis aussieht. Ueberschriften, Reihenfolge, Tabelle.
+LAENGE - die harte Obergrenze. Sonst wird es jede Woche laenger.
+
+Der vollstaendige Prompt zum Anwenden steht auf Slide 5. Der Trick darin ist die [ANNAHME]-Markierung: die KI muss jede Stelle kennzeichnen, an der sie geraten hat. Das sind genau die Stellen, an denen deiner Vorlage noch eine Angabe fehlt.
+
+So wird die Vorlage jede Woche schaerfer, ohne dass du dafuer etwas lernen musst.
+
+Zur Einordnung: 24 Prozent der Berufstaetigen geben fehlende KI-Richtlinien als Grund an, KI im Job gar nicht erst zu nutzen. Eine eigene Vorlage ist keine Richtlinie - aber sie ist das, was du ohne Freigabe schon mal festhalten kannst.
+
+Folge fuer einen Workflow pro Tag - Der 15-Minuten-Vorsprung.
+
+Quellen: Universitaet Konstanz, Konstanzer KI-Studie Welle 3, Befragung Mai 2026, n = 1.105, veroeffentlicht 08.09.2026 (PM Nr. 83/2026). Tieto Austria / TQS Research & Consulting, n = 795 Berufstaetige in Oesterreich, veroeffentlicht 09.09.2026. Stand: 14.09.2026.
+
+#kiimjob #karriere #kuenstlicheintelligenz

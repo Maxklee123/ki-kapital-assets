@@ -1,0 +1,25 @@
+KI im Job nutzen, ohne dass sie jemand eingefuehrt hat: 45 Prozent machen genau das.
+
+Die Universitaet Konstanz hat fuer die dritte Welle ihrer KI-Studie 1.105 Beschaeftigte befragt. 49 Prozent in Buero- und Wissensarbeit nutzen KI im Job, in produktionsnahen Taetigkeiten sind es 25 Prozent. Aber nur 55 Prozent der Nutzenden berichten, dass ihr Arbeitgeber KI offiziell eingefuehrt hat.
+
+In kleinen Organisationen ist die Luecke noch groesser: 11 Prozent bieten KI-Trainings an, 10 Prozent haben verbindliche Regeln.
+
+Das heisst im Alltag: Du tippst jeden Montag neu. Gleiche Aufgabe, anderer Prompt, anderes Ergebnis. Nicht weil du zu wenig kannst, sondern weil dir niemand eine Vorlage gegeben hat.
+
+Die Prompt-Bibliothek ist die Vorlage, die du dir selbst gibst - fuenf Eintraege, einmal 15 Minuten:
+
+01 Fuenf Aufgaben notieren, die du jede Woche mindestens einmal machst.
+02 Je Aufgabe vier Zeilen schreiben: ROLLE, INPUT, FORMAT, LAENGE.
+03 Alle fuenf in EINE Notiz, Ueberschrift je Aufgabe.
+04 Eine Woche nur benutzen und nachschaerfen. Nichts Neues aufnehmen.
+05 Die Notiz einmal im Team zeigen. Ab da ist sie ein Standard, kein Geheimnis.
+
+Schritt 05 ist der Karriereteil. Alles davor spart dir Zeit, erst 05 macht die Arbeit sichtbar.
+
+Der fertige Prompt steht auf Slide 6.
+
+Folge fuer einen Workflow pro Tag - Der 15-Minuten-Vorsprung.
+
+Quellen: Universitaet Konstanz, Konstanzer KI-Studie Welle 3, Befragung Mai 2026, n = 1.105, veroeffentlicht 08.09.2026 (PM Nr. 83/2026). Tieto Austria / TQS Research & Consulting, n = 795 Berufstaetige in Oesterreich, veroeffentlicht 09.09.2026. Stand: 14.09.2026.
+
+#kiimjob #karriere #kuenstlicheintelligenz

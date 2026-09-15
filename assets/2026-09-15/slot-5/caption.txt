@@ -1,0 +1,24 @@
+Der Prompt, der deine Berufserfahrung im Job sichtbar macht. Einmal schreiben, jede Woche benutzen.
+
+Das Problem ist nicht die KI, es ist der Nachweis. Du entscheidest jeden Tag Dinge, die niemand mitschreibt.
+
+Randstad hat 35,8 Millionen Stellenanzeigen ausgewertet: Beschaeftigte mit nachgewiesener KI-Kompetenz steigen 3,5-mal schneller auf, mit Gehaltsaufschlaegen bis 25 Prozent. Nachgewiesen ist das Wort, an dem es haengt.
+
+Der Prompt steht vollstaendig auf Slide 5. Er macht aus einer Aufgabe, die du sowieso erledigst, ein Dokument, das deine Pruefkriterien zeigt:
+
+ROLLE: Du bist mein Entwurfshelfer. Ich bin [Rolle] und mache diese Aufgabe seit [X] Jahren.
+AUFGABE: [Aufgabe in einem Satz]
+INPUT: [Text, Zahlen oder Mail hier einfuegen]
+PRUEFE deinen Entwurf gegen genau diese drei Kriterien - meine, nicht deine: 1. [Kriterium] 2. [Kriterium] 3. [Kriterium]
+FORMAT: Erst der Entwurf. Danach eine Tabelle mit drei Zeilen: Kriterium, erfuellt ja/nein, was ich selbst pruefen muss.
+LAENGE: Entwurf hoechstens [N] Woerter.
+
+Die Tabelle ist dein Nachweis. Einmal die Woche in eine Notiz kopieren. Nach vier Wochen legst du im Jahresgespraech kein Gefuehl vor, sondern eine Liste mit Datum.
+
+Die Zeitersparnis ueberzeugt dich. Die Pruefliste ueberzeugt deinen Chef.
+
+Folge fuer einen Workflow pro Tag.
+
+Randstad Age of Augmentation, 35,8 Mio. Stellenanzeigen weltweit, davon 2,4 Mio. in Deutschland, veroeffentlicht 02.06.2026. Stand: 15.09.2026.
+
+#kiimjob #karriere #prompt

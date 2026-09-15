@@ -1,0 +1,23 @@
+Du bist nicht zu spaet dran mit KI im Job. Du bist zu leise.
+
+Du triffst jeden Tag Entscheidungen, die niemand mitschreibt. Im Jahresgespraech hast du dafuer kein Dokument, nur ein Gefuehl - und ein Gefuehl steht in keiner Beurteilung.
+
+Die Zahl dahinter: 79 Prozent der KI-Stellenanzeigen wollen Berufserfahrung, nur 6 Prozent sind Einstiegsjobs. Gefragt ist nicht das Tool. Gefragt ist das Urteil.
+
+Nachgewiesen heisst aufgeschrieben. KI schreibt den Entwurf, du lieferst die Kriterien, gegen die er geprueft wird.
+
+In 15 Minuten:
+
+01 Eine heikle Aufgabe waehlen, die du gut kannst.
+02 Drei Pruefkriterien aufschreiben, die du im Kopf hast.
+03 Kriterien in den Prompt, unter der Ueberschrift PRUEFE.
+04 KI entwirft, du pruefst nur noch gegen die drei.
+05 Die Pruefliste einmal im Team zeigen.
+
+Nicht lauter arbeiten. Sichtbar arbeiten.
+
+Folge fuer einen Workflow pro Tag.
+
+Quellen: XING-Stellenmarktanalyse, rund 120.000 KI-bezogene Stellenanzeigen Januar 2022 bis Juli 2026, veroeffentlicht 08.09.2026. Stand: 15.09.2026.
+
+#kiimjob #karriere #prompt

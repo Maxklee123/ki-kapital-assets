@@ -1,0 +1,23 @@
+KI im Job und Berufserfahrung: 79 Prozent der KI-Stellen wollen Erfahrene. Nur 6 Prozent sind Einstiegsjobs.
+
+XING hat rund 120.000 KI-bezogene Stellenanzeigen ausgewertet, Januar 2022 bis Juli 2026. 79 Prozent richten sich an Berufserfahrene. 6 Prozent sind Einstiegspositionen, 11 Prozent gehen an Studierende und Praktikanten.
+
+Und der Markt sucht keine KI-Profis: nur 2 Prozent der Anzeigen suchen Prompt Engineers. Bei PwC kommen auf jede Entwicklerrolle sieben Anwenderrollen.
+
+Gesucht wird also nicht, wer KI baut. Gesucht wird, wer weiss, was rauskommen muss. Das weisst du - du schreibst es nur nirgends auf.
+
+Die Erfahrungs-Uebersetzung, einmal 15 Minuten:
+
+01 Eine Aufgabe waehlen, die du nur deshalb gut machst, weil du den Laden kennst. Nicht die schnellste, die heikelste.
+02 Drei Saetze aufschreiben, die du dabei im Kopf pruefst. Das ist dein Urteil, nicht dein Handgriff.
+03 Diese drei Saetze als Pruefliste in den Prompt schreiben, unter der Ueberschrift PRUEFE.
+04 KI schreibt den Entwurf. Du gehst nur noch die Pruefliste durch und korrigierst, was sie reisst.
+05 Die Pruefliste einmal im Team zeigen. Ab da ist dein Urteil dokumentiert.
+
+Schritt 05 ist der Karriereteil. Alles davor spart Zeit, erst 05 macht die Arbeit sichtbar.
+
+Folge fuer einen Workflow pro Tag - Der 15-Minuten-Vorsprung.
+
+Quellen: XING-Stellenmarktanalyse, rund 120.000 KI-bezogene Stellenanzeigen Januar 2022 bis Juli 2026, veroeffentlicht 08.09.2026. PwC AI Jobs Barometer 2026, ueber 1 Milliarde Stellenanzeigen aus 27 Laendern, veroeffentlicht 19.06.2026. Stand: 15.09.2026.
+
+#kiimjob #karriere #berufserfahrung

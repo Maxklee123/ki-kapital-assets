@@ -1,0 +1,23 @@
+Der Prompt, den du nur einmal schreibst - und ab dann jede Woche einsetzt.
+
+Warum das der Punkt ist: 1,81 von 2,17 gesparten Stunden gehen jede Woche fuers Prompten und Kontrollieren drauf. Deshalb bleiben netto 22 Minuten. Nicht weil KI nichts kann, sondern weil du jedes Mal von vorn anfaengst.
+
+Was ein wiedervorlagefaehiger Prompt braucht:
+
+01 Eine konkrete Rolle, nicht "du bist Experte".
+02 Das Ausgabeformat, wortwoertlich.
+03 Ein echtes Beispiel aus deinem letzten Fall.
+04 Drei Pruefsaetze unter der Ueberschrift PRUEFE.
+05 Eine Leerstelle [HIER EINSETZEN] fuer den Fall dieser Woche.
+
+Die drei Pruefsaetze sind der eigentliche Wert. Sie sind das, was du weisst und die KI nicht: woran du merkst, dass ein Ergebnis in deinem Haus nicht durchgeht.
+
+Der Prompt zum Kopieren steht auf Slide 5.
+
+Einmal 15 Minuten. Danach 30 Sekunden pro Woche. Die Ersparnis schenkt dir die KI, den Aufwand bezahlst du selbst - und nur den kannst du senken.
+
+Folge fuer einen Workflow pro Tag.
+
+Quelle: YouGov im Auftrag von Notion, 2.067 Beschaeftigte im deutschen Privatsektor in computergestuetzten Positionen, davon 1.554 KI-Nutzer. Erhebung 09.-19.06.2026, veroeffentlicht 15.09.2026. Stand: 16.09.2026.
+
+#kiimjob #karriere #prompt

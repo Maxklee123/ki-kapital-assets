@@ -1,0 +1,23 @@
+2 Stunden die Woche spart dir KI. 1 Stunde 49 nimmt sie dir wieder ab. Netto bleiben 22 Minuten.
+
+YouGov hat fuer Notion 2.067 Beschaeftigte im deutschen Privatsektor befragt, 1.554 davon nutzen KI im Job. Gespart: 2,17 Stunden pro Woche. Aufgewendet fuers Prompten und Kontrollieren: 1,81 Stunden. Uebrig: 22 Minuten die Woche, 17,2 Stunden im Jahr.
+
+Der Grund ist nicht, dass du schlecht promptest. Der Grund ist, dass du jedes Mal bei null anfaengst: neue Aufgabe, neuer Prompt, neue Kontrolle. Der Aufwand faellt jedes Mal komplett an, die Ersparnis zaehlt nur einmal.
+
+Die Loesung ist nicht besser prompten. Sie ist seltener prompten.
+
+Der Wiedervorlage-Prompt, einmal 15 Minuten:
+
+01 Die Aufgabe waehlen, die jede Woche wiederkommt. Nicht die groesste, die wiederkehrende.
+02 Den Prompt einmal ausschreiben, mit einem echten Beispiel von letzter Woche.
+03 Drei Pruefsaetze anhaengen, unter der Ueberschrift PRUEFE. Das ist die Kontrolle, die du sonst jedes Mal von Hand machst.
+04 Als Textbaustein ablegen. Notizen-App, Outlook-Schnellbaustein, Signatur - Hauptsache ein Klick.
+05 Naechste Woche nur noch den Fall dieser Woche einsetzen.
+
+Die Ersparnis von 2,17 Stunden schenkt dir die KI. Die 1,81 Stunden Aufwand bezahlst du selbst - und das ist die einzige Zeile der Rechnung, die du bewegen kannst.
+
+Folge fuer einen Workflow pro Tag - Der 15-Minuten-Vorsprung.
+
+Quelle: YouGov im Auftrag von Notion, 2.067 Beschaeftigte im deutschen Privatsektor in computergestuetzten Positionen, davon 1.554 KI-Nutzer. Erhebung 09.-19.06.2026, veroeffentlicht 15.09.2026. Stand: 16.09.2026.
+
+#kiimjob #karriere #prompt

@@ -1,0 +1,19 @@
+Der Prompt, der deine Aufgaben in zwei Spalten sortiert: was du abgeben kannst - und was dein Job ist.
+
+KI im Job und Prompt zum Kopieren: 42,8 Prozent der Menschen mit sehr guten KI-Kenntnissen halten ihren Job fuer ersetzbar, mit sehr geringen nur 6,2 Prozent. Der Unterschied ist nicht die Lage, sondern wer hinsieht. Dieser Prompt macht das Hinsehen zur Fuenfzehn-Minuten-Aufgabe.
+
+Vorbereitung, drei Minuten: Kalender der letzten Woche oeffnen und zehn Aufgaben roh abschreiben. Nicht bewerten. Nichts weglassen, was sich klein anfuehlt - die kleinen Wiederholer sind der Punkt.
+
+Dann dieser Prompt:
+
+Du bist mein Sparringspartner fuer Aufgabenanalyse. Hier sind zehn Aufgaben aus meiner letzten Arbeitswoche: [LISTE]. Sortiere jede Aufgabe in genau eine Spalte. E = das Ergebnis ist ein Dokument (Text, Tabelle, Folie, Mail). M = das Ergebnis ist eine Entscheidung, eine Zusage oder ein Gespraech. Schreibe zu jeder E-Aufgabe EINEN Pruefsatz: Woran erkenne ICH, dass das Ergebnis gut ist? PRUEFE zum Schluss: Steht jede Aufgabe in genau einer Spalte? Ist jeder Pruefsatz nachpruefbar und nicht allgemein? Nenne die eine E-Aufgabe, bei der sich der Anfang am meisten lohnt, und begruende in einem Satz.
+
+Der PRUEFE-Blockeistenicht Deko. Er ersetzt die Kontrolle, die du sonst jedes Mal von Hand machst.
+
+Danach: M-Spalte in die Notizen - das ist die Liste, mit der du im Jahresgespraech argumentierst. Oberste E-Aufgabe diese Woche einmal mit KI machen. Pruefsatz aufheben.
+
+Folge fuer einen Workflow pro Tag.
+
+Quelle: KI-Monitor 2026, TU Darmstadt (Projektleitung Peter Buxmann) mit YouGov, 2.133 Befragte ab 16 Jahren in Deutschland, Erhebung 09.-12.03.2026, veroeffentlicht Anfang September 2026. Stand: 17.09.2026.
+
+#kiimjob #prompt #karriere

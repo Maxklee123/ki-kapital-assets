@@ -1,0 +1,11 @@
+Schreib mir STACK - du bekommst die Aufgaben-Inventur als fertige Vorlage.
+
+KI im Job und Prompt-Vorlage: Die Zwei-Spalten-Tabelle, der Sortier-Prompt zum Kopieren und der PRUEFE-Block, der die Kontrolle ersetzt, die du sonst jedes Mal von Hand machst.
+
+Hintergrund ist der KI-Monitor 2026 der TU Darmstadt: 42,8 Prozent mit sehr guten KI-Kenntnissen halten ihren Job fuer ersetzbar, mit sehr geringen nur 6,2 Prozent. Die Vorlage macht aus dieser Zahl eine Liste, mit der man arbeiten kann.
+
+Ein Wort per DM genuegt: STACK
+
+Quelle: KI-Monitor 2026, TU Darmstadt (Projektleitung Peter Buxmann) mit YouGov, 2.133 Befragte ab 16 Jahren in Deutschland, Erhebung 09.-12.03.2026, veroeffentlicht Anfang September 2026. Stand: 17.09.2026.
+
+#kiimjob #prompt #karriere

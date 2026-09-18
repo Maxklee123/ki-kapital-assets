@@ -1,0 +1,19 @@
+Du machst die Arbeit, die deine Software machen sollte. Jeden Tag.
+
+Kopieren, umformatieren, nochmal eingeben: 22 % der Befragten verbringen damit mindestens 7 Stunden pro Woche. Fast ein ganzer Arbeitstag.
+
+Das Aergerliche daran: es ist jede Woche dieselbe Uebersetzung. Nur machst du sie jedes Mal neu von Hand.
+
+Die vier Schritte der Format-Bruecke:
+1) Eine Woche mitschreiben - WOHER, WOHIN, WAS.
+2) Die haeufigste Zeile nehmen. Nur die eine.
+3) Rohtext aus System A und fertigen Eintrag aus System B als Muster in den Prompt.
+4) Drei eigene Pruefsaetze anhaengen, dann als Textbaustein ablegen.
+
+Ab naechster Woche tauschst du nur noch den Rohtext.
+
+Quelle: Workday / The Harris Poll, "The Copy/Paste Economy", Befragung 02.-24.03.2026, n=6.100 Beschaeftigte weltweit (davon 200 in Deutschland), Finanz-, HR-, IT- und Operations-Rollen in Organisationen ab 500 Mitarbeitenden. Stand 18.09.2026.
+
+Folgen fuer einen Workflow pro Tag.
+
+#kiimjob #arbeitsalltag #produktivitaet

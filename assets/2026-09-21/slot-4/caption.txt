@@ -1,0 +1,19 @@
+Der Prompt, der deinen Entwurf auseinandernimmt - 15 Minuten vor dem Senden.
+
+Für jeden Text, den jemand genehmigen muss: Vorschlag an die Führungskraft, Angebot an den Kunden, Konzept fürs Projektteam.
+
+Die Regel: erst dein Entwurf, dann die KI. Wer die KI zuerst schreiben lässt, verteidigt im Meeting fremde Sätze.
+
+Der Prompt (Slide 5 zum Abschreiben):
+
+ROLLE: Du bist [Rolle des Lesers]. Dein Interesse: [Budget halten / Risiko vermeiden / Termin].
+AUFGABE: Lies den Text unten. Nenne die fünf Einwände, die du im Meeting bringen würdest, sortiert nach Wahrscheinlichkeit.
+AUSGABE: Je Einwand eine Zeile: Einwand - warum er trifft - was ihn entkräftet.
+PRÜFE: 1) Keine Lobsätze. 2) Keine Einwände, die der Text schon beantwortet. 3) Mindestens einer muss unbequem sein.
+TEXT: [dein Entwurf]
+
+Nur drei Einwände einbauen. Fünf lesen sich wie eine Rechtfertigung.
+
+Ein Workflow pro Tag: folgen.
+
+#KIimJob #Prompt #Arbeitsalltag

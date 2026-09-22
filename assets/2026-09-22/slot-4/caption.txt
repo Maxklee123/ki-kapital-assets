@@ -1,0 +1,21 @@
+Ein Satz pro Aufgabe. Das ist dein ganzer Nachweis.
+
+71 % der Berufstätigen sagen: KI fördert eher das schnelle Lösen als den Aufbau eigener Kompetenz. Genau deshalb braucht die Nutzung eine Nachbereitung - und die dauert 15 Minuten.
+
+Der Trick ist die Rolle. Setz die KI nicht auf deinen Stuhl, sondern auf den deiner Führungskraft. Der Text wird härter gegen dich und dadurch brauchbar.
+
+Der vollständige Prompt:
+
+ROLLE: Du bist meine Führungskraft im Jahresgespräch. Du bist wohlwollend, aber skeptisch.
+AUFGABE: Unten stehen drei Aufgaben, die ich diese Woche mit KI gelöst habe.
+AUSGABE: Pro Aufgabe genau ein Satz - Ergebnis, gesparte Zeit, die Fähigkeit, die ich dabei aufgebaut habe.
+PRÜFE: Streiche jeden Satz, der kein überprüfbares Ergebnis nennt. Kein Eigenlob, keine Adjektive, keine Fachwörter, die ich nicht erklären kann.
+TEXT: [deine drei Aufgaben]
+
+Und dann streichst du selbst noch einmal: alles mit „effizienter", alles ohne Zahl, alles, was die KI gemacht hat und nicht du.
+
+Quelle: Bitkom Weiterbildungsstudie 2026 (Bitkom Research mit der Bitkom Akademie). Online befragt wurden 1.275 Berufstätige — darunter 1.108 Arbeitnehmerinnen und Arbeitnehmer — sowie 84 Unternehmensleitungen in Deutschland, KW 17 bis 22/2026, veröffentlicht 17.09.2026. Die Befragung ist nicht repräsentativ.
+
+Ein Workflow pro Tag: folgen.
+
+#KIimJob #Prompt #Karriere

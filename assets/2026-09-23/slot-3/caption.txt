@@ -1,0 +1,22 @@
+Speicher diesen Prompt, bevor du ihn brauchst. Im naechsten Meeting ist es zu spaet.
+
+Dein Meeting ist vorbei. Das Protokoll schreibt sich nicht von selbst — und wer es schreibt, bestimmt, was beschlossen wurde.
+
+27 % der Erwerbstaetigen nutzen die KI, die im Betrieb schon bereitsteht. Weitere 11 % haben den Zugang und lassen ihn liegen. Das Protokoll ist der beste erste Fall: Rohnotizen rein, Struktur raus, kein Fachwissen noetig.
+
+Die vier Zeilen, die du ins KI-Fenster kopierst:
+
+1. Rolle: Du bist Protokollfuehrer. Ich gebe dir meine Rohnotizen aus einer Besprechung.
+2. Sortiere sie in drei Bloecke: Entscheidungen, offene Punkte, Aufgaben mit Name und Frist.
+3. Markiere jeden Punkt ohne klaren Zustaendigen mit UNGEKLAERT. Erfinde nichts dazu.
+4. Schliesse mit drei Fragen, die ich vor dem Versenden klaeren muss.
+
+Schritt 3 ist der wichtigste: Er macht sichtbar, was im Termin offen geblieben ist, statt es glattzubuegeln.
+
+Die ehrliche Grenze: Die KI kennt nur, was in deinen Notizen steht. Sie ersetzt nicht das Zuhoeren — sie ersetzt das Abtippen.
+
+Quelle: Bitkom-Befragung zu KI am Arbeitsplatz. Telefonisch befragt wurden 1.003 Personen ab 16 Jahren in Deutschland, darunter 550 Erwerbstaetige, KW 8 bis 11/2026, veroeffentlicht am 11.05.2026.
+
+Speicher das. Ohne den Wortlaut nuetzt dir die Reihenfolge nichts.
+
+#KIimJob #Meetingprotokoll #Promptvorlage

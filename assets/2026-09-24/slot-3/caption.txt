@@ -1,0 +1,22 @@
+Speicher diesen Prompt, bevor du ihn brauchst. Montag ist es zu spaet.
+
+Du weisst nicht, welche deiner Aufgaben zuerst automatisiert wird. Und solange du es nicht weisst, bleibt die Sorge ein Gefuehl statt einer Entscheidung.
+
+Die Studie liefert das Kriterium gleich mit: Nicht die Branche entscheidet, sondern ob dein Arbeitsergebnis digital ist - Texte, Analysen, Berichte, Praesentationen. 43 % der Menschen mit sehr gutem KI-Wissen rechnen damit, dass KI ihre Arbeit bald uebernimmt. Nur 15 % haben je eine KI-Weiterbildung gemacht.
+
+Dazwischen liegen 15 Minuten Arbeit. Das hier ist die Vorlage:
+
+1. Rolle: Du bist Arbeitsanalyst. Ich liste dir meine zehn haeufigsten Aufgaben einer normalen Woche auf.
+2. Sortiere jede Aufgabe in drei Spalten: Ergebnis digital, teils digital, nur mit mir moeglich.
+3. Nenne fuer Spalte eins je einen Arbeitsschritt, den ich ab morgen abgeben kann - ohne neues Werkzeug.
+4. Schliesse mit den drei Aufgaben aus Spalte drei, die ich sichtbarer machen sollte, und je einem Satz warum.
+
+Schritt 3 ist der entscheidende: Ohne die Auflage "ohne neues Werkzeug" bekommst du eine Wunschliste statt eines Plans fuer morgen.
+
+Die ehrliche Grenze: Die KI kennt nur die Aufgaben, die du ihr nennst. Sie sortiert deine Woche - sie kennt sie nicht.
+
+Quelle: KI-Monitor 2026, TU Darmstadt mit YouGov, mehr als 2.000 repraesentativ Befragte in Deutschland, veroeffentlicht am 28.08.2026.
+
+Speicher das. Ohne den Wortlaut nuetzt dir die Reihenfolge nichts.
+
+#KIimJob #Promptvorlage #Aufgabenliste

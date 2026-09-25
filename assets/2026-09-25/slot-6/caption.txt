@@ -1,0 +1,15 @@
+Dein Kollege ist im Job nicht schneller als du. Er fragt die KI besser.
+
+KI-Kompetenz im Arbeitsalltag zeigt sich nicht daran, dass du ChatGPT kennst. Sie zeigt sich daran, dass niemand deine Ergebnisse nachkontrollieren muss.
+
+Im deutschen Buero gehen 6,4 Stunden pro Woche fuers Nachkontrollieren von KI-Ausgaben drauf. Diese Zeit steht in keiner Stellenbeschreibung.
+
+Nur 15 Prozent der Firmen bauen ihre Ablaeufe dafuer um. Den Rest macht der einzelne Angestellte - oder er macht ihn nicht.
+
+KI ersetzt keine Angestellten. Sie ersetzt die, die fuenfmal nachfragen. Du brauchst kein Informatikstudium, du brauchst vier Zeilen Kontext.
+
+Folge fuer einen Workflow pro Tag - Der 15-Minuten-Vorsprung.
+
+Quelle: AWS/Strand, AI Potential Germany 2026, 16.07.2026.
+
+#KIimJob #Prompt #Arbeitsalltag

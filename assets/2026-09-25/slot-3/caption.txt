@@ -1,0 +1,19 @@
+Prompt fuer die Report-Auswertung: vier Bausteine, eine Runde, fertig.
+
+KI im Job scheitert selten an der KI. Es fehlt der Kontext - und du fragst fuenfmal nach.
+
+Von 2,17 gesparten Stunden pro Woche gehen 1,81 Stunden fuers Prompten und Nachpruefen wieder weg.
+
+Die vier Bausteine, die in EINEN Prompt gehoeren:
+1. ROLLE - "Du bist Controller in einem Mittelstaendler."
+2. MATERIAL - Zahlen und Zeitraum mit reinkopieren.
+3. FORMAT - "5 Bullets, je max. 15 Woerter, Zahl zuerst."
+4. GRENZE - "Keine Empfehlung. Nur Auffaelligkeiten."
+
+Wer alle vier reinschreibt, ist nach einer Runde fertig. Das ist der ganze Unterschied zum Kollegen, der schneller wirkt.
+
+Folge fuer einen Workflow pro Tag - Der 15-Minuten-Vorsprung.
+
+Quelle: Notion/YouGov, 15.09.2026, n=2.067 Angestellte in Deutschland.
+
+#KIimJob #Prompt #Arbeitsalltag

@@ -1,0 +1,66 @@
+{
+ "slot-1": {
+  "zeit": "09:00",
+  "format": "Story",
+  "files": [
+   "story_1_2026-09-27.jpg"
+  ],
+  "photo": 12899095
+ },
+ "slot-2": {
+  "zeit": "10:00",
+  "format": "Reel A",
+  "frames": [
+   "frame_01.jpg",
+   "frame_02.jpg",
+   "frame_03.jpg",
+   "frame_04.jpg",
+   "frame_05.jpg",
+   "frame_06.jpg"
+  ],
+  "photo": 5439455
+ },
+ "slot-3": {
+  "zeit": "12:00",
+  "format": "Karussell",
+  "files": [
+   "slide_01.jpg",
+   "slide_02.jpg",
+   "slide_03.jpg",
+   "slide_04.jpg",
+   "slide_05.jpg",
+   "slide_06.jpg",
+   "slide_07.jpg"
+  ],
+  "photo": 5704728
+ },
+ "slot-4": {
+  "zeit": "15:00",
+  "format": "Story",
+  "files": [
+   "story_4_2026-09-27.jpg"
+  ],
+  "photo": 9034280
+ },
+ "slot-5": {
+  "zeit": "20:00",
+  "format": "Story",
+  "files": [
+   "story_5_2026-09-27.jpg"
+  ],
+  "photo": 3183170
+ },
+ "slot-6": {
+  "zeit": "21:00",
+  "format": "Reel C",
+  "frames": [
+   "frame_01.jpg",
+   "frame_02.jpg",
+   "frame_03.jpg",
+   "frame_04.jpg",
+   "frame_05.jpg",
+   "frame_06.jpg"
+  ],
+  "photo": 2102416
+ }
+}

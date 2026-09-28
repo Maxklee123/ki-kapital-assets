@@ -1,0 +1,19 @@
+Speicher diesen Prompt, bevor du ihn brauchst. Montag früh suchst du ihn nicht mehr.
+
+Montags liest du erst mal alles. Falsche Reihenfolge - so sortiert KI deine Inbox vor.
+
+45 Prozent der KI-Nutzenden haben ihr Tool selbst mitgebracht, ohne Einführung durch den Arbeitgeber. Also ist das hier deine Einführung.
+
+Der Montags-Triage-Prompt, vier Bausteine, einmal einsetzen:
+1. ROLLE: "Du bist mein Assistent für E-Mail-Triage."
+2. MATERIAL: "Hier Betreff + erste 3 Zeilen von 40 Mails: ..."
+3. FORMAT: "Vier Stapel: HEUTE / WOCHE / DELEGIEREN / EGAL."
+4. GRENZE: "Max. 8 Wörter Begründung je Mail. Kein Antworttext."
+
+Er entscheidet nichts. Er ordnet, du gehst die vier Stapel durch - und der erste Termin am Montag beginnt nicht mit Scrollen.
+
+Ohne den Prompt sitzt du nächsten Montag wieder vor der vollen Inbox und formulierst frei. Genau dann, wenn die Zeit fehlt.
+
+Quelle: Konstanzer KI-Studie 2026, Universität Konstanz (Kunze/Opitz/Gerdiken), veröffentlicht 08.09.2026. Repräsentative Befragung von 1.105 Beschäftigten in Deutschland, Feldzeit Mai 2026.
+
+#KIimJob #EMail #Produktivität

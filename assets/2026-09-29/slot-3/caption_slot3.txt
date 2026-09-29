@@ -1,0 +1,18 @@
+15 Minuten, eine Seite: So belegst du, was KI dir im Job abnimmt.
+KI im Berufsalltag sichtbar machen - ohne anzugeben, ohne Technikwissen.
+
+Das Problem ist nicht, dass du KI nicht nutzt. Das Problem ist, dass es niemand sieht.
+
+Die Vorsprung-Notiz repariert das. Der Prompt, woertlich: "Ich bin [Rolle]. Diese Aufgabe mache ich jede Woche von Hand: [Aufgabe]. Zerlege sie in Schritte, sag mir, welche du uebernimmst, und schaetze die Minuten pro Schritt."
+
+Vier Schritte: drei Fleissarbeiten der letzten Woche notieren, jede einzeln durch den Prompt schicken, Minuten vorher und nachher in zwei Spalten daneben, im naechsten Jour fixe als Vorschlag zeigen.
+
+Als Vorschlag, nicht als Erfolg. Das ist der Unterschied zwischen angeben und unersetzbar werden.
+
+Was die Kompetenz wert ist: Kundenservice mit KI-Kenntnissen liegt bei 37.000 statt 30.000 Euro, plus 23 Prozent.
+
+Quelle: Randstad, Auswertung von 2,4 Mio. deutschen Stellenanzeigen, 01.07.2026.
+
+Folge fuer einen Workflow pro Tag.
+
+#kiimjob #prompts #karriere

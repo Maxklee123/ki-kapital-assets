@@ -1,0 +1,15 @@
+Speicher diesen Prompt, bevor du ihn Montag brauchst.
+
+Du liest jede KI-Antwort zweimal - obwohl drei Zeilen reichen würden. Du musst sie nur anfordern.
+
+Der Prüfspur-Zusatz, wörtlich zum Anhängen: „Markiere jede Aussage, die du nicht aus meinen Unterlagen belegen kannst, mit [UNGEPRÜFT]. Nenne darunter in drei Zeilen, was ich prüfen muss und woran ich es erkenne."
+
+Vier Schritte: Aufgabe stellen wie immer, ein Satz. Den Zusatz wörtlich darunter setzen. Nur die markierten Stellen prüfen, nichts sonst. Die drei Prüfzeilen als Freigabe-Notiz behalten.
+
+Der Unterschied: Die Kontrolle steckt danach in der Antwort, nicht in deinem Kopf. Du prüfst drei markierte Stellen statt zwei Seiten.
+
+6,4 Stunden pro Woche gehen im Schnitt fürs Nachprüfen drauf. Das ist der Posten, den dieser eine Satz angreift.
+
+Quelle: Glean Work AI Institute, 6.000 Wissensarbeiter, Juni 2026.
+
+#kiimjob #prompt #arbeitsalltag

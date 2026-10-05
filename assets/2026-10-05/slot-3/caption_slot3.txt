@@ -1,0 +1,24 @@
+Speicher diesen Prompt, bevor du ihn brauchst.
+
+Aus einem Tabellen-Export wird eine Empfehlung - in vier Schritten, ohne Technikwissen.
+
+KI im Büro, Prompt für Auswertungen: Du bekommst den Monatsexport, liest ihn zweimal und gehst trotzdem ohne Satz ins Meeting. Der Fehler steckt im Auftrag: "Fass das zusammen" erzeugt eine Zusammenfassung - und die musst du nochmal lesen.
+
+Lass stattdessen bewerten:
+
+1. Rohdaten einfügen: "Hier ist der Export, ungefiltert."
+2. Rolle: "Du bist mein Controller, nicht mein Assistent."
+3. Auftrag: "Drei Auffälligkeiten, je eine Zahl, je ein Satz - dann deine Empfehlung."
+4. Härtetest: "Welche Zahl würde deine Empfehlung kippen?"
+
+Schritt 4 ist der, den alle weglassen. Er ist der Grund, warum du die Empfehlung im Meeting verteidigen kannst, ohne ins Schwimmen zu geraten.
+
+28 Prozent der Beschäftigten sparen mit KI einen Arbeitstag pro Woche. Der Rest nutzt sie genauso - nur ohne Auftrag.
+
+Wer mit einer Empfehlung ins Meeting geht, führt es auch.
+
+Speicher das. Montag um 9 ist dieser Prompt nicht mehr zu finden.
+
+Quelle: BCG Arbeitswelt-Studie 2026, 03.06.2026, n=917 (DE)
+
+#kiimjob #kuenstlicheintelligenz #karriere

@@ -1,0 +1,18 @@
+Dein Chef erinnert sich an 3 von 52 Wochen. Das entscheidet dein Jahresgespraech.
+KI Prompt fuer Wochenrueckblick und Jahresgespraech - 15 Minuten, jeden Freitag.
+
+Du lieferst das ganze Jahr. Erinnert wird, was zuletzt aufgefallen ist. Das ist kein Leistungsproblem, das ist ein Belegproblem.
+
+Der Ablauf, immer gleich:
+01 Kalender und gesendete Mails der Woche kopieren
+02 In die KI: "Finde die 3 Ergebnisse mit echter Wirkung"
+03 Jedes in einen Satz: Aufgabe, Zahl, Folge
+04 In eine Datei "Wirkung 2026" einfuegen
+
+Nach zwoelf Wochen hast du 36 belegte Ergebnisse statt einer Erinnerung.
+
+Unersetzbar ist nicht, wer am meisten tut. Sondern wer es belegen kann.
+
+Folge mir fuer einen Angestellten-Workflow pro Tag.
+
+#KIimJob #Jahresgespraech #Produktivitaet

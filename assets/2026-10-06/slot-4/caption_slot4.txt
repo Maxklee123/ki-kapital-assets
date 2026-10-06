@@ -1,0 +1,5 @@
+STORY 15:00 - Engagement
+Weiss dein Chef, was du diese Woche geliefert hast?
+A = ja. B = ich selbst weiss es nicht mehr.
+
+CTA: Antwort als Story-Antwort, A oder B. Kein Umfrage-Sticker (per API nicht moeglich).

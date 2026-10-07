@@ -1,0 +1,6 @@
+STORY 15:00 - Engagement
+Wie viel deiner KI-Zeit geht ins Nachbessern?
+A fast nichts - B ein Drittel - C mehr als die Haelfte
+
+CTA: Antwort als DM. Verteilung wird morgen gezeigt.
+Kein Umfrage-Sticker (per API nicht moeglich) - die Interaktion steckt im Bildtext.

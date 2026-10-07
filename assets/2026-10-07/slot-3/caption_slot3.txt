@@ -1,6 +1,4 @@
-Speicher diesen Auftragsrahmen. Du brauchst ihn beim naechsten Prompt.
-1,81 Stunden pro Woche gehen ins Nachbessern - vier Zeilen davor sparen fast alles.
-
+1,81 Stunden pro Woche gehen ins Nachbessern. Vier Zeilen davor sparen fast alles.
 KI Prompt Vorlage fuer den Buero-Alltag: der Auftragsrahmen vor jedem Prompt.
 
 Nicht die KI ist schlecht. Der Auftrag war unvollstaendig. Deshalb pruefst und korrigierst du hinterher - 1,81 Stunden jede Woche (YouGov/Notion, 2.067 Beschaeftigte in Deutschland, Juni 2026).
@@ -13,6 +11,8 @@ Die vier Zeilen, immer dieselben, immer vor den eigentlichen Text:
 
 Zeile 04 ist die wichtigste. Ohne sie liest du wieder alles selbst gegen.
 
-Speicher das - am Montag im Meeting tippst du es nicht neu.
+Am Montag im Meeting ist der Unterschied sichtbar.
+
+Folge mir fuer einen Angestellten-Workflow pro Tag.
 
 #KIimJob #Prompt #Produktivitaet

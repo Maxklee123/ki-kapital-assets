@@ -1,0 +1,21 @@
+15 Minuten, und du raetst nicht mehr, ob KI deinen Job kann. Du weisst es.
+KI Ersetzbarkeits-Check fuer Angestellte - Prompt-Vorlage zum Kopieren.
+
+Unersetzbar ist kein Gefuehl. Es ist eine Liste. Und die schreibst du heute Nachmittag.
+
+Schritt null: zehn Taetigkeiten aus deiner Arbeitswoche aufschreiben. Dann diese vier Zeilen davor:
+
+01 AUFGABEN: Hier sind zehn Taetigkeiten aus meiner Arbeitswoche.
+02 SORTIERE: Was kann KI allein, was nur mit mir, was gar nicht.
+03 BEGRUENDE: Nenne je Aufgabe den Grund in einem Satz.
+04 LUECKE: Was muesste ich koennen, damit Spalte 1 zu Spalte 2 wird.
+
+Zeile 04 ist der eigentliche Punkt. Sie macht aus einer Sorge einen Weiterbildungsplan.
+
+Im KI-Monitor 2026 halten 42,8 Prozent der Befragten mit sehr hohem KI-Wissen ihren Job fuer ersetzbar - bei sehr geringem Wissen sind es 6,2 Prozent. Die erste Gruppe hat nachgesehen.
+
+Wer seine Liste kennt, diskutiert nicht mehr ueber Angst.
+
+Folge mir fuer einen Angestellten-Workflow pro Tag.
+
+#KIimJob #Prompt #Karriere

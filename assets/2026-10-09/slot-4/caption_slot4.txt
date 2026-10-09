@@ -1,0 +1,9 @@
+STORY 15:00 - Umfrage / Engagement-Trigger
+
+Frage: Wie viel Zeit frisst bei dir das Bedienen der KI? Pro Woche, ehrlich geschaetzt.
+01 Unter 30 Minuten - ich habe feste Vorlagen.
+02 1 bis 2 Stunden - ich tippe den Kontext meistens neu.
+03 Mehr - ich diskutiere mich zum Ergebnis.
+
+CTA im Bild: Antworte mit 01, 02 oder 03.
+Kein Umfrage-Sticker (per API nicht moeglich) - Interaktion steckt im Bildinhalt.

@@ -1,0 +1,21 @@
+1,81 Stunden pro Woche erklaerst du der KI, wer du bist. Jedes Mal von vorn.
+KI Prompt Vorlage Kontext - so holst du die Zeit zurueck.
+
+Jeder neue Chat faengt bei null an. Rolle, Branche, Ton, Zielgruppe, Format - du tippst es jedes Mal neu.
+
+Deshalb bleiben von 2,17 gesparten Stunden pro Woche nur 22 Minuten uebrig (Notion/YouGov 2026, 2.067 Befragte).
+
+Der Fix ist kein besseres Tool. Es ist ein Kontext-Block, den du einmal schreibst und vor jede Aufgabe setzt:
+
+01 ROLLE: Ich bin [Funktion] in [Branche], ich schreibe fuer [Zielgruppe].
+02 TON: Nuechtern, kurze Saetze, keine Floskeln, Deutsch.
+03 FORMAT: [Mail / Protokoll / Entwurf], maximal [Laenge].
+04 AUFGABE: Erst dann kommt, was heute zu tun ist.
+
+Vier Zeilen. Danach gehoert die gesparte Zeit dir statt der Eingabemaske.
+
+Die 1,81 Stunden zahlst du jede Woche - oder einmal.
+
+Folge mir fuer einen Angestellten-Workflow pro Tag.
+
+#KIimJob #Prompt #Produktivitaet

@@ -1,0 +1,23 @@
+109.400 deutsche Stellen suchen KI-Anwender. Auf deinem Lebenslauf steht dazu nichts.
+KI Kenntnisse im Lebenslauf belegen - vier Zeilen, die den Unterschied machen.
+
+"KI-Kenntnisse" als Stichwort steht inzwischen bei fast allen. Es sagt der Personalabteilung nichts und sortiert dich zurueck in den Stapel.
+
+Was zaehlt, ist der Beleg: eine Aufgabe, ein Werkzeug, ein Ergebnis, eine Zahl. Vier Zeilen, mehr braucht es nicht.
+
+01 AUFGABE: Welche wiederkehrende Aufgabe hast du mit KI geloest?
+02 WERKZEUG: Welches Werkzeug, welcher feste Prompt-Aufbau?
+03 ERGEBNIS: Was ist seither anders - schneller, einheitlicher, pruefbar?
+04 ZAHL: Eine Zahl dazu. Geschaetzt ist besser als gar keine.
+
+Beispiel: "Monatsreport fuer 14 Filialen mit festem Prompt-Aufbau standardisiert, Erstellungszeit von 4 auf 1,5 Stunden."
+
+Das liest sich in sechs Sekunden und bleibt haengen. Das Stichwort nicht.
+
+Nicht die KI steht im Lebenslauf. Was du mit ihr getan hast.
+
+Folge mir fuer einen Angestellten-Workflow pro Tag.
+
+Quelle: PwC AI Jobs Barometer 2026, Deutschland-Auswertung vom 30.06.2026.
+
+#KIimJob #Lebenslauf #Karriere

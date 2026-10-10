@@ -1,8 +1,8 @@
 STORY 09:00 - Teaser
 
-87 Prozent der KI-Stellen in Deutschland verlangen kein Programmieren.
-109.400 Anzeigen suchen Anwender, nur 15.400 suchen Entwickler.
+56 Prozent der Unternehmen in Deutschland nutzen generative KI im Arbeitsalltag.
+Geschult haben ihre Beschaeftigten nur 27 Prozent (2024: 12 Prozent).
 
 CTA im Bild: Verweis auf das Reel um 10:00.
-Quelle: PwC AI Jobs Barometer 2026 (Deutschland-Auswertung, 30.06.2026),
-rund 125.000 KI-bezogene Stellenanzeigen 2025 = 1,3 Prozent aller Anzeigen.
+Quelle: TUEV-Weiterbildungsstudie 2026, Forsa im Auftrag des TUEV-Verbands,
+rund 500 Entscheider aus Unternehmen ab 20 Mitarbeitenden, Feldzeit Januar bis Maerz 2026.

@@ -1,18 +1,20 @@
-87 Prozent der KI-Jobs in Deutschland verlangen kein Programmieren.
-KI Kenntnisse Stellenanzeigen Deutschland - PwC AI Jobs Barometer 2026.
+56 Prozent der Unternehmen nutzen KI. Beigebracht hat es dir keiner.
+KI Weiterbildung Unternehmen Deutschland - TUEV-Weiterbildungsstudie 2026.
 
-PwC hat die deutschen Stellenanzeigen von 2025 ausgezaehlt: rund 125.000 nennen KI. Das sind 1,3 Prozent aller Anzeigen, ein neuer Spitzenwert.
+Forsa hat fuer den TUEV-Verband rund 500 Entscheider aus Unternehmen ab 20 Mitarbeitenden befragt. 56 Prozent setzen generative KI im Arbeitsalltag ein.
 
-Entscheidend ist die Aufteilung. 109.400 dieser Stellen suchen jemanden, der KI anwendet. 15.400 suchen jemanden, der sie baut.
+Geschult haben ihre Beschaeftigten 27 Prozent. 2024 waren es 12 Prozent - die Zahl waechst, aber sie laeuft dem Einsatz weit hinterher.
 
-Das ist ein Verhaeltnis von sieben zu eins. Auf jeden Entwickler kommen sieben Sachbearbeiter, Projektleiter, Marketing- und HR-Leute, die das Werkzeug bedienen sollen.
+Zwischen 56 und 27 liegen 29 Punkte. In dieser Luecke sitzen die Leute, von denen KI-Nutzung erwartet wird, ohne dass es ihnen jemand gezeigt hat.
 
-Die Stelle, die irgendwann deine ersetzt, ist nicht die eines Informatikers. Es ist deine eigene Stellenbeschreibung mit einer zusaetzlichen Zeile.
+Die Haelfte der Unternehmen sieht einen hohen Weiterbildungsbedarf bei KI. Gehandelt hat gut ein Viertel. Zwischen "gesehen" und "gemacht" liegen Jahre.
 
-Unersetzbar wird nicht, wer KI baut. Sondern wer sie im eigenen Fach bedient.
+Wer darauf wartet, dass die Schulung kommt, wartet laenger als der Kollege, der angefangen hat.
+
+Unersetzbar wird, wer sich selbst beibringt, was die Firma noch plant.
 
 Folge mir fuer einen Angestellten-Workflow pro Tag.
 
-Quelle: PwC AI Jobs Barometer 2026, Deutschland-Auswertung vom 30.06.2026.
+Quelle: TUEV-Weiterbildungsstudie 2026 (Forsa/TUEV-Verband), Feldzeit Januar bis Maerz 2026.
 
-#KIimJob #Karriere #Bewerbung
+#KIimJob #Weiterbildung #Karriere

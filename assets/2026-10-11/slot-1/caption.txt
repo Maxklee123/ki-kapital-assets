@@ -1,0 +1,6 @@
+STORY 09:00 - Teaser (Stories tragen keine Caption; Text steht im Bild)
+
+Bildtext: "68 % gegen 57 %" / "Zwei Gruppen. Eine Frage: Ist mein Job sicher?"
+Kicker: HEUTE 10:00 IM REEL
+Quelle im Bild: PwC Global Workforce Hopes and Fears Survey 2026 (n=49.364, 48 Länder, Erhebung Mai/Juni 2026, dt. Berichterstattung 05.10.2026)
+Kein CTA außer dem Verweis auf das Reel um 10:00. Kein Sticker (API).

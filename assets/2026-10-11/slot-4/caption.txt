@@ -1,0 +1,7 @@
+STORY 15:00 - Engagement-Trigger (Stories tragen keine Caption; Text steht im Bild)
+
+Bildtext: "Wo stehst du heute?"
+A - Ich lese über KI. Artikel, Videos, Podcasts.
+B - Ich benutze KI. Mindestens einmal pro Woche.
+CTA im Bild: "A oder B - Antwort per DM."
+Kein Umfrage-Sticker (nicht per API möglich), Interaktion steckt im Bildinhalt.

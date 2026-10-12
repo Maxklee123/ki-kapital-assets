@@ -1,0 +1,21 @@
+1,81 Stunden pro Woche verlierst du an Nachbessern - weil du jeden Prompt neu erfindest.
+
+2,17 Stunden spart KI im Durchschnitt. 1,81 Stunden kostet ihre Nutzung und Betreuung. Übrig bleiben 22 Minuten pro Woche.
+
+Der Gegenzug ist kein neues Tool, sondern ein Prompt, den du einmal baust und danach nicht mehr anfasst. Vier Zeilen reichen - die vierte ist die wichtigste.
+
+Der Montags-Report in 4 Zeilen:
+1. ROLLE: Du bist mein Report-Assistent, ich bin Sachbearbeiter.
+2. INPUT: Hier die Rohdaten und der Report der Vorwoche.
+3. FORMAT: 5 Bullets, je max. 12 Wörter, Zahl zuerst.
+4. PRÜFUNG: Nenne jede Zahl, die du nicht aus dem Input belegen kannst.
+
+Zeile 4 ist der Grund, warum du nicht mehr nachbessern musst. Ohne sie fängt die 1,81-Stunden-Rechnung jede Woche von vorn an.
+
+Der Zeitgewinn kommt nicht vom Tool. Er kommt daraus, dass du ihn nicht jede Woche neu baust.
+
+Folge für einen Workflow pro Tag.
+
+Quelle: YouGov im Auftrag von Notion, 2.067 Beschäftigte in Deutschland, befragt 9.-19. Juni 2026.
+
+#kiimjob #prompts #reporting

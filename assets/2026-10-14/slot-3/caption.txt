@@ -1,22 +1,20 @@
-KI im Arbeitsalltag spart 2,17 Stunden pro Woche. Netto bleiben davon 22 Minuten übrig.
+KI im Job fängt nach der Besprechung an: vier Zeilen, und aus deinen Rohnotizen wird eine Aufgabenliste.
 
-Der Grund steckt in der zweiten Zahl: 1,81 Stunden pro Woche gehen fürs Prompten und fürs Prüfen der Antworten wieder weg. Notion/YouGov hat das bei 2.067 Angestellten in Deutschland gemessen.
+Niemand zeigt dir diesen Handgriff. Nur 10 % der Betriebe mit bis zu 49 Beschäftigten haben verbindliche KI-Regeln, 11 % bieten Schulungen an (Konstanzer KI-Studie 2026, n=1.105). Und 22 % der KI-Nutzer sagen, ihr Unternehmen biete kein wirksames Training (Notion/YouGov, n=2.067).
 
-Die Ursache ist banal. Die meisten tippen jeden Tag neu. Jeder Auftrag an die KI wird einmal frei formuliert, einmal nachgeschärft, einmal korrigiert.
+Also baust du den Handgriff selbst. Nimm deine Rohnotizen, so wie sie sind, und schreib diese vier Zeilen darunter:
 
-Ein fester Rahmen kostet dich einmal Zeit. Danach spart er sie jedes Mal. Vier Zeilen, immer gleich:
+1. Hier sind meine Rohnotizen aus der Besprechung.
+2. Finde jede Zusage und jede offene Frage.
+3. Tabelle: Aufgabe | wer | bis wann | Belegstelle.
+4. Markiere jede Zeile ohne klaren Zuständigen.
 
-1. ROLLE: Du bist erfahrener Sachbearbeiter in meinem Team.
-2. INPUT: Rohtext oder Zahlen einfügen, nichts erklären.
-3. FORMAT: Antworte in 5 Stichpunkten, je max. 12 Wörter.
-4. PRÜFUNG: Nenne am Ende, was du nicht belegen kannst.
+Zeile 3 macht die Liste prüfbar, weil die Belegstelle zeigt, woher jede Aufgabe kommt. Zeile 4 ist die, die auffällt: sie legt offen, was im Meeting niemand übernommen hat.
 
-Zeile 4 ist die wichtigste. Sie holt genau die Prüfzeit zurück, die die 1,81 Stunden auffrisst.
-
-Und dass dir niemand so einen Rahmen vorgibt, ist belegt: nur 10 % der Betriebe mit bis zu 49 Beschäftigten haben verbindliche KI-Regeln.
+Wer offene Zuständigkeiten sichtbar macht, führt das Meeting. Auch ohne den Titel dafür.
 
 Folge für einen Workflow pro Tag.
 
-Quellen: Notion/YouGov-Studie, n=2.067, Deutschland, Feld 09.-19.06.2026, veröffentlicht 15.09.2026. Konstanzer KI-Studie 2026, Universität Konstanz, n=1.105, Ergebnisreport September 2026.
+Quellen: Konstanzer KI-Studie 2026, Universität Konstanz, n=1.105, Ergebnisreport September 2026. Notion/YouGov-Studie, n=2.067 Angestellte, Deutschland, Feld 09.-19.06.2026, veröffentlicht 15.09.2026.
 
-#KIimJob #Prompt #Arbeitsalltag
+#KIimJob #Meeting #Arbeitsalltag

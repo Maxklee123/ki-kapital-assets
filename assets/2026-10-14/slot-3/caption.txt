@@ -1,0 +1,22 @@
+KI im Arbeitsalltag spart 2,17 Stunden pro Woche. Netto bleiben davon 22 Minuten übrig.
+
+Der Grund steckt in der zweiten Zahl: 1,81 Stunden pro Woche gehen fürs Prompten und fürs Prüfen der Antworten wieder weg. Notion/YouGov hat das bei 2.067 Angestellten in Deutschland gemessen.
+
+Die Ursache ist banal. Die meisten tippen jeden Tag neu. Jeder Auftrag an die KI wird einmal frei formuliert, einmal nachgeschärft, einmal korrigiert.
+
+Ein fester Rahmen kostet dich einmal Zeit. Danach spart er sie jedes Mal. Vier Zeilen, immer gleich:
+
+1. ROLLE: Du bist erfahrener Sachbearbeiter in meinem Team.
+2. INPUT: Rohtext oder Zahlen einfügen, nichts erklären.
+3. FORMAT: Antworte in 5 Stichpunkten, je max. 12 Wörter.
+4. PRÜFUNG: Nenne am Ende, was du nicht belegen kannst.
+
+Zeile 4 ist die wichtigste. Sie holt genau die Prüfzeit zurück, die die 1,81 Stunden auffrisst.
+
+Und dass dir niemand so einen Rahmen vorgibt, ist belegt: nur 10 % der Betriebe mit bis zu 49 Beschäftigten haben verbindliche KI-Regeln.
+
+Folge für einen Workflow pro Tag.
+
+Quellen: Notion/YouGov-Studie, n=2.067, Deutschland, Feld 09.-19.06.2026, veröffentlicht 15.09.2026. Konstanzer KI-Studie 2026, Universität Konstanz, n=1.105, Ergebnisreport September 2026.
+
+#KIimJob #Prompt #Arbeitsalltag

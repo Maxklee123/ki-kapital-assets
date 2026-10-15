@@ -1,0 +1,20 @@
+Du nutzt KI schon. Das Problem ist: niemand im Büro sieht es. Vier Zeilen ändern das.
+
+Die Chance ist belegt. Stark KI-exponierte Berufe haben zwischen 2022 und 2025 Stellen aufgebaut, plus 1 Prozent, während weniger exponierte Berufe 3 Prozent verloren haben (IAB, 22,3 Mio. Vollzeitbeschäftigte).
+
+Was fehlt, ist der Nachweis, dass du diese Chance nutzt. Und den liefert kein fertiges Ergebnis. Wenn du eine saubere Zusammenfassung abgibst, sieht niemand, welche Entscheidung du darin getroffen hast. Also zählt sie nicht – weder im Meeting noch im Jahresgespräch.
+
+Der Einordnungs-Zusatz. Vier Zeilen, die du an jeden Auftrag anhängst:
+
+1. ROLLE: Du bist mein Fach-Reviewer für [Thema].
+2. AUFTRAG: Gib mir 3 Optionen, je mit Risiko und Aufwand.
+3. GRENZE: Markiere, wo dir Kontext fehlt, den nur ich habe.
+4. BELEG: Formuliere die eine Frage, die ich im Meeting stellen muss.
+
+Zeile 3 und 4 sind der Punkt. Die KI liefert die Lücke, du lieferst das Urteil. Genau das ist der Teil, den andere sehen.
+
+Folge für einen Workflow pro Tag.
+
+Quelle: IAB (Institut für Arbeitsmarkt- und Berufsforschung), Arntz/Dinelli/Schlenker, „KI als Jobkiller für Berufseinsteiger? Entwarnung mit Vorbehalt“, IAB-Forum, 13.10.2026. Grundlage: monatliche Beschäftigtendaten der Bundesagentur für Arbeit, Jan 2021 bis Dez 2025, durchschnittlich 22,3 Mio. sozialversicherungspflichtig Vollzeitbeschäftigte (20–64 Jahre). KI-Exposition nach Eloundou et al. (2024). Die Befunde sind deskriptiv, nicht kausal.
+
+#KIimJob #Arbeitsalltag #Prompt

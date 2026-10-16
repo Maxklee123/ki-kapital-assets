@@ -1,0 +1,9 @@
+STORY 09:00 - Teaser (Stories tragen keine Caption; Text steht im Bild)
+
+Bildtext: "75 % NUTZEN KI. NUR 28 % GEWINNEN ZEIT."
+Untertitel: "Deutschland. Weltweit sind es 42 Prozent."
+Zeilen im Bild: "Gleiche Werkzeuge." / "Halber Gewinn."
+Kicker: HEUTE 10:00 IM REEL
+Quelle im Bild: BCG "AI at Work 2026", veroeffentlicht 03.06.2026 (n=11.749 Beschaeftigte, Manager und Fuehrungskraefte in 14 Laendern, davon 917 in Deutschland)
+
+Kein CTA ausser dem Verweis auf das Reel um 10:00. Kein Sticker (API).

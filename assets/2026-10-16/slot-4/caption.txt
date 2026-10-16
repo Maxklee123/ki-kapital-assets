@@ -1,0 +1,10 @@
+STORY 15:00 - Engagement-Trigger (Stories tragen keine Caption; Text steht im Bild)
+
+Bildtext: "WO STEHT DEIN ZEITGEWINN?"
+Untertitel: "75 % nutzen KI. 28 % gewinnen davon einen Arbeitstag."
+A - Ich frage pro Aufgabe neu.
+B - Ich habe einen festen Ablauf.
+CTA im Bild: "A ODER B PER DM"
+Quelle im Bild: BCG "AI at Work 2026", 03.06.2026.
+
+Kein Sticker (API). Interaktion steckt im Bildinhalt.

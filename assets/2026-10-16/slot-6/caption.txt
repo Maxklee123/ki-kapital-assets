@@ -1,0 +1,20 @@
+28 % gewinnen durch KI einen Arbeitstag pro Woche. Das hier ist der Unterschied: vier Zeilen.
+
+KI-Prompt, Büroalltag, Arbeitsablauf: 75 % nutzen KI regelmäßig, aber nur 28 % sparen dadurch mindestens einen Arbeitstag pro Woche (BCG, 917 Befragte in Deutschland).
+
+Der Verlust passiert nicht an der Technik. Er passiert daran, dass die meisten bei jeder Aufgabe wieder bei null anfangen – Kontext neu tippen, Ton neu erklären, Ergebnis komplett nachprüfen.
+
+Der Gegenzug ist ein Kontext-Block, der einmal in deinen Notizen steht. Du kopierst ihn vor jede Aufgabe und fasst ihn danach nicht mehr an:
+
+1. ROLLE: Du schreibst für [meine Abteilung] an [Empfänger].
+2. MASSSTAB: So klingt gut - [letzte gute Version einfügen].
+3. FORMAT: Antwort in [X] Sätzen. Keine Einleitung, keine Floskeln.
+4. PRÜFUNG: Markiere, was du nicht aus meinen Angaben weißt.
+
+Zeile 4 ist die wichtigste. Sie zeigt dir genau die Stellen, an denen du gebraucht wirst – und die sind dein Fachurteil, nicht die Formulierung.
+
+Folge für einen Ablauf pro Tag – der 15-Minuten-Vorsprung.
+
+Quelle: BCG "AI at Work 2026", 03.06.2026, n=11.749 in 14 Ländern (917 in Deutschland).
+
+#kiimjob #prompt #arbeitsalltag

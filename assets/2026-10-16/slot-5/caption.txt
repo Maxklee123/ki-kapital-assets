@@ -1,0 +1,13 @@
+STORY 20:00 - DM-CTA (Stories tragen keine Caption; Text steht im Bild)
+
+Bildtext: "SCHREIB STACK IN DIE DMs."
+Untertitel: "Du bekommst den Kontext-Block aus dem 21-Uhr-Reel."
+Zeilen im Bild: "Vier Zeilen. Einmal gebaut." / "Vor jede Aufgabe gesetzt."
+Kicker: 21:00 IM REEL
+Einziger CTA: DM STACK.
+
+Antwort-Vorlage fuer eingehende DMs = die vier Zeilen aus Reel B (Frame 5):
+1. ROLLE: Du schreibst fuer [meine Abteilung] an [Empfaenger].
+2. MASSSTAB: So klingt gut - [letzte gute Version einfuegen].
+3. FORMAT: Antwort in [X] Saetzen. Keine Einleitung, keine Floskeln.
+4. PRUEFUNG: Markiere, was du nicht aus meinen Angaben weisst.

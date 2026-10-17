@@ -1,0 +1,13 @@
+STORY 20:00 - DM-CTA (Stories tragen keine Caption; Text steht im Bild)
+
+Bildtext: "SCHREIB LERNPLAN IN DIE DMs."
+Untertitel: "Du bekommst die vier Fragen aus dem 21-Uhr-Reel."
+Zeilen im Bild: "15 Minuten." / "Eine echte Aufgabe von heute."
+Kicker: 21:00 IM REEL
+Einziger CTA: DM LERNPLAN.
+
+Antwort-Vorlage für eingehende DMs = die vier Fragen aus Reel B (Frame 5), gestellt zu einer Aufgabe, die heute ohnehin erledigt wurde:
+1. Mach meine Aufgabe nach: [Aufgabe in einem Satz].
+2. Zeig mir drei Wege, die schneller gewesen wären.
+3. Sag mir, wo du ohne mein Fachwissen falsch liegst.
+4. Schreib daraus eine Vorlage für nächste Woche.

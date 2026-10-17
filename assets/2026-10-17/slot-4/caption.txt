@@ -1,0 +1,11 @@
+STORY 15:00 - Engagement-Trigger (Stories tragen keine Caption; Text steht im Bild)
+
+Bildtext: "WER HAT DIR KI BEIGEBRACHT?"
+Untertitel: "40 Prozent kommen an Weiterbildung. Im Vorjahr waren es 55."
+A - Die Firma.
+B - Ich selbst.
+C - Niemand.
+CTA im Bild: "A, B ODER C PER DM"
+Quelle im Bild: PwC Hopes and Fears Survey 2026, 02.10.2026.
+
+Kein Sticker (API). Interaktion steckt im Bildinhalt.

@@ -1,0 +1,9 @@
+STORY 09:00 - Teaser (Stories tragen keine Caption; Text steht im Bild)
+
+Bildtext: "DEINE CHEFS: 79 %. DEINE EBENE: 33 %."
+Untertitel: "KI-Nutzung in Deutschland. Erhoben im Frühjahr 2026."
+Zeilen im Bild: "Gleiche Firma." / "46 Punkte Abstand."
+Kicker: HEUTE 10:00 IM REEL
+Quelle im Bild: PwC Global Workforce Hopes and Fears Survey 2026, 02.10.2026 (n=1.685 Beschäftigte in Deutschland, global 49.364 in 48 Ländern, Feld Frühjahr 2026)
+
+Kein CTA außer dem Verweis auf das Reel um 10:00. Kein Sticker (API).

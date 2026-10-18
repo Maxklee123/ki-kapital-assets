@@ -1,0 +1,9 @@
+STORY 09:00 - Teaser (Stories tragen keine Caption; Text steht im Bild)
+
+Bildtext: "KI-BERUFE: +6 PUNKTE."
+Untertitel: "Vollzeitbeschäftigung seit 2022. Gemessen vom IAB."
+Zeilen im Bild: "Nicht weniger Jobs." / "Mehr."
+Kicker: HEUTE 10:00 IM REEL
+Quelle im Bild: IAB Nürnberg, Mitteilung vom 13.10.2026.
+
+Kein CTA außer dem Verweis auf das Reel um 10:00. Kein Sticker (API).

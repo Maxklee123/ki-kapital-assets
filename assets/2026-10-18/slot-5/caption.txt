@@ -1,0 +1,13 @@
+STORY 20:00 - DM-CTA (Stories tragen keine Caption; Text steht im Bild)
+
+Bildtext: "SCHREIB BEWEIS IN DIE DMs."
+Untertitel: "Du bekommst die vier Sätze aus dem 21-Uhr-Reel."
+Zeilen im Bild: "15 Minuten." / "Eine Aufgabe von heute."
+Kicker: 21:00 IM REEL
+Einziger CTA: DM BEWEIS.
+
+Antwort-Vorlage für eingehende DMs = die vier Sätze aus Reel B (Frame 5), gestellt zu einer Aufgabe, die heute ohnehin erledigt wurde:
+1. Mach diese Aufgabe komplett nach: [Aufgabe in einem Satz].
+2. Markiere jede Stelle, an der du fachlich unsicher bist.
+3. Welche Information fehlt dir, um das zu entscheiden?
+4. Fasse zusammen, was nur ein Mensch mit meinem Wissen beitragen kann.

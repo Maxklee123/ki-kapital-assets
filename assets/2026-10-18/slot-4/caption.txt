@@ -1,0 +1,11 @@
+STORY 15:00 - Engagement-Trigger (Stories tragen keine Caption; Text steht im Bild)
+
+Bildtext: "WOHER HAST DU DEINE KI?"
+Untertitel: "Nur 55 Prozent der Nutzer haben sie offiziell von der Firma bekommen."
+A - Von der Firma.
+B - Selbst besorgt.
+C - Gar keine.
+CTA im Bild: "A, B ODER C PER DM"
+Quelle im Bild: Konstanzer KI-Studie 2026, Uni Konstanz, n=1.105, Feld Mai 2026.
+
+Kein Sticker (API). Interaktion steckt im Bildinhalt.

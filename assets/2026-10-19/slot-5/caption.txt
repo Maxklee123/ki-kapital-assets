@@ -1,0 +1,13 @@
+STORY 20:00 - DM-CTA (Stories tragen keine Caption; Text steht im Bild)
+
+Bildtext: "SCHREIB MONTAG IN DIE DMs."
+Untertitel: "Du bekommst die vier Sätze, mit denen deine Dienstag-Inbox in 15 Minuten sortiert ist."
+Zeilen im Bild: "Kein Tool von der IT nötig." / "Kopieren, einfügen, lesen."
+Kicker: 21:00 IM REEL
+Einziger CTA: DM MONTAG.
+
+Antwort-Vorlage für eingehende DMs = die vier Sätze aus Reel B (Frame 5), gestellt an eine beliebige KI mit den Mails seit Freitag im Text:
+1. Hier sind meine Mails seit Freitag: [einfügen].
+2. Sortiere: heute / diese Woche / nur Kenntnis.
+3. Nenne je Mail der ersten Gruppe die Entscheidung, die von mir verlangt wird.
+4. Schreib für Gruppe drei je eine Antwort in zwei Sätzen.

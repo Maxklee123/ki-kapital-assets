@@ -1,0 +1,11 @@
+STORY 15:00 - Engagement-Trigger (Stories tragen keine Caption; Text steht im Bild)
+
+Bildtext: "WIE VIEL GEHT BEI DIR FÜR MAILS DRAUF?"
+Untertitel: "Pro Woche, ehrlich geschätzt."
+A - Unter 2 Stunden.
+B - 2 bis 5 Stunden.
+C - Mehr als 5 Stunden.
+CTA im Bild: "A, B ODER C PER DM"
+
+Kein Sticker (API). Interaktion steckt im Bildinhalt.
+Bezug: knüpft an die acht Stunden aus dem 10-Uhr-Reel an und leitet auf den Inbox-Ablauf im 21-Uhr-Reel über.

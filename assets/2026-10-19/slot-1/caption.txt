@@ -1,0 +1,9 @@
+STORY 09:00 - Teaser (Stories tragen keine Caption; Text steht im Bild)
+
+Bildtext: "ACHT STUNDEN. JEDE WOCHE."
+Untertitel: "So viel Arbeitszeit sagen zwei Drittel der Befragten, dass KI ihnen abnimmt."
+Zeilen im Bild: "67 Prozent sagen das." / "26 Prozent nutzen gar keine KI."
+Kicker: HEUTE 10:00 IM REEL
+Quelle im Bild: Adobe, "Der Aufstieg von KI-Dokumenten", 1.500 Befragte in Deutschland, 07.08.2026.
+
+Kein CTA außer dem Verweis auf das Reel um 10:00. Kein Sticker (API).

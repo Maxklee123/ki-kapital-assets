@@ -1,0 +1,24 @@
+11 von 100 kleinen Betrieben schulen ihre Leute an KI. Den Rest machst du selbst.
+
+KI im Job, Prompt, Wochenbericht: In Betrieben bis 49 Beschäftigte bieten 11 Prozent Schulungen an, 10 Prozent haben verbindliche Regeln zur KI-Nutzung. Bei größeren Organisationen liegen beide Werte zwischen rund 26 und 31 Prozent.
+
+Gleichzeitig nutzen 49 Prozent der Beschäftigten in Büro- und Wissensarbeit KI bereits bei der Arbeit. Die Lücke zwischen diesen beiden Zahlen ist der Grund, warum die meisten es sich nebenbei beibringen.
+
+Du brauchst dafür keine Schulung. Du brauchst eine Aufgabe, die jede Woche gleich aussieht. Der Wochenbericht ist der einfachste Einstieg, weil das Muster schon existiert.
+
+Heute Nachmittag, 15 Minuten:
+
+1. Das ist mein letzter Wochenbericht: [einfügen].
+2. Schreib den neuen nach genau diesem Muster.
+3. Das sind die Zahlen dieser Woche: [einfügen].
+4. Nenne drei Stellen, an denen Angaben fehlen.
+
+Schritt vier ist der wichtige. Die ersten drei sparen Zeit. Der vierte macht aus der Vorlage eine Prüfung – und zwar bevor jemand anderes sie macht. Das ist der Unterschied zwischen „die KI hat das geschrieben“ und „ich habe den Bericht verantwortet“.
+
+Nimm vertrauliche Zahlen und Namen raus, bevor du etwas einfügst.
+
+Welcher Schritt kostet dich freitags am meisten? Schreib ihn in die Kommentare.
+
+Quelle: Kunze, Opitz, Gerdiken: Konstanzer KI-Studie 2026, Ergebnisreport, Universität Konstanz, September 2026; dritte Befragungswelle Mai 2026, n = 1.105 Beschäftigte in Deutschland.
+
+#kiimjob #wochenbericht #bueroalltag

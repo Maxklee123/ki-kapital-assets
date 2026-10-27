@@ -1,0 +1,24 @@
+Speicher diesen Prompt, bevor du ihn brauchst. Morgen früh findest du ihn nicht wieder.
+
+Dein Job wird nicht ersetzt. Er wird sortiert – und nur eine der beiden Hälften schützt dich.
+
+KI im Job, Aufgaben, Karriere: PwC hat im AI Jobs Barometer 2026 nicht nur gezählt, wo KI auftaucht, sondern was sie mit Tätigkeiten macht. Das Ergebnis weltweit: 52 Prozent der Tätigkeiten werden demokratisiert – plötzlich kann sie fast jeder. 22 Prozent werden professionalisiert: Sie werden schwieriger, und Erfahrung darin wird mehr wert.
+
+Das ist die ganze Mechanik. In der einen Hälfte wirst du vergleichbar. In der anderen wirst du teurer.
+
+Die meisten sortieren nie. Sie arbeiten weiter an dem, was sie immer gemacht haben, und merken erst in der Gehaltsrunde, in welcher Hälfte das lag.
+
+Heute Nachmittag, 15 Minuten:
+
+1. Hier sind meine 10 häufigsten Aufgaben: [Liste einfügen].
+2. Sortiere sie: Welche kann mit KI plötzlich fast jeder erledigen?
+3. Welche werden durch KI schwieriger und damit wertvoller?
+4. Nenne mir für Spalte 2 die nächsten drei Schritte, die ich diese Woche gehe.
+
+Schritt drei ist der, auf den es ankommt. Er zeigt dir nicht, was dir fehlt, sondern wo dein Vorsprung schon liegt – und wohin deine nächsten Stunden gehören.
+
+Nimm vertrauliche Inhalte raus, bevor du etwas einfügst.
+
+Quelle: PwC AI Jobs Barometer 2026, weltweite Auswertung (22 Prozent der Tätigkeiten professionalisiert, 52 Prozent demokratisiert), PwC Deutschland, Veröffentlichung vom 30.06.2026.
+
+#kiimjob #prompt #karriere

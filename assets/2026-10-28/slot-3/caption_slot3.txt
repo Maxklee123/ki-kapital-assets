@@ -1,0 +1,24 @@
+Speicher diesen Prompt. Morgen frueh brauchst du ihn - vor der ersten Mail.
+
+Du erklaerst der KI jeden Tag dasselbe. Einmal aufschreiben reicht.
+
+KI im Job, Prompt, Vorlage: 2,3 Stunden pro Woche gehen laut Work AI Index 2026 allein dafuer weg, der KI Kontext nachzuliefern. Das ist der groesste Einzelposten - groesser als das Pruefen der Ergebnisse und groesser als die Fehlersuche.
+
+Was fehlt, ist kein besseres Modell. Es ist ein Absatz ueber dich, den du nicht jedes Mal neu tippst.
+
+Dein Kontextblock - einmal bauen, danach taeglich oben in den Prompt einfuegen:
+
+1. ROLLE: Ich arbeite als [Funktion] im Bereich [Abteilung], Branche [X].
+2. EMPFAENGER: Das liest [wer]. Ton [sachlich/knapp]. Anrede [Sie/du].
+3. REGELN: Keine Floskeln, hoechstens [X] Saetze, Format [Mail/Tabelle/Liste].
+4. PRUEFUNG: Markiere am Ende jede Angabe, die du geraten hast.
+
+Punkt 4 ist der, den fast alle weglassen - und der, der dir das Nachlesen spart. Die KI sagt dir dann selbst, wo sie geraten hat, statt dass du es suchen musst.
+
+Fuell die Klammern einmal aus. Danach ist es Einfuegen statt Erklaeren.
+
+Speicher das - morgen frueh brauchst du es, bevor du die erste Mail schreibst.
+
+Quelle: Work AI Index 2026, Work AI Institute (Glean); Befragung von 6.000 Vollzeit-Digitalbeschaeftigten in den USA, Grossbritannien und Australien, Erhebung Dezember 2025 bis Januar 2026, Selbstauskunft. Deutschland ist in der Stichprobe nicht enthalten.
+
+#kiimjob #prompt #vorlage

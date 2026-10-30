@@ -1,0 +1,17 @@
+Speicher diesen Prompt jetzt – Montag um 9:00 brauchst du ihn.
+Prompt-Vorlage fuer den Arbeitsalltag: vier Bausteine, die das Nachsteuern beenden.
+
+1,81 Stunden pro Woche gehen für Nutzung und Nachsteuern drauf – bei 2,17 Stunden Ersparnis (YouGov/Notion, Juni 2026, 2.067 Beschäftigte). Fast alles, was KI dir gibt, nimmt das Neu-Formulieren wieder.
+
+Die Vorlage aus dem Reel, Baustein für Baustein:
+
+1 ROLLE: Du bist mein Assistent für [Aufgabe, z. B. Protokolle].
+2 INPUT: Hier sind die Rohdaten: [Text einfügen]
+3 REGELN: Max. 5 Sätze, sachlicher Ton, keine Floskeln, offene Punkte ausdrücklich benennen.
+4 FORMAT: Erst das Ergebnis, dann drei Stichpunkte Begründung.
+
+Du tauschst nur die Klammern aus. Baustein 3 ist der, der das Nachfragen killt – ohne ihn lieferst du dreimal nach.
+
+Speicher das jetzt. Montag 9:00 tippst du es nicht mehr.
+
+#KIimJob #Prompts #Arbeitsalltag

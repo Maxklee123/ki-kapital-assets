@@ -1,0 +1,32 @@
+{
+ "1": {
+  "time": "09:00",
+  "format": "Story",
+  "files": ["story.jpg", "caption.txt"]
+ },
+ "2": {
+  "time": "10:00",
+  "format": "Reel A",
+  "files": ["frame-1.jpg", "frame-2.jpg", "frame-3.jpg", "frame-4.jpg", "frame-5.jpg", "frame-6.jpg", "reel.mp4", "caption.txt"]
+ },
+ "3": {
+  "time": "14:00",
+  "format": "Reel B",
+  "files": ["frame-1.jpg", "frame-2.jpg", "frame-3.jpg", "frame-4.jpg", "frame-5.jpg", "frame-6.jpg", "reel.mp4", "caption.txt"]
+ },
+ "4": {
+  "time": "15:00",
+  "format": "Story",
+  "files": ["story.jpg", "caption.txt"]
+ },
+ "5": {
+  "time": "20:00",
+  "format": "Story",
+  "files": ["story.jpg", "caption.txt"]
+ },
+ "6": {
+  "time": "21:00",
+  "format": "Reel C",
+  "files": ["frame-1.jpg", "frame-2.jpg", "frame-3.jpg", "frame-4.jpg", "frame-5.jpg", "frame-6.jpg", "reel.mp4", "caption.txt"]
+ }
+}

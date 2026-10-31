@@ -1,0 +1,19 @@
+Speicher diesen Prompt, bevor du ihn brauchst. Nicht erst, wenn das Jahresgespräch im Kalender steht.
+KI-Kompetenz belegen: der Nachweis-Satz in vier Bausteinen.
+
+18,6 Prozent. So viele Beschäftigte ohne Führungsverantwortung haben laut KI-Monitor 2026 der TU Darmstadt (mit YouGov, über 2.000 Befragte) je an einer KI-Weiterbildung teilgenommen. Bei Führungskräften sind es 35,2 Prozent – fast doppelt so viele.
+
+Der Abstand entsteht also nicht beim Können. Er entsteht beim Belegen.
+
+Dein Nachweis ist kein Zertifikat. Er ist ein Satz mit einer Zahl darin. Die Vorlage aus dem Reel, Baustein für Baustein:
+
+1 ROLLE: Du bist mein Coach für das Jahresgespräch.
+2 INPUT: Diese Aufgabe habe ich diese Woche mit KI gelöst: [Aufgabe]
+3 REGELN: Formuliere EINEN Satz. Mit Zahl (Zeit oder Stück), ohne Tool-Namen, ohne Fachbegriff.
+4 FORMAT: Erst der Satz, dann drei Belege für die Nachfrage.
+
+Baustein 3 ist der entscheidende. Ohne „ohne Tool-Namen“ bekommst du einen Satz, der nach Angeberei klingt. Mit ihm bekommst du einen Satz über dein Ergebnis.
+
+Du brauchst ihn nicht heute. Du brauchst ihn an dem Tag, an dem du nicht vorbereitet bist.
+
+#KIimJob #Jahresgespräch #Prompts

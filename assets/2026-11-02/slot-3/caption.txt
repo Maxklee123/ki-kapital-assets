@@ -1,0 +1,15 @@
+Dein Meeting-Protokoll kostet dich 40 Minuten. Es muss 4 kosten – und du brauchst dafür keine saubere Mitschrift.
+
+Die meisten scheitern an der falschen Stelle: Sie versuchen, während des Termins ordentlich mitzuschreiben. Das ist der teure Teil. Stichworte in der richtigen Reihenfolge reichen völlig, wenn du danach die richtige Frage stellst.
+
+Der Prompt, der aus Stichworten ein fertiges Protokoll macht:
+
+"Hier sind meine rohen Meeting-Notizen: [einfügen]. Mach daraus ein Protokoll in drei Blöcken: 1. Entscheidungen, 2. offene Punkte, 3. To-dos mit Name und Datum. Was in den Notizen unklar bleibt, listest du am Ende unter Nachfragen."
+
+Der letzte Satz ist der wichtige. Die Nachfragen-Liste ist das, was im Verteiler auffällt – weil sie zeigt, dass jemand mitgedacht hat, und nicht nur mitgeschrieben.
+
+Wie lange brauchst du gerade für ein Protokoll?
+
+Quelle: Bitkom Research im Auftrag des Bitkom, 28.04.2026, 1.003 Befragte ab 16 Jahren, repräsentativ
+
+#kiimjob #arbeitenmitki #karriere

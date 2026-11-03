@@ -2,18 +2,18 @@
 import os, sys, json
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import render as R
-from content import STORY_1, STORY_4, STORY_5, REEL_A, REEL_B, REEL_C
+from content import STORY_1, STORY_4, STORY_5, REEL_A, REEL_B
 from captions import CAPTIONS
 
-DATE = "2026-10-30"
+DATE = "2026-11-03"
 OUT  = os.environ.get("OUTROOT", ".") + "/assets/" + DATE
+# Slot 6 (21:00 Reel C) gestrichen - Entscheidung OPERATIONS 02.11.2026 (Ursache D).
 PLAN = {
     1: ("09:00", "Story", STORY_1),
     2: ("10:00", "Reel A", REEL_A),
     3: ("14:00", "Reel B", REEL_B),
     4: ("15:00", "Story", STORY_4),
     5: ("20:00", "Story", STORY_5),
-    6: ("21:00", "Reel C", REEL_C),
 }
 made = {}
 for slot in sorted(PLAN):

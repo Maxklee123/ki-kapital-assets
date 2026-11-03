@@ -1,10 +1,6 @@
 name: Render Tagesausgabe
 
 on:
-  push:
-    paths:
-      - 'engine/**'
-      - '.github/workflows/render.yml'
   workflow_dispatch:
 
 permissions:
@@ -40,18 +36,19 @@ jobs:
 
       - name: Pruefen
         run: |
-          for s in 2 3 6; do
+          for s in 2 3; do
             printf 'slot-%s ' "$s"
-            ffprobe -v error -show_entries format=duration -of csv=p=0 "assets/2026-10-30/slot-$s/reel.mp4"
-            ffprobe -v error -select_streams v -show_entries stream=width,height,codec_name -of csv=p=0 "assets/2026-10-30/slot-$s/reel.mp4"
+            ffprobe -v error -show_entries format=duration -of csv=p=0 "assets/2026-11-03/slot-$s/reel.mp4"
+            ffprobe -v error -select_streams v -show_entries stream=width,height,codec_name -of csv=p=0 "assets/2026-11-03/slot-$s/reel.mp4"
           done
-          find assets/2026-10-30 -type f -printf '%10s %p\n' | sort -k2
+          find assets/2026-11-03 -type f -printf '%10s %p\n' | sort -k2
 
       - name: Commit
         run: |
-          rm -rf fonts
+          git checkout -- fonts || true
+          git clean -fd fonts || true
           git config user.name "ki-kapital-engine"
           git config user.email "actions@users.noreply.github.com"
-          git add assets/2026-10-30
-          git commit -m "Produktion 2026-10-30" || echo "nichts zu committen"
+          git add assets/2026-11-03
+          git commit -m "Produktion 2026-11-03" || echo "nichts zu committen"
           git push

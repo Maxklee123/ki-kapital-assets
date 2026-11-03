@@ -2,76 +2,65 @@
 CAPTIONS = {}
 
 CAPTIONS[1] = """STORY 09:00 · Teaser
-Bildtext: Deine KI spart dir diese Woche 22 Minuten. Netto.
-2,17 Stunden gespart - 1,81 Stunden fuer Betreuung zurueckgegeben.
-CTA im Bild: Heute 10:00 - wo die 2 Stunden verloren gehen.
-Quelle: YouGov im Auftrag von Notion, Juni 2026, 2.067 Beschaeftigte.
+Bildtext: Wer KI nachweisbar kann, steigt 3,5x schneller auf als die Kollegen.
+Nicht die Nutzung entscheidet. Der Nachweis entscheidet.
+CTA im Bild: Heute 10:00 - woran der Nachweis haengt.
+Quelle: Randstad "Age of Augmentation", 03.06.2026, 2,4 Mio. Stellenanzeigen in Deutschland.
 """
 
-CAPTIONS[2] = """KI im Job spart 2,17 Stunden pro Woche – und kostet 1,81 Stunden Betreuung.
-Zeit sparen im Arbeitsalltag: netto bleiben 22 Minuten. Pro Woche.
+CAPTIONS[2] = """Dein Aufstieg hängt nicht an deinen Jahren im Haus. Er hängt an einem Nachweis.
+KI-Kompetenz und Karriere: 3,5-mal schneller aufsteigen – das sagen 2,4 Millionen deutsche Stellenanzeigen.
 
-Das ist keine Schlagzeile, das ist eine Subtraktion. YouGov hat im Juni 2026 für Notion 2.067 Beschäftigte befragt, 1.554 davon nutzen KI für ihre Arbeit. Gespart: 2,17 Stunden pro Woche. Für Nutzung, Nachfragen und Korrigieren wieder draufgegangen: 1,81 Stunden.
+Randstad hat für „Age of Augmentation" 35,8 Millionen Stellenanzeigen aus den Jahren 2021 bis 2026 ausgewertet, 2,4 Millionen davon in Deutschland. Das Ergebnis: Wer nachweisbare KI-Kenntnisse hat, klettert im Schnitt 3,5-mal schneller die Karriereleiter hinauf.
 
-Bleiben 22 Minuten. 17,2 Stunden im Jahr. Zwei Arbeitstage, nicht zwei Wochen.
+Die Vergütung zieht mit – weltweit bis zu 25 Prozent Aufschlag für Beschäftigte, die KI-Kompetenzen mitbringen.
 
-Der Grund steckt nicht im Tool. Er steckt darin, dass fast niemand seine Prompts aufhebt: nur 19 % der täglichen Nutzer wurden je geschult. Alle anderen formulieren jede Aufgabe neu – und bezahlen den Zeitgewinn jedes Mal zurück.
+Und jetzt die Lücke, in der befördert wird: 72,3 Prozent der Befragten im KI-Monitor 2026 der TU Darmstadt haben KI bereits genutzt. Aber nur 21,8 Prozent nennen ihre eigenen Kenntnisse hoch oder sehr hoch.
 
-Wer seine Prompts einmal baut und speichert, holt sich die 1,81 Stunden.
+Fast alle benutzen es. Fast keiner kann es belegen.
+
+Heißt für dich: Du musst nicht besser werden als deine Kollegen. Du musst nur der sein, der sagen kann, was es gebracht hat – mit einer Zahl.
 
 Folge für einen Workflow pro Tag.
 
-#KIimJob #Arbeitsalltag #Zeitmanagement
+Quellen: Randstad „Age of Augmentation", 03.06.2026 · KI-Monitor 2026, TU Darmstadt mit YouGov, über 2.000 Befragte.
+
+#KIimJob #Karriere #Arbeitsalltag
 """
 
-CAPTIONS[3] = """Speicher diesen Prompt jetzt – Montag um 9:00 brauchst du ihn.
-Prompt-Vorlage fuer den Arbeitsalltag: vier Bausteine, die das Nachsteuern beenden.
+CAPTIONS[3] = """Speicher diesen Prompt, bevor du ihn brauchst. Nicht erst am Tag des Jahresgesprächs.
+KI-Kompetenz belegen: der Nachweis-Satz in vier Bausteinen.
 
-1,81 Stunden pro Woche gehen für Nutzung und Nachsteuern drauf – bei 2,17 Stunden Ersparnis (YouGov/Notion, Juni 2026, 2.067 Beschäftigte). Fast alles, was KI dir gibt, nimmt das Neu-Formulieren wieder.
+18,6 Prozent. So viele Beschäftigte ohne Führungsverantwortung haben laut KI-Monitor 2026 der TU Darmstadt (mit YouGov, über 2.000 Befragte) je eine KI-Weiterbildung absolviert. Bei Führungskräften sind es 35,2 Prozent – fast doppelt so viele.
 
-Die Vorlage aus dem Reel, Baustein für Baustein:
+Der Abstand entsteht also nicht beim Können. Er entsteht beim Belegen.
 
-1 ROLLE: Du bist mein Assistent für [Aufgabe, z. B. Protokolle].
-2 INPUT: Hier sind die Rohdaten: [Text einfügen]
-3 REGELN: Max. 5 Sätze, sachlicher Ton, keine Floskeln, offene Punkte ausdrücklich benennen.
-4 FORMAT: Erst das Ergebnis, dann drei Stichpunkte Begründung.
+Dein Nachweis ist kein Zertifikat. Er ist ein Satz mit einer Zahl darin. Die Vorlage aus dem Reel, Baustein für Baustein:
 
-Du tauschst nur die Klammern aus. Baustein 3 ist der, der das Nachfragen killt – ohne ihn lieferst du dreimal nach.
+1 ROLLE: Du bist mein Coach für das Jahresgespräch.
+2 INPUT: Diese Aufgabe habe ich mit KI gelöst: [Aufgabe]
+3 REGELN: Formuliere EINEN Satz. Mit Zahl (Zeit oder Stück), ohne Tool-Namen, ohne Fachbegriff.
+4 FORMAT: Erst der Satz, dann drei Belege für die Nachfrage.
 
-Speicher das jetzt. Montag 9:00 tippst du es nicht mehr.
+Baustein 3 ist der entscheidende. Ohne „ohne Tool-Namen" bekommst du einen Satz, der nach Angeberei klingt. Mit ihm bekommst du einen Satz über dein Ergebnis.
 
-#KIimJob #Prompts #Arbeitsalltag
+Du brauchst ihn nicht heute. Du brauchst ihn an dem Tag, an dem du nicht vorbereitet bist.
+
+#KIimJob #Jahresgespräch #Prompts
 """
 
 CAPTIONS[4] = """STORY 15:00 · Engagement-Trigger
-Bildtext: Wie oft tippst du denselben Prompt neu?
-1 Jedes Mal komplett neu / 2 Ich scrolle im alten Chat / 3 Ich habe feste Vorlagen
-Hinweis im Bild: 1,81 Stunden pro Woche gehen genau dafuer drauf.
+Bildtext: Wie viele in deinem Team hatten je ein KI-Training?
+1 Keiner - wir machen das selbst / 2 Ein paar - meist die Chefs / 3 Alle, es war verpflichtend
+Hinweis im Bild: Bundesweit 18,6 % ohne Fuehrungsrolle, 35,2 % mit.
 CTA im Bild: Antworte mit 1, 2 oder 3.
 Kein Umfrage-Sticker - Interaktion steckt im Bildinhalt.
+Quelle: KI-Monitor 2026, TU Darmstadt mit YouGov, ueber 2.000 Befragte.
 """
 
 CAPTIONS[5] = """STORY 20:00 · DM-CTA
-Bildtext: Die Prompt-Vorlage von heute - als Text zum Einfuegen.
+Bildtext: Der Nachweis-Satz fuer dein Jahresgespraech - als Prompt zum Einfuegen.
 Vier Bausteine: Rolle, Input, Regeln, Format.
 CTA im Bild: Schreib mir STACK als DM.
 Keyword: STACK -> Antwort enthaelt die vollstaendige Prompt-Vorlage aus dem 14:00-Reel.
-"""
-
-CAPTIONS[6] = """Nicht die KI nimmt dir den Job. Der Kollege, der nicht auf die Einführung gewartet hat, tut es.
-KI-Kompetenz im Job: nur 55 % haben ihr Werkzeug vom Arbeitgeber bekommen.
-
-Die Konstanzer KI-Studie 2026 der Universität Konstanz hat 1.105 Beschäftigte befragt. 38 % nutzen KI bei der Arbeit. Und von diesen Nutzern sagen nur 55 %, ihr wichtigstes Werkzeug sei offiziell eingeführt worden.
-
-Fast die Hälfte hat sich den Einstieg selbst gesucht.
-
-In Büro- und Wissensarbeit nutzt bereits jeder Zweite KI (49 %), in produktionsnahen Tätigkeiten jeder Vierte (25 %). In Betrieben unter 50 Beschäftigten bieten 11 % überhaupt Schulungen an.
-
-Heißt: In deinem Büro arbeitet die Hälfte schon mit KI, und beigebracht hat es fast keinem jemand. Die 45 % ohne Einführung sind keine Regelbrecher – sie sind der Maßstab, an dem deine nächste Beurteilung dich vergleicht.
-
-Unersetzbar wird nicht, wer das beste Tool hat. Sondern wer im Meeting erklären kann, warum es das Ergebnis trägt.
-
-Folge für einen Workflow pro Tag.
-
-#KIimJob #Karriere #Arbeitsalltag
 """

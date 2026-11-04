@@ -5,7 +5,7 @@ import render as R
 from content import STORY_1, STORY_4, STORY_5, REEL_A, REEL_B
 from captions import CAPTIONS
 
-DATE = "2026-11-03"
+DATE = "2026-11-04"
 OUT  = os.environ.get("OUTROOT", ".") + "/assets/" + DATE
 # Slot 6 (21:00 Reel C) gestrichen - Entscheidung OPERATIONS 02.11.2026 (Ursache D).
 PLAN = {

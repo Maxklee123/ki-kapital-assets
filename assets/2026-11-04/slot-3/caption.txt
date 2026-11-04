@@ -1,0 +1,21 @@
+Speicher diesen Prompt, bevor du ihn brauchst. Nicht erst beim Monatsabschluss.
+Excel-Auswertung mit KI: der Prompt in vier Bausteinen, zum Einfügen.
+
+10 Prozent. So viele Erwerbstätige lassen laut Forsa-Umfrage für den TÜV-Verband (08.04.2026, 587 Erwerbstätige) Datensätze von KI analysieren. 78 Prozent nutzen sie zum Suchen. Die Auswertung bleibt Handarbeit.
+
+Dabei scheitert sie meist an einer Kleinigkeit: Die Tabelle hochladen reicht nicht. Die KI braucht die Frage, die dein Chef stellen wird.
+
+Die Vorlage aus dem Reel, Baustein für Baustein:
+
+1 ROLLE: Du bist Controller und prüfst meine Tabelle.
+2 INPUT: Spalten [Spalten], Zeitraum [Zeitraum].
+3 FRAGE: Nenne die drei größten Abweichungen zum Vormonat – je mit Zahl und möglicher Ursache.
+4 FORMAT: Drei Zeilen, eine je Abweichung. Keine Aussage ohne Zahl.
+
+Baustein 3 entscheidet. Ohne die konkrete Frage bekommst du eine Zusammenfassung deiner eigenen Tabelle – also nichts, was du nicht schon wusstest. Mit ihr bekommst du drei Sätze, die du so ins Meeting mitnehmen kannst.
+
+Baustein 4 ist der Grund, warum es im Meeting hält: „Keine Aussage ohne Zahl" verhindert die vagen Sätze, bei denen sofort nachgefragt wird.
+
+Du brauchst ihn nicht heute. Du brauchst ihn an dem Tag, an dem die Auswertung bis Mittag fertig sein muss.
+
+#KIimJob #Excel #Prompts

@@ -2,65 +2,72 @@
 CAPTIONS = {}
 
 CAPTIONS[1] = """STORY 09:00 · Teaser
-Bildtext: Wer KI nachweisbar kann, steigt 3,5x schneller auf als die Kollegen.
-Nicht die Nutzung entscheidet. Der Nachweis entscheidet.
-CTA im Bild: Heute 10:00 - woran der Nachweis haengt.
-Quelle: Randstad "Age of Augmentation", 03.06.2026, 2,4 Mio. Stellenanzeigen in Deutschland.
+Bildtext: Fast alle benutzen KI wie eine bessere Suchmaschine. 10 % lassen ihre Daten auswerten.
+Hinweis im Bild: Dort liegt die Arbeit, die vorher einen halben Tag gekostet hat.
+CTA im Bild: Heute 10:00 - die ganze Verteilung.
+Quelle: TUEV-Verband, Forsa-Umfrage, 08.04.2026, 587 Erwerbstaetige in Deutschland.
+Kein Umfrage-Sticker - Interaktion steckt im Bildinhalt.
 """
 
-CAPTIONS[2] = """Dein Aufstieg hängt nicht an deinen Jahren im Haus. Er hängt an einem Nachweis.
-KI-Kompetenz und Karriere: 3,5-mal schneller aufsteigen – das sagen 2,4 Millionen deutsche Stellenanzeigen.
+CAPTIONS[2] = """Du nutzt KI im Job wahrscheinlich als bessere Suchmaschine. Fast alle tun das.
+KI im Arbeitsalltag: wofür Beschäftigte sie wirklich einsetzen – und wo die Lücke liegt.
 
-Randstad hat für „Age of Augmentation" 35,8 Millionen Stellenanzeigen aus den Jahren 2021 bis 2026 ausgewertet, 2,4 Millionen davon in Deutschland. Das Ergebnis: Wer nachweisbare KI-Kenntnisse hat, klettert im Schnitt 3,5-mal schneller die Karriereleiter hinauf.
+Der TÜV-Verband hat Forsa 587 Erwerbstätige fragen lassen, für welche Aufgaben sie KI im Job verwenden. Die Verteilung ist eindeutig:
 
-Die Vergütung zieht mit – weltweit bis zu 25 Prozent Aufschlag für Beschäftigte, die KI-Kompetenzen mitbringen.
+78 Prozent suchen nach Informationen. 46 Prozent erstellen oder verbessern Texte. 41 Prozent entwickeln neue Ideen.
 
-Und jetzt die Lücke, in der befördert wird: 72,3 Prozent der Befragten im KI-Monitor 2026 der TU Darmstadt haben KI bereits genutzt. Aber nur 21,8 Prozent nennen ihre eigenen Kenntnisse hoch oder sehr hoch.
+Und dann wird es dünn: Berechnungen durchführen 13 Prozent. Datensätze analysieren 10 Prozent.
 
-Fast alle benutzen es. Fast keiner kann es belegen.
+Das ist die interessante Zahl. Denn die Auswertung ist die Aufgabe, die im Büro am längsten dauert – und sie ist die am wenigsten besetzte.
 
-Heißt für dich: Du musst nicht besser werden als deine Kollegen. Du musst nur der sein, der sagen kann, was es gebracht hat – mit einer Zahl.
+Dazu passt der zweite Befund: 88 Prozent der Nutzer sagen, die Qualität hänge davon ab, wie präzise die Aufgabe formuliert ist. 55 Prozent bekommen trotzdem Ergebnisse, die zu unkonkret sind und nachbearbeitet werden müssen.
+
+Heißt: Es hängt nicht am Tool. Es hängt an der Frage, die du hineingibst.
+
+Wer Zahlen hineingibt statt Fragen, spielt in einer Liga, in der neun von zehn Kollegen gar nicht antreten.
 
 Folge für einen Workflow pro Tag.
 
-Quellen: Randstad „Age of Augmentation", 03.06.2026 · KI-Monitor 2026, TU Darmstadt mit YouGov, über 2.000 Befragte.
+Quelle: TÜV-Verband, Forsa-Umfrage vom 08.04.2026, 587 Erwerbstätige in Deutschland.
 
-#KIimJob #Karriere #Arbeitsalltag
+#KIimJob #Arbeitsalltag #Excel
 """
 
-CAPTIONS[3] = """Speicher diesen Prompt, bevor du ihn brauchst. Nicht erst am Tag des Jahresgesprächs.
-KI-Kompetenz belegen: der Nachweis-Satz in vier Bausteinen.
+CAPTIONS[3] = """Speicher diesen Prompt, bevor du ihn brauchst. Nicht erst beim Monatsabschluss.
+Excel-Auswertung mit KI: der Prompt in vier Bausteinen, zum Einfügen.
 
-18,6 Prozent. So viele Beschäftigte ohne Führungsverantwortung haben laut KI-Monitor 2026 der TU Darmstadt (mit YouGov, über 2.000 Befragte) je eine KI-Weiterbildung absolviert. Bei Führungskräften sind es 35,2 Prozent – fast doppelt so viele.
+10 Prozent. So viele Erwerbstätige lassen laut Forsa-Umfrage für den TÜV-Verband (08.04.2026, 587 Erwerbstätige) Datensätze von KI analysieren. 78 Prozent nutzen sie zum Suchen. Die Auswertung bleibt Handarbeit.
 
-Der Abstand entsteht also nicht beim Können. Er entsteht beim Belegen.
+Dabei scheitert sie meist an einer Kleinigkeit: Die Tabelle hochladen reicht nicht. Die KI braucht die Frage, die dein Chef stellen wird.
 
-Dein Nachweis ist kein Zertifikat. Er ist ein Satz mit einer Zahl darin. Die Vorlage aus dem Reel, Baustein für Baustein:
+Die Vorlage aus dem Reel, Baustein für Baustein:
 
-1 ROLLE: Du bist mein Coach für das Jahresgespräch.
-2 INPUT: Diese Aufgabe habe ich mit KI gelöst: [Aufgabe]
-3 REGELN: Formuliere EINEN Satz. Mit Zahl (Zeit oder Stück), ohne Tool-Namen, ohne Fachbegriff.
-4 FORMAT: Erst der Satz, dann drei Belege für die Nachfrage.
+1 ROLLE: Du bist Controller und prüfst meine Tabelle.
+2 INPUT: Spalten [Spalten], Zeitraum [Zeitraum].
+3 FRAGE: Nenne die drei größten Abweichungen zum Vormonat – je mit Zahl und möglicher Ursache.
+4 FORMAT: Drei Zeilen, eine je Abweichung. Keine Aussage ohne Zahl.
 
-Baustein 3 ist der entscheidende. Ohne „ohne Tool-Namen" bekommst du einen Satz, der nach Angeberei klingt. Mit ihm bekommst du einen Satz über dein Ergebnis.
+Baustein 3 entscheidet. Ohne die konkrete Frage bekommst du eine Zusammenfassung deiner eigenen Tabelle – also nichts, was du nicht schon wusstest. Mit ihr bekommst du drei Sätze, die du so ins Meeting mitnehmen kannst.
 
-Du brauchst ihn nicht heute. Du brauchst ihn an dem Tag, an dem du nicht vorbereitet bist.
+Baustein 4 ist der Grund, warum es im Meeting hält: „Keine Aussage ohne Zahl" verhindert die vagen Sätze, bei denen sofort nachgefragt wird.
 
-#KIimJob #Jahresgespräch #Prompts
+Du brauchst ihn nicht heute. Du brauchst ihn an dem Tag, an dem die Auswertung bis Mittag fertig sein muss.
+
+#KIimJob #Excel #Prompts
 """
 
 CAPTIONS[4] = """STORY 15:00 · Engagement-Trigger
-Bildtext: Wie viele in deinem Team hatten je ein KI-Training?
-1 Keiner - wir machen das selbst / 2 Ein paar - meist die Chefs / 3 Alle, es war verpflichtend
-Hinweis im Bild: Bundesweit 18,6 % ohne Fuehrungsrolle, 35,2 % mit.
+Bildtext: Wofuer nutzt du KI im Job am haeufigsten?
+1 Informationen suchen / 2 Texte schreiben oder glaetten / 3 Zahlen und Tabellen auswerten
+Hinweis im Bild: Bundesweit 78 % / 46 % / 10 %.
 CTA im Bild: Antworte mit 1, 2 oder 3.
 Kein Umfrage-Sticker - Interaktion steckt im Bildinhalt.
-Quelle: KI-Monitor 2026, TU Darmstadt mit YouGov, ueber 2.000 Befragte.
+Quelle: TUEV-Verband, Forsa-Umfrage, 08.04.2026, 587 Erwerbstaetige.
 """
 
 CAPTIONS[5] = """STORY 20:00 · DM-CTA
-Bildtext: Der Nachweis-Satz fuer dein Jahresgespraech - als Prompt zum Einfuegen.
-Vier Bausteine: Rolle, Input, Regeln, Format.
+Bildtext: Der Auswertungs-Prompt fuer deine Tabellen - vier Bausteine zum Einfuegen.
+Vier Bausteine: Rolle, Input, Frage, Format.
 CTA im Bild: Schreib mir STACK als DM.
 Keyword: STACK -> Antwort enthaelt die vollstaendige Prompt-Vorlage aus dem 14:00-Reel.
 """

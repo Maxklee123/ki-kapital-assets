@@ -2,72 +2,74 @@
 CAPTIONS = {}
 
 CAPTIONS[1] = """STORY 09:00 · Teaser
-Bildtext: Fast alle benutzen KI wie eine bessere Suchmaschine. 10 % lassen ihre Daten auswerten.
-Hinweis im Bild: Dort liegt die Arbeit, die vorher einen halben Tag gekostet hat.
-CTA im Bild: Heute 10:00 - die ganze Verteilung.
-Quelle: TUEV-Verband, Forsa-Umfrage, 08.04.2026, 587 Erwerbstaetige in Deutschland.
+Bildtext: Fast 60 % der Erwerbstaetigen erwarten, dass KI in vielen Berufen Arbeitsplaetze ersetzt. 15,7 % sagen das ueber ihren eigenen Arbeitsplatz.
+Hinweis im Bild: Die Angst ist gross - und hat keine Adresse. Genau deshalb bringt sie nichts.
+CTA im Bild: Heute 10:00 - wer die Zahl nach oben zieht.
+Quelle: KI-Monitor 2026, TU Darmstadt mit YouGov, Pressemitteilung 28.08.2026, ueber 2.000 Befragte ab 16 Jahren in Deutschland.
 Kein Umfrage-Sticker - Interaktion steckt im Bildinhalt.
 """
 
-CAPTIONS[2] = """Du nutzt KI im Job wahrscheinlich als bessere Suchmaschine. Fast alle tun das.
-KI im Arbeitsalltag: wofür Beschäftigte sie wirklich einsetzen – und wo die Lücke liegt.
+CAPTIONS[2] = """Du hältst Jobverluste durch KI für wahrscheinlich – nur nicht bei dir. Fast alle tun das.
+KI und Arbeitsplätze: die Lücke zwischen der Sorge um alle und der Sorge um sich.
 
-Der TÜV-Verband hat Forsa 587 Erwerbstätige fragen lassen, für welche Aufgaben sie KI im Job verwenden. Die Verteilung ist eindeutig:
+Die TU Darmstadt hat mit YouGov über 2.000 Menschen in Deutschland befragt. Zwei Zahlen aus derselben Erhebung:
 
-78 Prozent suchen nach Informationen. 46 Prozent erstellen oder verbessern Texte. 41 Prozent entwickeln neue Ideen.
+59,7 Prozent der Erwerbstätigen halten es für wahrscheinlich, dass KI in den nächsten fünf Jahren Arbeitsplätze in vielen Berufen ersetzt.
 
-Und dann wird es dünn: Berechnungen durchführen 13 Prozent. Datensätze analysieren 10 Prozent.
+Auf den eigenen Arbeitsplatz bezogen sagen das 15,7 Prozent. 61,4 Prozent halten es für eher oder sehr unwahrscheinlich.
 
-Das ist die interessante Zahl. Denn die Auswertung ist die Aufgabe, die im Büro am längsten dauert – und sie ist die am wenigsten besetzte.
+44 Punkte Abstand. Eine große Sorge, die sich an niemanden richtet – und deshalb nichts verändert.
 
-Dazu passt der zweite Befund: 88 Prozent der Nutzer sagen, die Qualität hänge davon ab, wie präzise die Aufgabe formuliert ist. 55 Prozent bekommen trotzdem Ergebnisse, die zu unkonkret sind und nachbearbeitet werden müssen.
+Jetzt kommt der Teil, der gegen die Erwartung läuft: Erwerbstätige mit sehr hohem KI-Wissen halten ihren eigenen Job zu 42,8 Prozent für ersetzbar. Bei sehr geringem Wissen sind es 6,2 Prozent.
 
-Heißt: Es hängt nicht am Tool. Es hängt an der Frage, die du hineingibst.
+Nicht die Ahnungslosen haben Angst. Die Informierten haben sie.
 
-Wer Zahlen hineingibt statt Fragen, spielt in einer Liga, in der neun von zehn Kollegen gar nicht antreten.
+Das liest sich erst wie ein Argument fürs Nichtstun. Es ist das Gegenteil. Die 42,8 Prozent sind nicht schlechter dran – sie sind die Einzigen, die benennen können, welche Aufgabe tatsächlich geht und welche bleibt. Wer das nicht kann, hat kein Problem weniger, sondern nur ein unscharfes.
+
+Passend dazu: Nur 15 Prozent waren je in einer KI-Weiterbildung, bei Erwerbstätigen 23,2 Prozent.
 
 Folge für einen Workflow pro Tag.
 
-Quelle: TÜV-Verband, Forsa-Umfrage vom 08.04.2026, 587 Erwerbstätige in Deutschland.
+Quelle: KI-Monitor 2026, TU Darmstadt mit YouGov, Pressemitteilung vom 28.08.2026, über 2.000 Befragte ab 16 Jahren in Deutschland.
 
-#KIimJob #Arbeitsalltag #Excel
+#KIimJob #Arbeitsalltag #Karriere
 """
 
-CAPTIONS[3] = """Speicher diesen Prompt, bevor du ihn brauchst. Nicht erst beim Monatsabschluss.
-Excel-Auswertung mit KI: der Prompt in vier Bausteinen, zum Einfügen.
+CAPTIONS[3] = """Speicher diesen Prompt. Du brauchst ihn, bevor dein Chef die Frage stellt.
+Der Aufgaben-Check: wie du in 15 Minuten weißt, welche deiner Aufgaben KI übernimmt.
 
-10 Prozent. So viele Erwerbstätige lassen laut Forsa-Umfrage für den TÜV-Verband (08.04.2026, 587 Erwerbstätige) Datensätze von KI analysieren. 78 Prozent nutzen sie zum Suchen. Die Auswertung bleibt Handarbeit.
+15 Prozent. So viele Befragte waren laut KI-Monitor 2026 der TU Darmstadt (mit YouGov, 28.08.2026) je in einer KI-Weiterbildung. Bei Erwerbstätigen 23,2 Prozent. Alle anderen schätzen – und Schätzen ist der Grund, warum die Sorge bleibt.
 
-Dabei scheitert sie meist an einer Kleinigkeit: Die Tabelle hochladen reicht nicht. Die KI braucht die Frage, die dein Chef stellen wird.
+Der Fehler liegt in der Frage. „Kann KI meinen Job?" ist nicht beantwortbar. Ein Job ist keine Aufgabe, sondern zwanzig. Zerleg die Woche, und es wird prüfbar.
 
-Die Vorlage aus dem Reel, Baustein für Baustein:
+Die Vorlage, Baustein für Baustein:
 
-1 ROLLE: Du bist Controller und prüfst meine Tabelle.
-2 INPUT: Spalten [Spalten], Zeitraum [Zeitraum].
-3 FRAGE: Nenne die drei größten Abweichungen zum Vormonat – je mit Zahl und möglicher Ursache.
-4 FORMAT: Drei Zeilen, eine je Abweichung. Keine Aussage ohne Zahl.
+1 ROLLE: Du bist Arbeitsanalyst und kennst meinen Job nicht.
+2 INPUT: Meine Woche in Aufgaben: [Aufgabe – Stunden], [Aufgabe – Stunden].
+3 FRAGE: Sortiere in drei Gruppen – heute von KI erledigbar, nur mit mir zusammen, nur von mir. Je ein Satz warum.
+4 FORMAT: Drei Listen mit Stundensumme. Keine Einordnung ohne Begründung.
 
-Baustein 3 entscheidet. Ohne die konkrete Frage bekommst du eine Zusammenfassung deiner eigenen Tabelle – also nichts, was du nicht schon wusstest. Mit ihr bekommst du drei Sätze, die du so ins Meeting mitnehmen kannst.
+Baustein 2 ist der, den die meisten zu knapp halten. Ohne Stunden bekommst du eine Meinung, mit Stunden eine Rangfolge – und die sagt dir, wo du anfängst.
 
-Baustein 4 ist der Grund, warum es im Meeting hält: „Keine Aussage ohne Zahl" verhindert die vagen Sätze, bei denen sofort nachgefragt wird.
+Baustein 3 ist der Kern. Gruppe 1 ist das, was du ab morgen delegieren kannst. Gruppe 3 ist deine Jobbeschreibung für die nächsten fünf Jahre – und die kennt niemand, der nur Angst hat.
 
-Du brauchst ihn nicht heute. Du brauchst ihn an dem Tag, an dem die Auswertung bis Mittag fertig sein muss.
+Du brauchst ihn nicht heute. Du brauchst ihn an dem Tag, an dem im Meeting jemand fragt, was KI bei euch übernehmen soll.
 
-#KIimJob #Excel #Prompts
+#KIimJob #Karriere #Prompts
 """
 
 CAPTIONS[4] = """STORY 15:00 · Engagement-Trigger
-Bildtext: Wofuer nutzt du KI im Job am haeufigsten?
-1 Informationen suchen / 2 Texte schreiben oder glaetten / 3 Zahlen und Tabellen auswerten
-Hinweis im Bild: Bundesweit 78 % / 46 % / 10 %.
+Bildtext: Hast du schon mal durchgerechnet, welche deiner Aufgaben KI uebernehmen koennte?
+1 Ja - ich kenne meine Liste / 2 Angefangen, nie fertig / 3 Nein - nur ein ungutes Gefuehl
+Hinweis im Bild: Bundesweit waren 15 % je in einer KI-Weiterbildung.
 CTA im Bild: Antworte mit 1, 2 oder 3.
 Kein Umfrage-Sticker - Interaktion steckt im Bildinhalt.
-Quelle: TUEV-Verband, Forsa-Umfrage, 08.04.2026, 587 Erwerbstaetige.
+Quelle: KI-Monitor 2026, TU Darmstadt mit YouGov, 28.08.2026.
 """
 
 CAPTIONS[5] = """STORY 20:00 · DM-CTA
-Bildtext: Der Auswertungs-Prompt fuer deine Tabellen - vier Bausteine zum Einfuegen.
+Bildtext: Der Aufgaben-Check fuer deinen Job - vier Bausteine zum Einfuegen.
 Vier Bausteine: Rolle, Input, Frage, Format.
-CTA im Bild: Schreib mir STACK als DM.
-Keyword: STACK -> Antwort enthaelt die vollstaendige Prompt-Vorlage aus dem 14:00-Reel.
+CTA im Bild: Schreib mir LISTE als DM.
+Keyword: LISTE -> Antwort enthaelt die vollstaendige Prompt-Vorlage aus dem 14:00-Reel.
 """

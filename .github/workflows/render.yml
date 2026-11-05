@@ -12,6 +12,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Datum aus engine/build.py lesen
+        id: d
+        run: |
+          DATE=$(python3 -c "import re,io;print(re.search(r'DATE\s*=\s*\"([0-9-]+)\"', io.open('engine/build.py',encoding='utf-8').read()).group(1))")
+          echo "Datum: $DATE"
+          echo "date=$DATE" >> "$GITHUB_OUTPUT"
+
       - name: Abhaengigkeiten
         run: |
           python3 -m pip install --quiet --upgrade pillow
@@ -35,20 +42,24 @@ jobs:
         run: python3 engine/build.py
 
       - name: Pruefen
+        env:
+          DATE: ${{ steps.d.outputs.date }}
         run: |
           for s in 2 3; do
             printf 'slot-%s ' "$s"
-            ffprobe -v error -show_entries format=duration -of csv=p=0 "assets/2026-11-04/slot-$s/reel.mp4"
-            ffprobe -v error -select_streams v -show_entries stream=width,height,codec_name -of csv=p=0 "assets/2026-11-04/slot-$s/reel.mp4"
+            ffprobe -v error -show_entries format=duration -of csv=p=0 "assets/$DATE/slot-$s/reel.mp4"
+            ffprobe -v error -select_streams v -show_entries stream=width,height,codec_name -of csv=p=0 "assets/$DATE/slot-$s/reel.mp4"
           done
-          find assets/2026-11-04 -type f -printf '%10s %p\n' | sort -k2
+          find "assets/$DATE" -type f -printf '%10s %p\n' | sort -k2
 
       - name: Commit
+        env:
+          DATE: ${{ steps.d.outputs.date }}
         run: |
           git checkout -- fonts || true
           git clean -fd fonts || true
           git config user.name "ki-kapital-engine"
           git config user.email "actions@users.noreply.github.com"
-          git add assets/2026-11-04
-          git commit -m "Produktion 2026-11-04" || echo "nichts zu committen"
+          git add "assets/$DATE"
+          git commit -m "Produktion $DATE" || echo "nichts zu committen"
           git push

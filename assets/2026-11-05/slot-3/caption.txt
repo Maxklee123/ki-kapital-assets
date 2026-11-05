@@ -1,0 +1,21 @@
+Speicher diesen Prompt. Du brauchst ihn, bevor dein Chef die Frage stellt.
+Der Aufgaben-Check: wie du in 15 Minuten weißt, welche deiner Aufgaben KI übernimmt.
+
+15 Prozent. So viele Befragte waren laut KI-Monitor 2026 der TU Darmstadt (mit YouGov, 28.08.2026) je in einer KI-Weiterbildung. Bei Erwerbstätigen 23,2 Prozent. Alle anderen schätzen – und Schätzen ist der Grund, warum die Sorge bleibt.
+
+Der Fehler liegt in der Frage. „Kann KI meinen Job?" ist nicht beantwortbar. Ein Job ist keine Aufgabe, sondern zwanzig. Zerleg die Woche, und es wird prüfbar.
+
+Die Vorlage, Baustein für Baustein:
+
+1 ROLLE: Du bist Arbeitsanalyst und kennst meinen Job nicht.
+2 INPUT: Meine Woche in Aufgaben: [Aufgabe – Stunden], [Aufgabe – Stunden].
+3 FRAGE: Sortiere in drei Gruppen – heute von KI erledigbar, nur mit mir zusammen, nur von mir. Je ein Satz warum.
+4 FORMAT: Drei Listen mit Stundensumme. Keine Einordnung ohne Begründung.
+
+Baustein 2 ist der, den die meisten zu knapp halten. Ohne Stunden bekommst du eine Meinung, mit Stunden eine Rangfolge – und die sagt dir, wo du anfängst.
+
+Baustein 3 ist der Kern. Gruppe 1 ist das, was du ab morgen delegieren kannst. Gruppe 3 ist deine Jobbeschreibung für die nächsten fünf Jahre – und die kennt niemand, der nur Angst hat.
+
+Du brauchst ihn nicht heute. Du brauchst ihn an dem Tag, an dem im Meeting jemand fragt, was KI bei euch übernehmen soll.
+
+#KIimJob #Karriere #Prompts

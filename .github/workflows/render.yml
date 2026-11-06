@@ -9,6 +9,7 @@ permissions:
 jobs:
   render:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
 
@@ -20,22 +21,25 @@ jobs:
           echo "date=$DATE" >> "$GITHUB_OUTPUT"
 
       - name: Abhaengigkeiten
+        timeout-minutes: 6
         run: |
-          python3 -m pip install --quiet --upgrade pillow
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq ffmpeg
-          ffmpeg -version | head -1
+          python3 -m pip install --quiet --upgrade pillow imageio-ffmpeg
           python3 -c "import PIL; print('PIL', PIL.__version__)"
+          python3 -c "import imageio_ffmpeg as m; print('ffmpeg:', m.get_ffmpeg_exe())"
+          command -v ffmpeg && ffmpeg -version | head -1 || echo "kein System-ffmpeg, imageio-ffmpeg wird benutzt"
+          command -v ffprobe && ffprobe -version | head -1 || echo "kein ffprobe"
 
       - name: Schriften
+        timeout-minutes: 4
         run: |
           mkdir -p fonts
           for w in Bold Medium Regular; do
-            curl -sSL -o "fonts/Poppins-$w.ttf" "https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/Poppins-$w.ttf"
+            curl -sSL --retry 3 -o "fonts/Poppins-$w.ttf" "https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/Poppins-$w.ttf"
           done
           ls -l fonts
 
       - name: Rendern
+        timeout-minutes: 10
         env:
           FONTDIR: fonts
           OUTROOT: .
@@ -47,12 +51,19 @@ jobs:
         run: |
           shopt -s nullglob
           n=0
-          for f in "assets/$DATE"/slot-*/reel.mp4; do
-            n=$((n+1))
-            printf '%s ' "$f"
-            ffprobe -v error -show_entries format=duration -of csv=p=0 "$f"
-            ffprobe -v error -select_streams v -show_entries stream=width,height,codec_name -of csv=p=0 "$f"
-          done
+          if command -v ffprobe >/dev/null 2>&1; then
+            for f in "assets/$DATE"/slot-*/reel.mp4; do
+              n=$((n+1)); printf '%s ' "$f"
+              ffprobe -v error -show_entries format=duration -of csv=p=0 "$f"
+              ffprobe -v error -select_streams v -show_entries stream=width,height,codec_name -of csv=p=0 "$f"
+            done
+          else
+            FF=$(python3 -c "import imageio_ffmpeg as m; print(m.get_ffmpeg_exe())")
+            for f in "assets/$DATE"/slot-*/reel.mp4; do
+              n=$((n+1)); echo "== $f"
+              "$FF" -hide_banner -i "$f" -f null - 2>&1 | grep -E "Duration|Stream #0" || true
+            done
+          fi
           echo "Reels geprueft: $n"
           find "assets/$DATE" -type f -printf '%10s %p\n' | sort -k2
 

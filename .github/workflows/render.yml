@@ -45,11 +45,15 @@ jobs:
         env:
           DATE: ${{ steps.d.outputs.date }}
         run: |
-          for s in 2 3; do
-            printf 'slot-%s ' "$s"
-            ffprobe -v error -show_entries format=duration -of csv=p=0 "assets/$DATE/slot-$s/reel.mp4"
-            ffprobe -v error -select_streams v -show_entries stream=width,height,codec_name -of csv=p=0 "assets/$DATE/slot-$s/reel.mp4"
+          shopt -s nullglob
+          n=0
+          for f in "assets/$DATE"/slot-*/reel.mp4; do
+            n=$((n+1))
+            printf '%s ' "$f"
+            ffprobe -v error -show_entries format=duration -of csv=p=0 "$f"
+            ffprobe -v error -select_streams v -show_entries stream=width,height,codec_name -of csv=p=0 "$f"
           done
+          echo "Reels geprueft: $n"
           find "assets/$DATE" -type f -printf '%10s %p\n' | sort -k2
 
       - name: Commit

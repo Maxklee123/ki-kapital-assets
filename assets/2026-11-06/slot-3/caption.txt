@@ -1,0 +1,25 @@
+Speicher diesen Prompt. Montag um 8 brauchst du ihn.
+Mail schreiben mit KI: wie aus drei Durchläufen einer wird.
+
+29 Prozent der Erwerbstätigen in Deutschland nutzen KI für Mails, Berichte und PDFs – so die Befragung von Adobe Acrobat mit 3Gem unter 1.500 Beschäftigten im April 2026. Es ist der häufigste Einsatz im Büro. Und der, bei dem die meisten nach der Rohfassung aufhören.
+
+Danach kommt die Handarbeit: umbauen, Ton glätten, kürzen. Dreimal dieselbe Mail.
+
+Der Fehler steckt in der Eingabe. Wer der KI seinen Text gibt, bekommt seinen Text zurück – nur glätter. Gib ihr stattdessen die drei Dinge, die eine Mail entscheiden: Empfänger, Entscheidung, Einwand.
+
+Die Vorlage, Baustein für Baustein:
+
+1 ROLLE: Du schreibst eine Mail an [Empfänger, seine Rolle].
+2 ZIEL: Er soll [eine Entscheidung] treffen. Mehr nicht.
+3 EINWAND: Sein wahrscheinlichster Einwand ist [Einwand]. Nimm ihn in Satz zwei vorweg.
+4 FORMAT: Max. 120 Wörter, Betreff mit der Entscheidung, letzte Zeile eine Frage. Dazu drei Betreff-Varianten.
+
+Baustein 2 ist der, den die meisten zu weit fassen. Eine Mail, die zwei Entscheidungen will, bekommt keine.
+
+Baustein 3 ist der, den alle weglassen – und genau er entscheidet, ob die Mail durchgeht. Ein vorweggenommener Einwand spart dir die komplette zweite Runde.
+
+Du brauchst ihn nicht jetzt. Du brauchst ihn Montag um 8, wenn die erste Mail raus muss und der Kopf noch nicht da ist.
+
+Quelle: Adobe Acrobat mit 3Gem, Befragung April 2026, 1.500 Erwerbstätige in Deutschland.
+
+#KIimJob #Prompts #Arbeitsalltag

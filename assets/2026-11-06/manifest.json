@@ -1,0 +1,52 @@
+{
+ "1": {
+  "time": "10:00",
+  "format": "Reel A",
+  "files": [
+   "frame-1.jpg",
+   "frame-2.jpg",
+   "frame-3.jpg",
+   "frame-4.jpg",
+   "frame-5.jpg",
+   "frame-6.jpg",
+   "reel.mp4",
+   "caption.txt"
+  ]
+ },
+ "2": {
+  "time": "12:00",
+  "format": "Karussell",
+  "files": [
+   "slide-1.jpg",
+   "slide-2.jpg",
+   "slide-3.jpg",
+   "slide-4.jpg",
+   "slide-5.jpg",
+   "slide-6.jpg",
+   "slide-7.jpg",
+   "caption.txt"
+  ]
+ },
+ "3": {
+  "time": "14:00",
+  "format": "Reel B",
+  "files": [
+   "frame-1.jpg",
+   "frame-2.jpg",
+   "frame-3.jpg",
+   "frame-4.jpg",
+   "frame-5.jpg",
+   "frame-6.jpg",
+   "reel.mp4",
+   "caption.txt"
+  ]
+ },
+ "4": {
+  "time": "20:00",
+  "format": "Story",
+  "files": [
+   "story.jpg",
+   "caption.txt"
+  ]
+ }
+}

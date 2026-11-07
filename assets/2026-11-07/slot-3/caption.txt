@@ -1,0 +1,25 @@
+Speicher diesen Prompt. Montag ist die Aufgabe wieder da.
+Die Arbeitsanweisung: wie aus einer Aufgabe, die nur du kannst, etwas wird, das du abgeben kannst.
+
+Es gibt in jedem Job diese eine Aufgabe. Du machst sie seit Jahren. Du machst sie gut. Und du erklärst sie jedes Mal neu, weil sie nirgends steht.
+
+Das fühlt sich nach Jobsicherheit an. Es ist das Gegenteil. Was du nicht beschreiben kannst, kann dir niemand abnehmen – keine KI und keine Vertretung. Deshalb bleibt es liegen, wenn du im Urlaub bist, und deshalb kommst du nicht zu dem, was sichtbar wäre.
+
+Die Zahl dazu aus dem IW-Kurzbericht vom 13. Oktober: Allein auf Fachkraft-Ebene sind seit 2019 rund 238.031 zusätzliche KI-nahe Stellen entstanden. Nicht durch neue Akademiker, sondern weil Fachkraft-Tätigkeiten selbst näher an die KI gerückt sind. Ohne Studium, ohne neuen Titel.
+
+Die Vorlage, Baustein für Baustein:
+
+1 ROLLE: Du schreibst Arbeitsanweisungen für jemanden, der die Aufgabe nie gemacht hat.
+2 INPUT: Aufgabe [Name]. Heute mache ich: [Schritt 1], [Schritt 2], [Schritt 3]. Nie passieren darf: [Fehler].
+3 FRAGE: Mach daraus eine Anleitung, die ein Fremder und eine KI gleich gut befolgen können.
+4 FORMAT: Nummerierte Schritte, je ein Satz. Am Ende drei Prüffragen vor der Abgabe.
+
+Baustein 2 ist der, den die meisten zu kurz halten. Der Satz mit dem Fehler ist der wichtigste: Er enthält das, was du über die Aufgabe weißt und sonst nie aufschreibst.
+
+Baustein 4 macht aus der Anleitung ein Dokument, das im Team zirkuliert. Mit deinem Namen darauf.
+
+Wer die Anleitung schreibt, wird nicht ersetzt. Er wird gefragt.
+
+Quelle: IW Köln, IW-Kurzbericht Nr. 70/2026, Stefanie Seele, 13.10.2026 · Beschäftigtendaten der Bundesagentur für Arbeit, Dezember 2019 bis Dezember 2025.
+
+#KIimJob #Prompts #Arbeitsalltag #Karriere #KIKompetenz #Produktivitaet

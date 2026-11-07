@@ -1,0 +1,6 @@
+STORY 20:00 · DM-CTA Bildtext: Die Arbeitsanweisung aus dem 14-Uhr-Reel – als Prompt zum Einfügen. Keyword im Bild: „ANLEITUNG". Zusatz: Du bekommst die vier Bausteine als Text zum Kopieren. Button: Wort in die DMs schicken.
+
+Keyword: ANLEITUNG
+Auszuliefern auf DM: die vier Bausteine aus Reel B (Slot 3) als kopierbarer Text.
+
+Zweck: DM-Konversion auf den Prompt aus dem 14:00-Reel.

@@ -1,0 +1,5 @@
+STORY 15:00 · Engagement-Trigger Bildtext: Wie nah sitzt dein Beruf an der KI? Antwortoptionen im Bild: 1 Täglich – ich arbeite damit. 2 Ab und zu, ohne System. 3 Gar nicht – noch nicht. 4 Mein Job hat nichts damit zu tun. Einordnung: Bundesweit arbeiten knapp 12,4 von 35 Millionen Beschäftigten KI-nah. Button: Antworte mit 1, 2, 3 oder 4.
+
+Quelle im Bild: IW Köln, IW-Kurzbericht Nr. 70/2026, 13.10.2026 · Daten der Bundesagentur für Arbeit.
+
+Zweck: Antworten kommen als DM, kein Sticker (per API nicht möglich).

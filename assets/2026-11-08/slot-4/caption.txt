@@ -1,0 +1,7 @@
+STORY 15:00 · Engagement-Trigger
+
+Bildtext: Was hält dich ab, KI im Job zu benutzen? 1 – keine Zeit, mich einzuarbeiten. 2 – Angst, etwas Falsches abzugeben.
+
+Button: 1 oder 2 – per DM.
+
+Zweck: Interaktion über den Bildinhalt, kein Umfrage-Sticker (per API nicht möglich). Antworten laufen als DM ein und sind die Grundlage für die Themen der kommenden Woche.

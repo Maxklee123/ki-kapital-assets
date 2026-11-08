@@ -1,0 +1,9 @@
+STORY 20:00 · DM-CTA
+
+Bildtext: Die Vorlage, mit der du deinen eigenen Job durchleuchtest. Ein Prompt – du setzt deine Position ein und bekommst die fünf Aufgaben, die KI dir morgen abnimmt, und die drei, die dich unersetzbar machen.
+
+Button: Schreib STACK als DM.
+
+Keyword: STACK
+
+Zweck: einziger Konversions-CTA des Tages. Kein zweiter CTA im selben Bild.

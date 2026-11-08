@@ -1,87 +1,109 @@
 # -*- coding: utf-8 -*-
 CAPTIONS = {}
 
-CAPTIONS[1] = """Du sparst mit KI Zeit \u2013 sagen kannst du nicht, wo sie hingeht. Fast alle k\u00f6nnen das nicht.
-KI im B\u00fcroalltag: acht gesparte Stunden pro Woche, die niemand sieht.
+QUELLE_PWC = ("Quelle: PwC, 2026 AI Jobs Barometer, veröffentlicht am 30.06.2026. "
+              "Grundlage: Auswertung von über einer Milliarde Stellenanzeigen aus 27 Ländern; "
+              "die deutschen Zahlen beziehen sich auf 2025.")
 
-Adobe Acrobat hat mit dem Marktforscher 3Gem im April 2026 1.500 Erwerbst\u00e4tige in Deutschland befragt. Drei Zahlen aus derselben Erhebung:
+# ------------------------------------------------ Slot 1 (Story 09:00)
+CAPTIONS[1] = """STORY 09:00 · Teaser
 
-67 Prozent sagen, dass sie mit KI bis zu acht Stunden Arbeitszeit pro Woche einsparen.
+Bildtext: 7 zu 1 – so viele KI-Stellen in Deutschland suchen Anwender und nicht Entwickler. 109.400 Anzeigen für Leute, die KI benutzen. 15.400 für Leute, die sie bauen.
 
-29 Prozent nutzen KI, um Mails, Berichte oder PDFs zu erstellen und zu bearbeiten. Das ist der h\u00e4ufigste Einsatz \u2013 und der banalste. Genau der, den jeder im B\u00fcro hat.
+Button: Das Reel um 10 Uhr.
 
-26 Prozent nutzen bei der Arbeit \u00fcberhaupt kein KI-Werkzeug.
+Quelle im Bild: PwC, 2026 AI Jobs Barometer, 30.06.2026 · deutsche Stellenanzeigen 2025.
 
-Jetzt der Teil, der gegen die Erwartung l\u00e4uft: In Wirtschaft, Beratung und Management arbeiten 46 Prozent mit KI an Dokumenten, im Ingenieurwesen 42, in der Finanzbranche 36. Das sind dieselben Dokumente, dieselben Mails, dieselben Berichte \u2013 zehn Punkte Abstand.
-
-Der Unterschied liegt nicht am Beruf. Er liegt daran, wer angefangen hat.
-
-Und hier wird es unangenehm: acht gesparte Stunden, von denen niemand wei\u00df, sind im Jahresgespr\u00e4ch null Stunden. Zeitersparnis allein ist keine Leistung, die jemand sehen kann. Sie ist erst eine, wenn du sie benennen kannst.
-
-Morgen schauen wir uns an, wie du genau das in drei Minuten vorbereitest.
-
-Folge f\u00fcr einen Workflow pro Tag.
-
-Quelle: Adobe Acrobat mit 3Gem, Befragung April 2026, 1.500 Erwerbst\u00e4tige in Deutschland.
-
-#KIimJob #Arbeitsalltag #Karriere
+Zweck: Teaser auf Reel A um 10:00. Harte Zahl zuerst, Auflösung im Reel.
 """
 
-CAPTIONS[2] = """42 Prozent sparen mit KI einen Arbeitstag pro Woche. 66 Prozent wird nicht gesagt, wof\u00fcr.
-KI im Job: wohin die gesparte Zeit verschwindet \u2013 und wie du sie sichtbar machst.
+# ------------------------------------------------ Slot 2 (Reel A 10:00)
+CAPTIONS[2] = """Du hältst dich für zu untechnisch für KI. Der deutsche Stellenmarkt sucht genau dich.
+KI-Jobs in Deutschland: auf jede Entwicklerstelle kommen sieben für Anwender.
 
-Die Boston Consulting Group hat f\u00fcr den Bericht \u201aKI am Arbeitsplatz 2026' Arbeitnehmer befragt. 42 Prozent sparen durch KI w\u00f6chentlich einen ganzen Arbeitstag. 66 Prozent erhalten keine Anleitung, wie sie die gewonnene Zeit nutzen sollen.
+PwC hat für das AI Jobs Barometer über eine Milliarde Stellenanzeigen aus 27 Ländern ausgewertet. Die deutschen Zahlen für 2025 sind eindeutig.
 
-Was dann passiert, zeigt eine Befragung von Indeed unter 501 Angestellten in Deutschland: Fast die H\u00e4lfte verbringt die gesparte Zeit mit Aufgaben ohne erkennbaren Mehrwert f\u00fcr das Unternehmen. Knapp ein Viertel wendet sich Verwaltungsarbeit zu, 20,8 Prozent nehmen zus\u00e4tzliche Pausen, sieben Prozent sitzen in Meetings.
+Rund 125.000 Stellenanzeigen in Deutschland waren KI-bezogen. Davon entfielen 109.400 auf Rollen, die KI im Fachprozess anwenden – und nur 15.400 auf Entwicklerrollen. Das Verhältnis liegt bei etwa sieben zu eins.
 
-Die Zeit kommt also an. Sie kommt nur nirgendwo an, wo jemand sie sieht.
+Knapp 88 Prozent der KI-Jobs wollen also keinen Code. Sie wollen jemanden, der das Werkzeug in Sachbearbeitung, Projekt, Marketing oder HR einsetzt.
 
-Dazu die Zahl, die am meisten kostet: 23 Prozent verschweigen ihre Effizienzgewinne bewusst \u2013 aus Angst, daf\u00fcr mehr Arbeit zu bekommen. Das Ergebnis ist trotzdem mehr Arbeit, nur ohne Anerkennung.
+Jetzt die Zahl, die gegen die Erwartung läuft: Der Zusammenhang zwischen KI-Betroffenheit und veränderten Kompetenzanforderungen liegt in Deutschland bei 0,02. PwC nennt das nahezu inexistent. Weltweit verändern sich die geforderten Kompetenzen in KI-nahen Rollen mehr als doppelt so schnell wie anderswo – in Deutschland ist davon bisher kaum etwas angekommen.
 
-Und die Gegenprobe: Wo der Umgang mit KI offen gef\u00f6rdert wird, sparen 18 Prozent mehr als sechs Stunden pro Woche, und 57,6 Prozent stecken die Zeit in Weiterbildung oder eigene Projekte.
+Das heißt im Klartext: Dein Beruf bleibt vorerst dein Beruf. Niemand verlangt von dir, ein anderer Mensch zu werden.
 
-Der Unterschied ist nicht das Tool. Der Unterschied ist, ob jemand ausspricht, was die Zeit gebracht hat.
+Der ehrliche Vorbehalt: Gemessen ist die Vergangenheit, nicht die nächsten fünf Jahre. Dass sich in Deutschland wenig bewegt hat, ist kein Versprechen, dass es so bleibt.
 
-Auf Slide 5 steht die Vorlage daf\u00fcr. Drei Minuten am Freitagnachmittag, und du hast drei S\u00e4tze, die im Jahresgespr\u00e4ch tragen.
+Was heute gilt: Nicht das Studium fehlt dir. Die ersten fünfzehn Minuten fehlen.
 
-Folge f\u00fcr einen Workflow pro Tag.
+Folge für einen Workflow pro Tag.
 
-Quellen: BCG, KI am Arbeitsplatz 2026 (02.07.2026). Indeed-Befragung, 501 Angestellte in Deutschland (17.09.2025).
+""" + QUELLE_PWC + """
 
-#KIimJob #Karriere #Arbeitsalltag
+#KIimJob #Karriere #Arbeitsmarkt
 """
 
-CAPTIONS[3] = """Speicher diesen Prompt. Montag um 8 brauchst du ihn.
-Mail schreiben mit KI: wie aus drei Durchl\u00e4ufen einer wird.
+# ------------------------------------------------ Slot 3 (Karussell 12:00)
+CAPTIONS[3] = """Fünf deutsche Zahlen aus dieser Woche, die der Angst vor KI im Job widersprechen.
+Zahlen der Woche: Wer gesucht wird, was es bringt – und wie früh es wirklich noch ist.
 
-29 Prozent der Erwerbst\u00e4tigen in Deutschland nutzen KI f\u00fcr Mails, Berichte und PDFs \u2013 so die Befragung von Adobe Acrobat mit 3Gem unter 1.500 Besch\u00e4ftigten im April 2026. Es ist der h\u00e4ufigste Einsatz im B\u00fcro. Und der, bei dem die meisten nach der Rohfassung aufh\u00f6ren.
+1) 7 zu 1. So viele KI-Stellen in Deutschland suchen Anwender statt Entwickler: 109.400 Anwender-Rollen gegen 15.400 Entwicklerrollen, 2025. (PwC, 2026 AI Jobs Barometer, 30.06.2026)
 
-Danach kommt die Handarbeit: umbauen, Ton gl\u00e4tten, k\u00fcrzen. Dreimal dieselbe Mail.
+2) Bis zu 39 Prozent. So hoch liegt der Lohnaufschlag für KI-Kenntnisse in Energie, Versorgung und Rohstoffen. In vielen Branchen sind es über 20 Prozent. (PwC, ebenda)
 
-Der Fehler steckt in der Eingabe. Wer der KI seinen Text gibt, bekommt seinen Text zur\u00fcck \u2013 nur gl\u00e4tter. Gib ihr stattdessen die drei Dinge, die eine Mail entscheiden: Empf\u00e4nger, Entscheidung, Einwand.
+3) 9 Prozent. So wenige Erwerbstätige in Deutschland halten es für wahrscheinlich oder sehr wahrscheinlich, dass KI ihren Job in fünf Jahren ersetzt. 64 Prozent halten es für sehr unwahrscheinlich. (Forsa für Table.Briefings, 17.01.2026, 1.004 Erwerbstätige)
 
-Die Vorlage, Baustein f\u00fcr Baustein:
+4) 67 Prozent. So viele sagen, dass KI ihnen bis zu acht Stunden Arbeitszeit pro Woche spart. Der häufigste Einsatz ist der banalste: Mails, Berichte, PDFs. (Adobe Acrobat, 07.08.2026, 1.500 Erwerbstätige in Deutschland)
 
-1 ROLLE: Du schreibst eine Mail an [Empf\u00e4nger, seine Rolle].
-2 ZIEL: Er soll [eine Entscheidung] treffen. Mehr nicht.
-3 EINWAND: Sein wahrscheinlichster Einwand ist [Einwand]. Nimm ihn in Satz zwei vorweg.
-4 FORMAT: Max. 120 W\u00f6rter, Betreff mit der Entscheidung, letzte Zeile eine Frage. Dazu drei Betreff-Varianten.
+5) 1,3 Prozent. So klein ist der Anteil KI-bezogener Stellenanzeigen in Deutschland – rund 125.000 Stück, nach etwa 1,0 Prozent im Jahr 2024. Das Feld ist nicht verteilt. (PwC, ebenda)
 
-Baustein 2 ist der, den die meisten zu weit fassen. Eine Mail, die zwei Entscheidungen will, bekommt keine.
+Zusammen ergeben die fünf ein Bild, das der Stimmung widerspricht: Gesucht wird nicht, wer KI baut. Gesucht wird, wer sie benutzt – und bezahlt wird es auch.
 
-Baustein 3 ist der, den alle weglassen \u2013 und genau er entscheidet, ob die Mail durchgeht. Ein vorweggenommener Einwand spart dir die komplette zweite Runde.
+Der Vorbehalt gehört dazu: Die Befragungszahlen sind Selbstauskünfte, und die Stellenanzeigen messen die Vergangenheit. Keine der fünf Zahlen sagt etwas über 2031.
 
-Du brauchst ihn nicht jetzt. Du brauchst ihn Montag um 8, wenn die erste Mail raus muss und der Kopf noch nicht da ist.
+Folge für einen Workflow pro Tag.
 
-Quelle: Adobe Acrobat mit 3Gem, Befragung April 2026, 1.500 Erwerbst\u00e4tige in Deutschland.
-
-#KIimJob #Prompts #Arbeitsalltag
+#KIimJob #Karriere #Arbeitsmarkt
 """
 
-CAPTIONS[4] = """STORY 20:00 \u00b7 DM-CTA
-Bildtext: Die Mail-Vorlage aus dem 14:00-Reel - vier Bausteine zum Einfuegen.
-Vier Bausteine: Rolle, Ziel, Einwand, Format.
-CTA im Bild: Schreib mir ENTWURF als DM.
-Keyword: ENTWURF -> Antwort enthaelt die vollstaendige Prompt-Vorlage aus dem 14:00-Reel.
-Kein Sticker - Interaktion steckt im Bildinhalt.
+# ------------------------------------------------ Slot 4 (Story 15:00)
+CAPTIONS[4] = """STORY 15:00 · Engagement-Trigger
+
+Bildtext: Was hält dich ab, KI im Job zu benutzen? 1 – keine Zeit, mich einzuarbeiten. 2 – Angst, etwas Falsches abzugeben.
+
+Button: 1 oder 2 – per DM.
+
+Zweck: Interaktion über den Bildinhalt, kein Umfrage-Sticker (per API nicht möglich). Antworten laufen als DM ein und sind die Grundlage für die Themen der kommenden Woche.
+"""
+
+# ------------------------------------------------ Slot 5 (Story 20:00)
+CAPTIONS[5] = """STORY 20:00 · DM-CTA
+
+Bildtext: Die Vorlage, mit der du deinen eigenen Job durchleuchtest. Ein Prompt – du setzt deine Position ein und bekommst die fünf Aufgaben, die KI dir morgen abnimmt, und die drei, die dich unersetzbar machen.
+
+Button: Schreib STACK als DM.
+
+Keyword: STACK
+
+Zweck: einziger Konversions-CTA des Tages. Kein zweiter CTA im selben Bild.
+"""
+
+# ------------------------------------------------ Slot 6 (Reel C 21:00)
+CAPTIONS[6] = """Du wartest darauf, dass dein Arbeitgeber dich schult. Der Markt zahlt schon jetzt für das, was du dir selbst beibringst.
+KI-Kenntnisse im Lebenslauf: über 20 Prozent Lohnaufschlag, in Spitzenbranchen bis zu 39.
+
+PwC hat für das AI Jobs Barometer über eine Milliarde Stellenanzeigen ausgewertet. In vielen deutschen Branchen liegt der Lohnaufschlag für ausgewiesene KI-Kenntnisse bei über 20 Prozent. In Energie, Versorgung und Rohstoffen sind es bis zu 39 Prozent.
+
+Entscheidend ist, wofür dieser Aufschlag gezahlt wird. Nicht fürs Entwickeln. Fürs Anwenden. In der Finanzbranche sind 97,3 Prozent aller KI-Rollen Anwenderrollen – der höchste Wert aller Branchen.
+
+Dazu die Zahl, die den Druck rausnimmt: Der Zusammenhang zwischen KI-Betroffenheit und veränderten Kompetenzanforderungen liegt in Deutschland bei 0,02. Du musst also niemand anderes werden. Du musst nur der sein, der es schon benutzt.
+
+Eine Branche fällt aus der Reihe, und das gehört dazu: In der Finanzbranche liegt der gemessene Aufschlag bei minus 9 Prozent. Der Zusammenhang gilt also nicht überall.
+
+Was bleibt: Unersetzbar wird nicht, wer die KI versteht. Sondern wer sie am Montagmorgen aufmacht, bevor jemand danach fragt.
+
+Folge für einen Workflow pro Tag.
+
+""" + QUELLE_PWC + """
+
+#KIimJob #Karriere #Unersetzbar
 """

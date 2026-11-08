@@ -2,19 +2,19 @@
 import os, sys, json
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import render as R
-from content import REEL_A, REEL_B, KARUSSELL, STORY_DM
+from content import REEL_A, REEL_C, KARUSSELL, STORY_TEASER, STORY_ENGAGE, STORY_DM
 from captions import CAPTIONS
 
-DATE = "2026-11-06"
+DATE = "2026-11-08"
 OUT  = os.environ.get("OUTROOT", ".") + "/assets/" + DATE
-# Slotplan nach OPERATIONS (Auswertung 05.11.2026, Anpassung 1 + Entscheidung 02.11.2026):
-#   21:00 Reel C gestrichen (Ursache D), 09:00- und 15:00-Story gestrichen,
-#   12:00-Karussell an Mi/Fr/So wieder produziert.
+# Sonntagsplan laut Task-Prompt: 2 Reels + 1 Wochen-Karussell + 3 Stories.
 PLAN = {
-    1: ("10:00", "Reel A",    REEL_A),
-    2: ("12:00", "Karussell", KARUSSELL),
-    3: ("14:00", "Reel B",    REEL_B),
-    4: ("20:00", "Story",     STORY_DM),
+    1: ("09:00", "Story",     STORY_TEASER),
+    2: ("10:00", "Reel A",    REEL_A),
+    3: ("12:00", "Karussell", KARUSSELL),
+    4: ("15:00", "Story",     STORY_ENGAGE),
+    5: ("20:00", "Story",     STORY_DM),
+    6: ("21:00", "Reel C",    REEL_C),
 }
 made = {}
 for slot in sorted(PLAN):

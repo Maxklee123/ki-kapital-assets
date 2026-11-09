@@ -1,0 +1,20 @@
+Speicher diesen Prompt, bevor du ihn brauchst. Am Donnerstag um 16 Uhr findest du ihn nicht wieder.
+
+Fast vier Stunden pro Woche kostet das Nachbessern von KI-Texten. 95 % müssen ran, bevor etwas rausgehen darf.
+
+Der Unterschied liegt nicht in der Korrektur. Er liegt in vier Zeilen, die VOR dem Auftrag stehen:
+
+1. ROLLE: Ich schreibe als [Rolle] an [Empfänger].
+2. STAND: Er weiß schon: [zwei Sätze].
+3. ZIEL: Danach soll er [Handlung] tun.
+4. GRENZEN: Max. [X] Sätze. Keine Floskeln.
+
+Darunter dein Rohmaterial einfügen. Fertig.
+
+Das sind 30 Sekunden Aufwand vorher statt 20 Minuten Aufräumen hinterher. Die eckigen Klammern füllst du beim nächsten echten Fall aus — deshalb gehört der Text jetzt in deine Sammlung, nicht in dein Gedächtnis.
+
+Speicher das. Montag wirst du es brauchen.
+
+Quelle: Templafy / Sapio Research, "The Business-Ready AI Gap 2026", 2.000 Wissensarbeiter, August 2026.
+
+#kiimjob #promptvorlage #künstlicheintelligenz #arbeitsalltag #produktivität #chatgpt #15minutenvorsprung

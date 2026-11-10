@@ -1,109 +1,95 @@
 # -*- coding: utf-8 -*-
 CAPTIONS = {}
 
-QUELLE_PWC = ("Quelle: PwC, 2026 AI Jobs Barometer, veröffentlicht am 30.06.2026. "
-              "Grundlage: Auswertung von über einer Milliarde Stellenanzeigen aus 27 Ländern; "
-              "die deutschen Zahlen beziehen sich auf 2025.")
+Q_IU = ("Quelle: IU Internationale Hochschule, „KI in der Arbeitswelt: Wie gelingt der Change?“, "
+        "veröffentlicht am 24.09.2026. Befragt wurden 2.000 Arbeitnehmende zwischen 16 und 65 Jahren "
+        "in Deutschland, repräsentativ nach Alter und Geschlecht, Erhebung vom 31.03. bis 14.04.2026.")
+
+TAGS_U = "#kiimjob #unersetzbar #15minutenvorsprung"
+TAGS_P = "#kiimjob #promptvorlage #15minutenvorsprung"
 
 # ------------------------------------------------ Slot 1 (Story 09:00)
-CAPTIONS[1] = """STORY 09:00 · Teaser
+CAPTIONS[1] = """51,2 % der Führungskräfte halten Prompten für eine Fähigkeit, die wichtiger wird.
 
-Bildtext: 7 zu 1 – so viele KI-Stellen in Deutschland suchen Anwender und nicht Entwickler. 109.400 Anzeigen für Leute, die KI benutzen. 15.400 für Leute, die sie bauen.
+Ohne Führungsverantwortung sagen das 38,1 %. Dieselbe Fähigkeit, 13 Prozentpunkte Abstand.
 
-Button: Das Reel um 10 Uhr.
+Die Lücke ist kein Zufall — und sie kommt in derselben Studie ein zweites Mal vor.
 
-Quelle im Bild: PwC, 2026 AI Jobs Barometer, 30.06.2026 · deutsche Stellenanzeigen 2025.
+Welche Fähigkeit das ist und was du heute damit machst: um 10:00 Uhr im Reel.
 
-Zweck: Teaser auf Reel A um 10:00. Harte Zahl zuerst, Auflösung im Reel.
+Quelle: IU Internationale Hochschule, „KI in der Arbeitswelt“, 24.09.2026, n=2.000 Arbeitnehmende in Deutschland.
+
+""" + TAGS_U + """
 """
 
 # ------------------------------------------------ Slot 2 (Reel A 10:00)
-CAPTIONS[2] = """Du hältst dich für zu untechnisch für KI. Der deutsche Stellenmarkt sucht genau dich.
-KI-Jobs in Deutschland: auf jede Entwicklerstelle kommen sieben für Anwender.
+CAPTIONS[2] = """Du hältst Prompten für eine Spielerei. Die Ebene, die über dich entscheidet, nicht.
 
-PwC hat für das AI Jobs Barometer über eine Milliarde Stellenanzeigen aus 27 Ländern ausgewertet. Die deutschen Zahlen für 2025 sind eindeutig.
+Die IU hat 2.000 Arbeitnehmende in Deutschland gefragt, welche Fähigkeiten im Job wichtiger werden. Die Antworten fallen auseinander, je nachdem wen man fragt.
 
-Rund 125.000 Stellenanzeigen in Deutschland waren KI-bezogen. Davon entfielen 109.400 auf Rollen, die KI im Fachprozess anwenden – und nur 15.400 auf Entwicklerrollen. Das Verhältnis liegt bei etwa sieben zu eins.
+Prompten: 51,2 % der Führungskräfte erwarten, dass es wichtiger wird — gegen 38,1 % der Beschäftigten ohne Führungsverantwortung. Dieselbe Lücke ein zweites Mal beim kritischen Prüfen von KI-Ergebnissen: 49,6 % gegen 38,6 %.
 
-Knapp 88 Prozent der KI-Jobs wollen also keinen Code. Sie wollen jemanden, der das Werkzeug in Sachbearbeitung, Projekt, Marketing oder HR einsetzt.
+Zweimal unterbewertest du genau das, was eine Ebene höher gezählt wird. Das ist der Mechanismus, mit dem Kollegen an dir vorbeiziehen — nicht Talent, sondern eine andere Einschätzung davon, was zählt.
 
-Jetzt die Zahl, die gegen die Erwartung läuft: Der Zusammenhang zwischen KI-Betroffenheit und veränderten Kompetenzanforderungen liegt in Deutschland bei 0,02. PwC nennt das nahezu inexistent. Weltweit verändern sich die geforderten Kompetenzen in KI-nahen Rollen mehr als doppelt so schnell wie anderswo – in Deutschland ist davon bisher kaum etwas angekommen.
+Dazu die andere Seite derselben Studie: 43,9 % haben in zwölf Monaten keine Minute Arbeitszeit für KI-Weiterbildung genutzt. Fast die Hälfte davon hält sie für nicht notwendig. Der Kurs, auf den du wartest, ist nicht geplant.
 
-Das heißt im Klartext: Dein Beruf bleibt vorerst dein Beruf. Niemand verlangt von dir, ein anderer Mensch zu werden.
+Ein letzter Wert aus derselben Erhebung: 81,6 % trauen sich zu, neue Kompetenzen eigenständig zu erwerben. Die Fähigkeit ist also da. Es fehlt die Entscheidung, heute anzufangen.
 
-Der ehrliche Vorbehalt: Gemessen ist die Vergangenheit, nicht die nächsten fünf Jahre. Dass sich in Deutschland wenig bewegt hat, ist kein Versprechen, dass es so bleibt.
+Folgen für einen Job-Workflow pro Tag.
 
-Was heute gilt: Nicht das Studium fehlt dir. Die ersten fünfzehn Minuten fehlen.
+""" + Q_IU + """
 
-Folge für einen Workflow pro Tag.
-
-""" + QUELLE_PWC + """
-
-#KIimJob #Karriere #Arbeitsmarkt
+""" + TAGS_U + """
 """
 
-# ------------------------------------------------ Slot 3 (Karussell 12:00)
-CAPTIONS[3] = """Fünf deutsche Zahlen aus dieser Woche, die der Angst vor KI im Job widersprechen.
-Zahlen der Woche: Wer gesucht wird, was es bringt – und wie früh es wirklich noch ist.
+# ------------------------------------------------ Slot 3 (Reel B 14:00)
+CAPTIONS[3] = """Speicher diesen Prompt, bevor du ihn brauchst. Am Donnerstag um 16 Uhr findest du ihn nicht wieder.
 
-1) 7 zu 1. So viele KI-Stellen in Deutschland suchen Anwender statt Entwickler: 109.400 Anwender-Rollen gegen 15.400 Entwicklerrollen, 2025. (PwC, 2026 AI Jobs Barometer, 30.06.2026)
+Du gibst KI-Ergebnisse weiter, die du nicht wirklich geprüft hast. Genau dieses Prüfen ist die Fähigkeit, an der du gemessen wirst.
 
-2) Bis zu 39 Prozent. So hoch liegt der Lohnaufschlag für KI-Kenntnisse in Energie, Versorgung und Rohstoffen. In vielen Branchen sind es über 20 Prozent. (PwC, ebenda)
+49,6 % der Führungskräfte erwarten, dass das kritische Bewerten von KI-Ergebnissen wichtiger wird. Aber nur 33,6 % der Beschäftigten sagen, dass ihr Betrieb kritisches Denken fördert — Fachwissen fördern 51,6 %. Die wichtigste Fähigkeit ist die am schlechtesten geschulte.
 
-3) 9 Prozent. So wenige Erwerbstätige in Deutschland halten es für wahrscheinlich oder sehr wahrscheinlich, dass KI ihren Job in fünf Jahren ersetzt. 64 Prozent halten es für sehr unwahrscheinlich. (Forsa für Table.Briefings, 17.01.2026, 1.004 Erwerbstätige)
+Produzieren kann die KI. Haften musst du. Sichtbar wird nicht, wer Text liefert, sondern wer den Fehler vorher findet. Dazu brauchst du vier Fragen, immer dieselben:
 
-4) 67 Prozent. So viele sagen, dass KI ihnen bis zu acht Stunden Arbeitszeit pro Woche spart. Der häufigste Einsatz ist der banalste: Mails, Berichte, PDFs. (Adobe Acrobat, 07.08.2026, 1.500 Erwerbstätige in Deutschland)
+1. Nenne die drei Stellen, an denen dieser Text sachlich falsch sein kann.
+2. Welche Zahl darin ist nicht belegt?
+3. Was würde ein Fachkundiger sofort bestreiten — und mit welchem Argument?
+4. Was fehlt, das der Empfänger braucht?
 
-5) 1,3 Prozent. So klein ist der Anteil KI-bezogener Stellenanzeigen in Deutschland – rund 125.000 Stück, nach etwa 1,0 Prozent im Jahr 2024. Das Feld ist nicht verteilt. (PwC, ebenda)
+Darunter dein KI-Ergebnis einfügen. Die Antworten prüfst du, dann gibst du weiter. Das sind zwei Minuten vorher statt einer Korrekturschleife hinterher — und es ist der Unterschied zwischen „weitergeleitet“ und „geprüft“.
 
-Zusammen ergeben die fünf ein Bild, das der Stimmung widerspricht: Gesucht wird nicht, wer KI baut. Gesucht wird, wer sie benutzt – und bezahlt wird es auch.
+Die vier Fragen funktionieren nur im echten Fall, mit echtem Material. Deshalb gehören sie jetzt in deine Sammlung, nicht in dein Gedächtnis.
 
-Der Vorbehalt gehört dazu: Die Befragungszahlen sind Selbstauskünfte, und die Stellenanzeigen messen die Vergangenheit. Keine der fünf Zahlen sagt etwas über 2031.
+Speicher das. Morgen wirst du es brauchen.
 
-Folge für einen Workflow pro Tag.
+""" + Q_IU + """
 
-#KIimJob #Karriere #Arbeitsmarkt
+""" + TAGS_P + """
 """
 
 # ------------------------------------------------ Slot 4 (Story 15:00)
-CAPTIONS[4] = """STORY 15:00 · Engagement-Trigger
+CAPTIONS[4] = """Hat deine Firma dich in zwölf Monaten zu KI geschult?
 
-Bildtext: Was hält dich ab, KI im Job zu benutzen? 1 – keine Zeit, mich einzuarbeiten. 2 – Angst, etwas Falsches abzugeben.
+1 Ja, mit Arbeitszeit dafür
+2 Ja, aber in meiner Freizeit
+3 Nein, war nie ein Thema
+4 Nein, ich habe selbst angefangen
 
-Button: 1 oder 2 – per DM.
+Antworte mit der Zahl. Ich zähle mit und zeige das Ergebnis am Sonntag.
 
-Zweck: Interaktion über den Bildinhalt, kein Umfrage-Sticker (per API nicht möglich). Antworten laufen als DM ein und sind die Grundlage für die Themen der kommenden Woche.
+Zum Vergleich: In der aktuellen IU-Studie haben 43,9 % in zwölf Monaten keine Minute Arbeitszeit für KI-Weiterbildung genutzt. Fast die Hälfte davon hält sie für nicht notwendig.
+
+""" + TAGS_U + """
 """
 
 # ------------------------------------------------ Slot 5 (Story 20:00)
-CAPTIONS[5] = """STORY 20:00 · DM-CTA
+CAPTIONS[5] = """Den Prüf-Prompt von heute Mittag gibt es als Text zum Kopieren.
 
-Bildtext: Die Vorlage, mit der du deinen eigenen Job durchleuchtest. Ein Prompt – du setzt deine Position ein und bekommst die fünf Aufgaben, die KI dir morgen abnimmt, und die drei, die dich unersetzbar machen.
+Vier Fragen, die du über jedes KI-Ergebnis stellst, bevor es deinen Namen trägt.
 
-Button: Schreib STACK als DM.
+Schreib mir PRUEFEN per DM — dann kommt die Vorlage zurück. Keine Anmeldung, keine Liste, einfach der Text.
 
-Keyword: STACK
+Damit prüfst du, bevor jemand anderes es tut.
 
-Zweck: einziger Konversions-CTA des Tages. Kein zweiter CTA im selben Bild.
-"""
-
-# ------------------------------------------------ Slot 6 (Reel C 21:00)
-CAPTIONS[6] = """Du wartest darauf, dass dein Arbeitgeber dich schult. Der Markt zahlt schon jetzt für das, was du dir selbst beibringst.
-KI-Kenntnisse im Lebenslauf: über 20 Prozent Lohnaufschlag, in Spitzenbranchen bis zu 39.
-
-PwC hat für das AI Jobs Barometer über eine Milliarde Stellenanzeigen ausgewertet. In vielen deutschen Branchen liegt der Lohnaufschlag für ausgewiesene KI-Kenntnisse bei über 20 Prozent. In Energie, Versorgung und Rohstoffen sind es bis zu 39 Prozent.
-
-Entscheidend ist, wofür dieser Aufschlag gezahlt wird. Nicht fürs Entwickeln. Fürs Anwenden. In der Finanzbranche sind 97,3 Prozent aller KI-Rollen Anwenderrollen – der höchste Wert aller Branchen.
-
-Dazu die Zahl, die den Druck rausnimmt: Der Zusammenhang zwischen KI-Betroffenheit und veränderten Kompetenzanforderungen liegt in Deutschland bei 0,02. Du musst also niemand anderes werden. Du musst nur der sein, der es schon benutzt.
-
-Eine Branche fällt aus der Reihe, und das gehört dazu: In der Finanzbranche liegt der gemessene Aufschlag bei minus 9 Prozent. Der Zusammenhang gilt also nicht überall.
-
-Was bleibt: Unersetzbar wird nicht, wer die KI versteht. Sondern wer sie am Montagmorgen aufmacht, bevor jemand danach fragt.
-
-Folge für einen Workflow pro Tag.
-
-""" + QUELLE_PWC + """
-
-#KIimJob #Karriere #Unersetzbar
+""" + TAGS_P + """
 """

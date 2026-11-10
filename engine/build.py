@@ -2,19 +2,21 @@
 import os, sys, json
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import render as R
-from content import REEL_A, REEL_C, KARUSSELL, STORY_TEASER, STORY_ENGAGE, STORY_DM
+from content import REEL_A, REEL_B, STORY_TEASER, STORY_ENGAGE, STORY_DM
 from captions import CAPTIONS
 
-DATE = "2026-11-08"
+DATE = "2026-11-10"
 OUT  = os.environ.get("OUTROOT", ".") + "/assets/" + DATE
-# Sonntagsplan laut Task-Prompt: 2 Reels + 1 Wochen-Karussell + 3 Stories.
+# Dienstag, Saeule UNERSETZBAR-FRAMING.
+# Slot 6 (21:00 Reel C) ist am 02.11.2026 durch OPERATIONS gestrichen und wird
+# nicht gebaut - Anpassung 4 der Auswertung 09.11.2026 ("der Produktionslauf
+# hoert auf, ihn zu bauen"). Sieben Produktionen gingen bisher so verloren.
 PLAN = {
-    1: ("09:00", "Story",     STORY_TEASER),
-    2: ("10:00", "Reel A",    REEL_A),
-    3: ("12:00", "Karussell", KARUSSELL),
-    4: ("15:00", "Story",     STORY_ENGAGE),
-    5: ("20:00", "Story",     STORY_DM),
-    6: ("21:00", "Reel C",    REEL_C),
+    1: ("09:00", "Story",  STORY_TEASER),
+    2: ("10:00", "Reel A", REEL_A),
+    3: ("14:00", "Reel B", REEL_B),
+    4: ("15:00", "Story",  STORY_ENGAGE),
+    5: ("20:00", "Story",  STORY_DM),
 }
 made = {}
 for slot in sorted(PLAN):
@@ -25,16 +27,6 @@ for slot in sorted(PLAN):
     if fmt == "Story":
         R.render(spec, d + "/story.jpg", footer=True)
         files.append("story.jpg")
-    elif fmt == "Karussell":
-        R.W, R.H = 1080, 1350
-        R.SAFE_TOP, R.SAFE_BOT = 165, 180
-        try:
-            for i, sl in enumerate(spec, start=1):
-                R.render(sl, d + "/slide-%d.jpg" % i, footer=True, dots=(i-1, len(spec)))
-                files.append("slide-%d.jpg" % i)
-        finally:
-            R.W, R.H = 1080, 1920
-            R.SAFE_TOP, R.SAFE_BOT = 230, 250
     else:
         frames = []
         for i, fr in enumerate(spec, start=1):

@@ -1,95 +1,96 @@
 # -*- coding: utf-8 -*-
 CAPTIONS = {}
 
-Q_IU = ("Quelle: IU Internationale Hochschule, „KI in der Arbeitswelt: Wie gelingt der Change?“, "
-        "veröffentlicht am 24.09.2026. Befragt wurden 2.000 Arbeitnehmende zwischen 16 und 65 Jahren "
-        "in Deutschland, repräsentativ nach Alter und Geschlecht, Erhebung vom 31.03. bis 14.04.2026.")
+Q_TUD = ("Quelle: KI-Monitor 2026, TU Darmstadt (Fachgebiet Wirtschaftsinformatik, "
+         "Prof. Dr. Peter Buxmann) mit YouGov, veröffentlicht am 28.08.2026. Befragt wurden "
+         "über 2.000 repräsentativ ausgewählte Personen in Deutschland; die Werte zum "
+         "Arbeitsplatz beziehen sich auf die Erwerbstätigen.")
 
-TAGS_U = "#kiimjob #unersetzbar #15minutenvorsprung"
+TAGS_A = "#kiimjob #angstvorki #15minutenvorsprung"
 TAGS_P = "#kiimjob #promptvorlage #15minutenvorsprung"
 
 # ------------------------------------------------ Slot 1 (Story 09:00)
-CAPTIONS[1] = """51,2 % der Führungskräfte halten Prompten für eine Fähigkeit, die wichtiger wird.
+CAPTIONS[1] = """59,7 % halten es für wahrscheinlich, dass KI in vielen Berufen Arbeit ersetzt.
 
-Ohne Führungsverantwortung sagen das 38,1 %. Dieselbe Fähigkeit, 13 Prozentpunkte Abstand.
+Gefragt nach dem eigenen Arbeitsplatz sagen das 15,7 %. Dieselbe Studie, dieselben Menschen, zwei Fragen.
 
-Die Lücke ist kein Zufall — und sie kommt in derselben Studie ein zweites Mal vor.
+Diese Lücke ist der ganze Punkt — und sie sagt etwas darüber, wie deine Sorge entsteht.
 
-Welche Fähigkeit das ist und was du heute damit machst: um 10:00 Uhr im Reel.
+Um 10:00 Uhr im Reel: warum die Zahl einbricht, sobald es um deinen Job geht.
 
-Quelle: IU Internationale Hochschule, „KI in der Arbeitswelt“, 24.09.2026, n=2.000 Arbeitnehmende in Deutschland.
+Quelle: KI-Monitor 2026, TU Darmstadt mit YouGov, 28.08.2026, über 2.000 Befragte in Deutschland.
 
-""" + TAGS_U + """
+""" + TAGS_A + """
 """
 
 # ------------------------------------------------ Slot 2 (Reel A 10:00)
-CAPTIONS[2] = """Du hältst Prompten für eine Spielerei. Die Ebene, die über dich entscheidet, nicht.
+CAPTIONS[2] = """Deine Angst vor KI gilt zum größten Teil den Jobs anderer Leute.
 
-Die IU hat 2.000 Arbeitnehmende in Deutschland gefragt, welche Fähigkeiten im Job wichtiger werden. Die Antworten fallen auseinander, je nachdem wen man fragt.
+Der KI-Monitor 2026 der TU Darmstadt hat über 2.000 Menschen in Deutschland zwei Fragen gestellt, die fast gleich klingen. 59,7 % der Erwerbstätigen halten es für wahrscheinlich, dass KI in vielen Berufen menschliche Arbeit ersetzt. Gefragt nach dem eigenen Arbeitsplatz sagen das 15,7 %.
 
-Prompten: 51,2 % der Führungskräfte erwarten, dass es wichtiger wird — gegen 38,1 % der Beschäftigten ohne Führungsverantwortung. Dieselbe Lücke ein zweites Mal beim kritischen Prüfen von KI-Ergebnissen: 49,6 % gegen 38,6 %.
+Das sind dieselben Menschen in derselben Erhebung. Für fremde Jobs reicht eine Schlagzeile. Für den eigenen kennst du die Ausnahmen, die Rückfragen, die Zuständigkeiten, die vier Leute, die ständig etwas anderes wollen. Deshalb bricht die Zahl um rund drei Viertel ein.
 
-Zweimal unterbewertest du genau das, was eine Ebene höher gezählt wird. Das ist der Mechanismus, mit dem Kollegen an dir vorbeiziehen — nicht Talent, sondern eine andere Einschätzung davon, was zählt.
+Die Gegenprobe steht in derselben Studie: 43 % der Befragten mit sehr gutem KI-Wissen rechnen damit, dass KI ihre Arbeit übernehmen könnte. Wer genauer hinsieht, sorgt sich also nicht weniger — er sorgt sich anders. Nicht Angst gegen Mut, sondern Vermutung gegen Prüfung.
 
-Dazu die andere Seite derselben Studie: 43,9 % haben in zwölf Monaten keine Minute Arbeitszeit für KI-Weiterbildung genutzt. Fast die Hälfte davon hält sie für nicht notwendig. Der Kurs, auf den du wartest, ist nicht geplant.
+Und genau das ist die gute Nachricht: eine geprüfte Sorge hat einen Namen, eine Aufgabe und einen nächsten Schritt. Eine unkonkrete Sorge hat nur ein Gefühl um drei Uhr nachts.
 
-Ein letzter Wert aus derselben Erhebung: 81,6 % trauen sich zu, neue Kompetenzen eigenständig zu erwerben. Die Fähigkeit ist also da. Es fehlt die Entscheidung, heute anzufangen.
+Nebenbei aus derselben Erhebung: 72,3 % haben KI schon einmal eingesetzt, aber nur 21,8 % halten ihre eigenen Kenntnisse für hoch. Der Abstand zwischen beiden Zahlen ist kein Talent-, sondern ein Übungsproblem.
 
 Folgen für einen Job-Workflow pro Tag.
 
-""" + Q_IU + """
+""" + Q_TUD + """
 
-""" + TAGS_U + """
+""" + TAGS_A + """
 """
 
 # ------------------------------------------------ Slot 3 (Reel B 14:00)
-CAPTIONS[3] = """Speicher diesen Prompt, bevor du ihn brauchst. Am Donnerstag um 16 Uhr findest du ihn nicht wieder.
+CAPTIONS[3] = """Speicher das Aufgaben-Audit, bevor du es brauchst. An dem Abend, an dem die Sorge hochkommt, findest du es nicht.
 
-Du gibst KI-Ergebnisse weiter, die du nicht wirklich geprüft hast. Genau dieses Prüfen ist die Fähigkeit, an der du gemessen wirst.
+Du weißt nicht, welche deiner Aufgaben KI heute schon kann. Solange das so bleibt, ist die Sorge nicht beantwortbar — sie hat kein Gegenüber.
 
-49,6 % der Führungskräfte erwarten, dass das kritische Bewerten von KI-Ergebnissen wichtiger wird. Aber nur 33,6 % der Beschäftigten sagen, dass ihr Betrieb kritisches Denken fördert — Fachwissen fördern 51,6 %. Die wichtigste Fähigkeit ist die am schlechtesten geschulte.
+Die größere Sorge ist übrigens nicht der Arbeitsplatz. Im KI-Monitor 2026 sorgen sich 50,4 % um den Verlust eigener Fähigkeiten, aber nur 15,7 % um den eigenen Job. Nicht ersetzt werden ist die Angst — verlernen ist sie.
 
-Produzieren kann die KI. Haften musst du. Sichtbar wird nicht, wer Text liefert, sondern wer den Fehler vorher findet. Dazu brauchst du vier Fragen, immer dieselben:
+Eine Liste schlägt ein Gefühl. Dreißig Minuten einmalig, deine Woche in drei Stapel: abgeben, halb abgeben, nur du. Dafür vier Schritte, immer dieselben:
 
-1. Nenne die drei Stellen, an denen dieser Text sachlich falsch sein kann.
-2. Welche Zahl darin ist nicht belegt?
-3. Was würde ein Fachkundiger sofort bestreiten — und mit welchem Argument?
-4. Was fehlt, das der Empfänger braucht?
+1. Hier sind meine Aufgaben einer normalen Arbeitswoche: [deine Liste].
+2. Sortiere sie in drei Gruppen: KI kann das heute / KI kann es halb / nur ich kann es.
+3. Begründe jede Einordnung in einem Satz.
+4. Nenne die drei Aufgaben, bei denen mein Urteil den Unterschied macht.
 
-Darunter dein KI-Ergebnis einfügen. Die Antworten prüfst du, dann gibst du weiter. Das sind zwei Minuten vorher statt einer Korrekturschleife hinterher — und es ist der Unterschied zwischen „weitergeleitet“ und „geprüft“.
+Stapel eins gibst du ab und gewinnst Zeit. Stapel zwei ist dein Trainingsplan. Stapel drei ist deine Jobbeschreibung für die nächsten Jahre — und der Teil, den du bewusst nicht an die KI abgibst, damit du ihn nicht verlernst.
 
-Die vier Fragen funktionieren nur im echten Fall, mit echtem Material. Deshalb gehören sie jetzt in deine Sammlung, nicht in dein Gedächtnis.
+Das Audit funktioniert nur mit deiner echten Woche, nicht mit einem Beispiel. Deshalb gehört es in deine Sammlung, nicht in dein Gedächtnis.
 
-Speicher das. Morgen wirst du es brauchen.
+Speicher das. Du brauchst es nicht heute, sondern beim nächsten Mal.
 
-""" + Q_IU + """
+""" + Q_TUD + """
 
 """ + TAGS_P + """
 """
 
 # ------------------------------------------------ Slot 4 (Story 15:00)
-CAPTIONS[4] = """Hat deine Firma dich in zwölf Monaten zu KI geschult?
+CAPTIONS[4] = """Welche der beiden Sorgen trifft dich eher?
 
-1 Ja, mit Arbeitszeit dafür
-2 Ja, aber in meiner Freizeit
-3 Nein, war nie ein Thema
-4 Nein, ich habe selbst angefangen
+1 Mein Job fällt weg
+2 Ich verlerne, was ich kann
+3 Beide gleich stark
+4 Keine von beiden
 
 Antworte mit der Zahl. Ich zähle mit und zeige das Ergebnis am Sonntag.
 
-Zum Vergleich: In der aktuellen IU-Studie haben 43,9 % in zwölf Monaten keine Minute Arbeitszeit für KI-Weiterbildung genutzt. Fast die Hälfte davon hält sie für nicht notwendig.
+Zum Vergleich aus dem KI-Monitor 2026: um den eigenen Arbeitsplatz sorgen sich 15,7 %, um den Verlust eigener Fähigkeiten 50,4 %.
 
-""" + TAGS_U + """
+""" + TAGS_A + """
 """
 
 # ------------------------------------------------ Slot 5 (Story 20:00)
-CAPTIONS[5] = """Den Prüf-Prompt von heute Mittag gibt es als Text zum Kopieren.
+CAPTIONS[5] = """Das Aufgaben-Audit von heute Mittag gibt es als Text zum Kopieren.
 
-Vier Fragen, die du über jedes KI-Ergebnis stellst, bevor es deinen Namen trägt.
+Vier Schritte, die deine Arbeitswoche in drei Stapel sortieren: abgeben, halb abgeben, nur du.
 
-Schreib mir PRUEFEN per DM — dann kommt die Vorlage zurück. Keine Anmeldung, keine Liste, einfach der Text.
+Schreib mir AUDIT per DM — dann kommt die Vorlage zurück. Keine Anmeldung, keine Liste, einfach der Text.
 
-Damit prüfst du, bevor jemand anderes es tut.
+Danach hat deine Sorge eine Liste. Das ist der ganze Unterschied.
 
 """ + TAGS_P + """
 """

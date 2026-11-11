@@ -5,9 +5,12 @@ import render as R
 from content import REEL_A, REEL_B, STORY_TEASER, STORY_ENGAGE, STORY_DM
 from captions import CAPTIONS
 
-DATE = "2026-11-10"
+DATE = "2026-11-11"
 OUT  = os.environ.get("OUTROOT", ".") + "/assets/" + DATE
-# Dienstag, Saeule UNERSETZBAR-FRAMING.
+# Mittwoch, Saeule AENGSTE ENTKRAEFTEN (Anpassung 2 der Auswertung 09.11.2026:
+# JOB-WORKFLOWS nur noch Fr, UNERSETZBAR-FRAMING Di+Sa+Mo - Mi faellt damit an
+# AENGSTE ENTKRAEFTEN). Karussell 12:00 ist nach Anpassung 1 derselben
+# Auswertung wieder gestrichen, die Stories 09:00 und 15:00 laufen dauerhaft.
 # Slot 6 (21:00 Reel C) ist am 02.11.2026 durch OPERATIONS gestrichen und wird
 # nicht gebaut - Anpassung 4 der Auswertung 09.11.2026 ("der Produktionslauf
 # hoert auf, ihn zu bauen"). Sieben Produktionen gingen bisher so verloren.

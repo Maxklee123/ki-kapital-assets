@@ -36,7 +36,9 @@ def bg():
     return img
 
 def wrap(d, text, font, maxw):
-    words, lines, cur = text.split(), [], ""
+    # auf normalen Leerzeichen trennen - ein geschuetztes Leerzeichen (U+00A0)
+    # haelt damit Zahl und Einheit zusammen, z. B. "15,7 %"
+    words, lines, cur = [w for w in text.split(" ") if w], [], ""
     for w in words:
         t = (cur + " " + w).strip()
         if d.textlength(t, font=font) <= maxw or not cur:

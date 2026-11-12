@@ -1,0 +1,20 @@
+Speicher diesen Prompt, bevor du ihn brauchst. Im Jahresgespräch suchst du ihn nicht mehr.
+
+Du kannst nicht belegen, was du mit KI schon kannst. Und genau das ist die Sorge, die in der Civey-Befragung die größere ist: 19 % sorgen sich, im eigenen Berufsfeld keine neue Anstellung zu finden, nur 14 % um den aktuellen Arbeitsplatz.
+
+Marktwert besteht aus Belegen, nicht aus Gefühl. Zwanzig Minuten einmalig, und du hast drei Sätze, die zeigen, was du geliefert hast. Dafür vier Schritte, immer dieselben:
+
+1. Hier sind drei Aufgaben, die ich mit KI gelöst habe: [deine Liste].
+2. Formuliere je einen Satz aus Aufgabe, Werkzeug und messbarem Ergebnis.
+3. Ergänze pro Satz die Entscheidung, die ich getroffen habe – nicht die KI.
+4. Kürze jeden Satz auf 20 Wörter, gesprächs- und bewerbungstauglich.
+
+Schritt 3 ist der entscheidende und der, den fast alle weglassen. „Ich habe ChatGPT benutzt“ ist kein Beleg, das kann jeder behaupten. „Ich habe aus vier Entwürfen den gewählt, der die Rückfrage des Kunden vorwegnimmt“ ist einer — und es ist der Satz, den das Werkzeug nicht über sich selbst sagen kann.
+
+Der Prompt funktioniert nur mit deinen echten Aufgaben, nicht mit einem Beispiel. Deshalb gehört er in deine Sammlung und nicht in dein Gedächtnis.
+
+Speicher das. Du brauchst es an dem Tag, an dem dich jemand fragt, was du eigentlich kannst.
+
+Quelle: Civey im Auftrag der WEB.DE-Redaktion. Online befragt wurden je 5.000 Erwerbstätige ab 18 Jahren, Befragungszeitraum 14.08. bis 30.09.2026, statistischer Fehler 2,5 Prozentpunkte. Gefragt wurde getrennt nach der Sorge um den aktuellen Arbeitsplatz und nach der Sorge, im eigenen Berufsfeld in Zukunft keine neue Anstellung zu finden.
+
+#kiimjob #promptvorlage #15minutenvorsprung

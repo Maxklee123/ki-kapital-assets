@@ -1,96 +1,103 @@
 # -*- coding: utf-8 -*-
+# Captions Tagesausgabe 2026-11-12 (Donnerstag) - Saeule AENGSTE ENTKRAEFTEN
+# Drei Hashtags je Post - das ist der gefahrene Stand; der Hashtag-Test
+# 20.-23.10. wurde in der Auswertung 26.10.2026 fuer ungueltig erklaert.
 CAPTIONS = {}
 
-Q_TUD = ("Quelle: KI-Monitor 2026, TU Darmstadt (Fachgebiet Wirtschaftsinformatik, "
-         "Prof. Dr. Peter Buxmann) mit YouGov, veröffentlicht am 28.08.2026. Befragt wurden "
-         "über 2.000 repräsentativ ausgewählte Personen in Deutschland; die Werte zum "
-         "Arbeitsplatz beziehen sich auf die Erwerbstätigen.")
+Q_CIVEY = ("Quelle: Civey im Auftrag der WEB.DE-Redaktion. Online befragt wurden je 5.000 "
+           "Erwerbstätige ab 18 Jahren, Befragungszeitraum 14.08. bis 30.09.2026, "
+           "statistischer Fehler 2,5 Prozentpunkte. Gefragt wurde getrennt nach der Sorge um "
+           "den aktuellen Arbeitsplatz und nach der Sorge, im eigenen Berufsfeld in Zukunft "
+           "keine neue Anstellung zu finden.")
+
+Q_FORSA = ("Gegenprobe: Forsa für Table.Briefings, 1.004 Erwerbstätige, "
+           "veröffentlicht am 17.01.2026.")
 
 TAGS_A = "#kiimjob #angstvorki #15minutenvorsprung"
 TAGS_P = "#kiimjob #promptvorlage #15minutenvorsprung"
 
 # ------------------------------------------------ Slot 1 (Story 09:00)
-CAPTIONS[1] = """59,7 % halten es für wahrscheinlich, dass KI in vielen Berufen Arbeit ersetzt.
+CAPTIONS[1] = """14 % sorgen sich um ihren aktuellen Job. 19 % sorgen sich, im eigenen Berufsfeld keine neue Stelle zu finden.
 
-Gefragt nach dem eigenen Arbeitsplatz sagen das 15,7 %. Dieselbe Studie, dieselben Menschen, zwei Fragen.
+Dieselbe Befragung, zwei getrennte Fragen, zwei verschiedene Zahlen. Die Sorge, von der alle reden, ist die kleinere der beiden.
 
-Diese Lücke ist der ganze Punkt — und sie sagt etwas darüber, wie deine Sorge entsteht.
+Und das verschiebt, was du dagegen tun kannst.
 
-Um 10:00 Uhr im Reel: warum die Zahl einbricht, sobald es um deinen Job geht.
+Um 10:00 Uhr im Reel: warum die größere Sorge deinem Marktwert gilt und nicht deinem Schreibtisch.
 
-Quelle: KI-Monitor 2026, TU Darmstadt mit YouGov, 28.08.2026, über 2.000 Befragte in Deutschland.
+Quelle: Civey für die WEB.DE-Redaktion, je 5.000 Erwerbstätige, Befragung 14.08.–30.09.2026.
 
 """ + TAGS_A + """
 """
 
 # ------------------------------------------------ Slot 2 (Reel A 10:00)
-CAPTIONS[2] = """Deine Angst vor KI gilt zum größten Teil den Jobs anderer Leute.
+CAPTIONS[2] = """Deine Angst zeigt auf die falsche Stelle — und eine Umfrage mit 5.000 Erwerbstätigen zeigt, auf welche.
 
-Der KI-Monitor 2026 der TU Darmstadt hat über 2.000 Menschen in Deutschland zwei Fragen gestellt, die fast gleich klingen. 59,7 % der Erwerbstätigen halten es für wahrscheinlich, dass KI in vielen Berufen menschliche Arbeit ersetzt. Gefragt nach dem eigenen Arbeitsplatz sagen das 15,7 %.
+Civey hat für die WEB.DE-Redaktion zwei Sorgen getrennt gemessen, die meistens in einem Satz zusammenfallen. Erste Frage: Wie groß ist die Sorge, den aktuellen Arbeitsplatz durch KI zu verlieren? 14 % sagen groß, 73 % sagen gering — 47 % davon sogar sehr gering. Zweite Frage: Wie groß ist die Sorge, im eigenen Berufsfeld in Zukunft keine neue Anstellung zu finden? Da sagen 19 % groß.
 
-Das sind dieselben Menschen in derselben Erhebung. Für fremde Jobs reicht eine Schlagzeile. Für den eigenen kennst du die Ausnahmen, die Rückfragen, die Zuständigkeiten, die vier Leute, die ständig etwas anderes wollen. Deshalb bricht die Zahl um rund drei Viertel ein.
+Die größere Sorge gilt also nicht dem Stuhl, auf dem du heute sitzt. Sie gilt dem Markt, auf dem du morgen stehen würdest. Das ist ein Unterschied mit Folgen: gegen das Erste kannst du praktisch nichts tun, gegen das Zweite fast alles.
 
-Die Gegenprobe steht in derselben Studie: 43 % der Befragten mit sehr gutem KI-Wissen rechnen damit, dass KI ihre Arbeit übernehmen könnte. Wer genauer hinsieht, sorgt sich also nicht weniger — er sorgt sich anders. Nicht Angst gegen Mut, sondern Vermutung gegen Prüfung.
+Die zweite Zahl aus derselben Erhebung macht es noch deutlicher. Sorge um den aktuellen Job nach Alter: 32 % bei den 18- bis 29-Jährigen, 24 % bei den 30- bis 39-Jährigen, 13 % bei den 40- bis 49-Jährigen, 8 % bei den 50- bis 64-Jährigen. Die Angst halbiert sich mit der Berufserfahrung. Nicht weil die KI schwächer wird — sondern weil man mit den Jahren weiß, welcher Teil der eigenen Arbeit ein Urteil ist und kein Arbeitsschritt.
 
-Und genau das ist die gute Nachricht: eine geprüfte Sorge hat einen Namen, eine Aufgabe und einen nächsten Schritt. Eine unkonkrete Sorge hat nur ein Gefühl um drei Uhr nachts.
+Zur Einordnung noch eine zweite, unabhängige Erhebung: in einer Forsa-Umfrage unter 1.004 Erwerbstätigen halten 9 % es für hoch oder sehr hoch, dass KI ihren Job in den nächsten fünf Jahren ersetzt. 64 % halten es für sehr gering.
 
-Nebenbei aus derselben Erhebung: 72,3 % haben KI schon einmal eingesetzt, aber nur 21,8 % halten ihre eigenen Kenntnisse für hoch. Der Abstand zwischen beiden Zahlen ist kein Talent-, sondern ein Übungsproblem.
+Der Schluss daraus ist nicht Entwarnung. Er ist eine Richtungsänderung: nicht den Platz verteidigen, sondern belegbar machen, was du kannst.
 
-Folgen für einen Job-Workflow pro Tag.
+Folgen für einen Workflow pro Tag.
 
-""" + Q_TUD + """
+""" + Q_CIVEY + """
+
+""" + Q_FORSA + """
 
 """ + TAGS_A + """
 """
 
 # ------------------------------------------------ Slot 3 (Reel B 14:00)
-CAPTIONS[3] = """Speicher das Aufgaben-Audit, bevor du es brauchst. An dem Abend, an dem die Sorge hochkommt, findest du es nicht.
+CAPTIONS[3] = """Speicher diesen Prompt, bevor du ihn brauchst. Im Jahresgespräch suchst du ihn nicht mehr.
 
-Du weißt nicht, welche deiner Aufgaben KI heute schon kann. Solange das so bleibt, ist die Sorge nicht beantwortbar — sie hat kein Gegenüber.
+Du kannst nicht belegen, was du mit KI schon kannst. Und genau das ist die Sorge, die in der Civey-Befragung die größere ist: 19 % sorgen sich, im eigenen Berufsfeld keine neue Anstellung zu finden, nur 14 % um den aktuellen Arbeitsplatz.
 
-Die größere Sorge ist übrigens nicht der Arbeitsplatz. Im KI-Monitor 2026 sorgen sich 50,4 % um den Verlust eigener Fähigkeiten, aber nur 15,7 % um den eigenen Job. Nicht ersetzt werden ist die Angst — verlernen ist sie.
+Marktwert besteht aus Belegen, nicht aus Gefühl. Zwanzig Minuten einmalig, und du hast drei Sätze, die zeigen, was du geliefert hast. Dafür vier Schritte, immer dieselben:
 
-Eine Liste schlägt ein Gefühl. Dreißig Minuten einmalig, deine Woche in drei Stapel: abgeben, halb abgeben, nur du. Dafür vier Schritte, immer dieselben:
+1. Hier sind drei Aufgaben, die ich mit KI gelöst habe: [deine Liste].
+2. Formuliere je einen Satz aus Aufgabe, Werkzeug und messbarem Ergebnis.
+3. Ergänze pro Satz die Entscheidung, die ich getroffen habe – nicht die KI.
+4. Kürze jeden Satz auf 20 Wörter, gesprächs- und bewerbungstauglich.
 
-1. Hier sind meine Aufgaben einer normalen Arbeitswoche: [deine Liste].
-2. Sortiere sie in drei Gruppen: KI kann das heute / KI kann es halb / nur ich kann es.
-3. Begründe jede Einordnung in einem Satz.
-4. Nenne die drei Aufgaben, bei denen mein Urteil den Unterschied macht.
+Schritt 3 ist der entscheidende und der, den fast alle weglassen. „Ich habe ChatGPT benutzt“ ist kein Beleg, das kann jeder behaupten. „Ich habe aus vier Entwürfen den gewählt, der die Rückfrage des Kunden vorwegnimmt“ ist einer — und es ist der Satz, den das Werkzeug nicht über sich selbst sagen kann.
 
-Stapel eins gibst du ab und gewinnst Zeit. Stapel zwei ist dein Trainingsplan. Stapel drei ist deine Jobbeschreibung für die nächsten Jahre — und der Teil, den du bewusst nicht an die KI abgibst, damit du ihn nicht verlernst.
+Der Prompt funktioniert nur mit deinen echten Aufgaben, nicht mit einem Beispiel. Deshalb gehört er in deine Sammlung und nicht in dein Gedächtnis.
 
-Das Audit funktioniert nur mit deiner echten Woche, nicht mit einem Beispiel. Deshalb gehört es in deine Sammlung, nicht in dein Gedächtnis.
+Speicher das. Du brauchst es an dem Tag, an dem dich jemand fragt, was du eigentlich kannst.
 
-Speicher das. Du brauchst es nicht heute, sondern beim nächsten Mal.
-
-""" + Q_TUD + """
+""" + Q_CIVEY + """
 
 """ + TAGS_P + """
 """
 
 # ------------------------------------------------ Slot 4 (Story 15:00)
-CAPTIONS[4] = """Welche der beiden Sorgen trifft dich eher?
+CAPTIONS[4] = """Welche der beiden Sorgen ist bei dir größer?
 
-1 Mein Job fällt weg
-2 Ich verlerne, was ich kann
+1 Mein aktueller Arbeitsplatz
+2 Keine neue Stelle zu finden
 3 Beide gleich stark
 4 Keine von beiden
 
 Antworte mit der Zahl. Ich zähle mit und zeige das Ergebnis am Sonntag.
 
-Zum Vergleich aus dem KI-Monitor 2026: um den eigenen Arbeitsplatz sorgen sich 15,7 %, um den Verlust eigener Fähigkeiten 50,4 %.
+Zum Vergleich aus der Civey-Befragung unter 5.000 Erwerbstätigen: um den aktuellen Arbeitsplatz sorgen sich 14 %, um die nächste Anstellung im eigenen Berufsfeld 19 %.
 
 """ + TAGS_A + """
 """
 
 # ------------------------------------------------ Slot 5 (Story 20:00)
-CAPTIONS[5] = """Das Aufgaben-Audit von heute Mittag gibt es als Text zum Kopieren.
+CAPTIONS[5] = """Die drei Marktwert-Sätze von heute Mittag gibt es als Text zum Kopieren.
 
-Vier Schritte, die deine Arbeitswoche in drei Stapel sortieren: abgeben, halb abgeben, nur du.
+Vier Schritte, die aus deiner KI-Arbeit drei belegbare Sätze machen: Aufgabe, Ergebnis, und die Entscheidung, die du getroffen hast.
 
-Schreib mir AUDIT per DM — dann kommt die Vorlage zurück. Keine Anmeldung, keine Liste, einfach der Text.
+Schreib mir MARKTWERT per DM — dann kommt die Vorlage zurück. Keine Anmeldung, keine Liste, einfach der Text.
 
-Danach hat deine Sorge eine Liste. Das ist der ganze Unterschied.
+Für das Jahresgespräch. Und für die Bewerbung, die du hoffentlich nie brauchst.
 
 """ + TAGS_P + """
 """

@@ -2,26 +2,31 @@
 import os, sys, json
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import render as R
-from content import REEL_A, REEL_B, STORY_TEASER, STORY_ENGAGE, STORY_DM
+from content import REEL_A, REEL_B
 from captions import CAPTIONS
 
-DATE = "2026-11-12"
+DATE = "2026-11-13"
 OUT  = os.environ.get("OUTROOT", ".") + "/assets/" + DATE
-# Donnerstag, Saeule AENGSTE ENTKRAEFTEN. Nach Anpassung 2 der Auswertung
-# 09.11.2026 ist UNERSETZBAR-FRAMING auf Di+Sa+Mo und JOB-WORKFLOWS auf Fr
-# gelegt - Mi, Do und So fallen damit an AENGSTE ENTKRAEFTEN.
-# Karussell 12:00 ist nach Anpassung 1 derselben Auswertung gestrichen, die
-# Stories 09:00 und 15:00 laufen dauerhaft.
-# Slot 6 (21:00 Reel C) ist am 02.11.2026 durch OPERATIONS gestrichen und
-# wird nicht gebaut - Anpassung 4 der Auswertung 09.11.2026 ("der
-# Produktionslauf hoert auf, ihn zu bauen"). Die Entscheidung ist weiter
-# offen fuer Max; bis zum 09.11. gingen sieben Produktionen so verloren.
+# Freitag, Saeule JOB-WORKFLOWS (Anpassung 2 der Auswertung 09.11.2026:
+# UNERSETZBAR = Di+Sa+Mo, JOB-WORKFLOWS = nur Fr, AENGSTE = Mi+Do+So;
+# Anpassung 5 der Auswertung 12.11.2026 haelt die Saeule noch zwei Messtage).
+#
+# Gebaut werden genau ZWEI Feed-Slots. Begruendung, alles aus OPERATIONS.md:
+#   - Slot 1 (09:00 Story), Slot 4 (15:00 Story), Slot 5 (20:00 Story):
+#     gestrichen nach Anpassung 2 der Auswertung 12.11.2026. Die Messung am
+#     Posttag 12.11. ergab auf allen drei Slots reach 0, replies 0,
+#     profile_visits 0, follows 0. Die Streichung soll ausdruecklich in den
+#     Produktionslauf, nicht nur in OPERATIONS.
+#   - 12:00 Karussell: gestrichen nach Anpassung 1 derselben Auswertung
+#     (reach oe 3,0 gegen oe 23,8 auf dem 14:00-Slot).
+#   - Slot 6 (21:00 Reel C): wird seit dem 10.11.2026 nicht gebaut
+#     (Anpassung 4 der Auswertung 09.11.2026).
+# Die Slot-Nummern 2 und 3 bleiben unveraendert, damit die Pfade
+# assets/<DATUM>/slot-2 (10:00) und slot-3 (14:00) zu den Sheet-Zeilen und
+# zur Erwartung der Post-Laeufe passen.
 PLAN = {
-    1: ("09:00", "Story",  STORY_TEASER),
     2: ("10:00", "Reel A", REEL_A),
     3: ("14:00", "Reel B", REEL_B),
-    4: ("15:00", "Story",  STORY_ENGAGE),
-    5: ("20:00", "Story",  STORY_DM),
 }
 made = {}
 for slot in sorted(PLAN):

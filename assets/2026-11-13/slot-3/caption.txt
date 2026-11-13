@@ -1,0 +1,24 @@
+Du kannst das Werkzeug, das deine Arbeit halbiert, im Betrieb niemandem zeigen. Das kostet dich mehr als du denkst.
+
+29,1 % der beruflichen KI-Nutzer arbeiten mit Tools, die ihr Betrieb nicht bereitstellt — bei Führungskräften 34,6 %, bei den unter 30-Jährigen 38,4 %. Das IW Köln hat dafür knapp 5.000 Beschäftigte befragt. Es ist der Normalfall.
+
+Nicht die Nutzung ist das Problem. Die Unsichtbarkeit ist es. Dein bester Output liegt in einem privaten Chat, und im Jahresgespräch gibt es ihn nicht.
+
+Der Weg heraus ist eine Seite, kein Gespräch. Zwanzig Minuten einmalig, vier Schritte:
+
+1. Ich nutze [Werkzeug] für [Aufgabe]. Schreib eine Seite an meine Chefin.
+2. Nenne Zweck, Nutzen in Stunden pro Woche und welche Daten hineingehen.
+3. Ergänze zwei Risiken und je eine Maßnahme, die sie entschärft.
+4. Schließe mit der Bitte um Freigabe für einen Test über vier Wochen.
+
+Schritt 3 ist der entscheidende. Ohne ihn bist du der Kollege, der eine Ausnahme will. Mit ihm bist du der, der Datenschutz und Fehlerrisiko schon durchdacht hat — und das ist eine andere Rolle im Raum.
+
+Schritt 2 übrigens auch: „spart Zeit“ ist kein Argument, „spart vier Stunden pro Woche bei der Angebotserstellung“ ist eins.
+
+Und wenn die Freigabe nicht kommt, hast du trotzdem gewonnen: dann steht schwarz auf weiß, wer informiert war.
+
+Folgen für einen Workflow pro Tag.
+
+Quelle: Institut der deutschen Wirtschaft (IW) Köln, IW-Kurzbericht Nr. 63/2026, Barbara Engels und Andrea Hammermann, „Schatten-KI: Beschäftigte sind schneller als ihre Betriebe“. Repräsentative, gewichtete IW-Beschäftigtenbefragung, knapp 5.000 Beschäftigte, Befragung März und April 2026. Basis der Schatten-KI-Werte: 2.793 erwerbstätige KI-Nutzer. Veröffentlicht am 19.09.2026.
+
+#kiimjob #promptvorlage #15minutenvorsprung

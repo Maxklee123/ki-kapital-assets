@@ -1,0 +1,19 @@
+29,1 % der Beschäftigten, die KI im Job nutzen, tun das mit einem Werkzeug, das ihr Betrieb nie bereitgestellt hat.
+
+Das IW Köln hat knapp 5.000 Beschäftigte befragt und nennt es Schatten-KI. Wichtig für die Einordnung: nicht heimlich, nicht verboten. Nur außerhalb der betrieblichen Kontrolle — der private Chatbot-Zugang, das Tool, von dem die IT nichts weiß.
+
+Die Verteilung sagt mehr als der Durchschnitt. Unter 30 Jahren: 38,4 %. Über 55: 20,7 %. Führungskräfte: 34,6 %, ohne Führungsverantwortung 25,6 %. In Betrieben unter 50 Beschäftigten 33,5 %, ab 250 nur noch 25,5 %. Je weniger der Betrieb anbietet, desto mehr organisieren die Leute sich selbst.
+
+Und dann die Zahl, die man zweimal lesen muss: Beschäftigte, die ein starkes Engagement ihres Arbeitgebers beim Aufbau von KI-Kompetenz wahrnehmen, liegen bei 44,5 % Schatten-KI. Die ohne wahrgenommenes Engagement bei 21,3 %. Im multivariaten Modell bleiben 19,9 Prozentpunkte Effekt übrig, hochsignifikant.
+
+Das ist kein Widerspruch, sondern die eigentliche Botschaft: Ermutigung erzeugt Motivation, nicht Infrastruktur. Wer gesagt bekommt „nutzt KI“, aber kein Werkzeug gestellt bekommt, nimmt eben das nächstbeste.
+
+Für dich im Job heißt das nicht „hör auf damit“. Es heißt: deine Arbeit mit dem Werkzeug existiert betrieblich nicht — und damit zählt sie dir auch nicht. Der Engpass ist nicht dein Können.
+
+Folgen für einen Workflow pro Tag.
+
+Quelle: Institut der deutschen Wirtschaft (IW) Köln, IW-Kurzbericht Nr. 63/2026, Barbara Engels und Andrea Hammermann, „Schatten-KI: Beschäftigte sind schneller als ihre Betriebe“. Repräsentative, gewichtete IW-Beschäftigtenbefragung, knapp 5.000 Beschäftigte, Befragung März und April 2026. Basis der Schatten-KI-Werte: 2.793 erwerbstätige KI-Nutzer. Veröffentlicht am 19.09.2026.
+
+Zum Vergleich, im selben Kurzbericht zitiert: laut Bitkom (2025) stellen 23 % der Unternehmen mit 20 bis 99 Beschäftigten generative KI offiziell bereit, aber 43 % der Unternehmen ab 500 Beschäftigten.
+
+#kiimjob #schattenki #15minutenvorsprung

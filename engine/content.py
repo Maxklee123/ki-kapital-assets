@@ -1,128 +1,139 @@
 # -*- coding: utf-8 -*-
-# Tagesausgabe 2026-11-13 (Freitag) - Saeule: JOB-WORKFLOWS
+# Tagesausgabe 2026-11-15 (Sonntag) - Saeule: AENGSTE ENTKRAEFTEN
 #
-# Saeulen-Zuordnung nach Anpassung 2 der Auswertung 09.11.2026:
-#   UNERSETZBAR-FRAMING = Di + Sa + Mo, JOB-WORKFLOWS = nur Fr,
-#   AENGSTE ENTKRAEFTEN = Mi + Do + So. Freitag ist damit JOB-WORKFLOWS.
-#   Anpassung 5 der Auswertung 12.11.2026 haelt die Saeule ausdruecklich:
-#   JOB-WORKFLOWS braucht mindestens zwei weitere Messtage, bevor die
-#   Verteilung an der Reichweite ausgerichtet wird.
+# Saeulen-Zuordnung: Sonntag = AENGSTE ENTKRAEFTEN (Auftragstext; deckungsgleich
+# mit Anpassung 2 der Auswertung 09.11.2026, dort AENGSTE = Mi+Do+So).
+# Die Auswertung 12.11.2026 misst fuer AENGSTE die hoechste Reichweite
+# (oe 23,8 gegen 5,4 bei JOB-WORKFLOWS).
 #
-# Slot-Plan heute (nach Auswertung 12.11.2026):
-#   Anpassung 1: Karussell 12:00 gestrichen.
-#   Anpassung 2: Story-Slots 09:00, 15:00 und 20:00 gestrichen (reach 0,
-#       replies 0, profile_visits 0 bei der Messung am Posttag 12.11.).
-#       Die Streichung soll ausdruecklich in den Produktionslauf.
-#   Anpassung 4 der Auswertung 09.11.: 21:00 Reel C wird nicht gebaut.
-#   Gebaut werden damit genau zwei Feed-Slots: 10:00 Reel A, 14:00 Reel B.
+# Slot-Plan heute nach Auftragstext vom 15.11.2026 (Auswertung 14.11.):
+#   2 Reels + 3 Stories, Reel C und Karussell gestrichen.
+#   ABWEICHUNG zu OPERATIONS.md: dort sind die drei Story-Slots am 12.11.
+#   gestrichen (reach 0). Der neuere Auftragstext nimmt sie wieder auf -
+#   ihm wird gefolgt, der Konflikt ist im Lauf-Bericht vermerkt.
+#   Reel B traegt den NEUEN visuellen Speicher-CTA (Auftragstext 15.11.),
+#   der die Folgen-CTA-Frist 13.-19.11. aus der Auswertung 12.11. ersetzt.
 #
-# CTA heute (Anpassung 3 der Auswertung 12.11.2026):
-#   Reel B bekommt fuer sieben Tage (13.-19.11.) den FOLGEN-CTA statt des
-#   woertlichen Speicher-Auftrags - 3 Saves auf 143 erreichte Accounts im
-#   Fenster 06.-12.11. Die nummerierte Schrittliste in Frame 5 bleibt
-#   (Reel-Bauform, Pflicht ab 04.09.2026), nur der CTA wechselt.
-#
-# Thema: Schatten-KI. Knapp drei von zehn Beschaeftigten, die KI beruflich
-#        nutzen, arbeiten mit Werkzeugen, die der eigene Betrieb nicht
-#        bereitstellt. Fuer die Zielgruppe ist das kein Compliance-Thema,
-#        sondern ein Sichtbarkeits-Thema: die eigene beste KI-Arbeit liegt
-#        in einem privaten Chat und zaehlt im Job deshalb nicht.
-#        Der counterintuitive Befund sitzt im Rehook: wo der Arbeitgeber
-#        KI-Kompetenz am staerksten foerdert, ist der Anteil am hoechsten.
-# Quelle: Institut der deutschen Wirtschaft (IW) Koeln, IW-Kurzbericht
-#         Nr. 63/2026, Barbara Engels und Andrea Hammermann,
-#         "Schatten-KI: Beschaeftigte sind schneller als ihre Betriebe".
-#         Repraesentative, gewichtete IW-Beschaeftigtenbefragung, knapp
-#         5.000 Beschaeftigte, Befragung Maerz und April 2026; Basis der
-#         Schatten-KI-Zahlen n = 2.793 erwerbstaetige KI-Nutzer,
-#         multivariates Logit-Modell n = 2.618. Veroeffentlicht
-#         19.09.2026, DOI 10.67087/19.21441. Neuer Berichtszyklus in der
-#         Fachpresse am 13.11.2026.
-#         Kernzahlen: 29,1 % Schatten-KI unter beruflichen KI-Nutzern;
-#         38,4 % unter 30 gegen 20,7 % ueber 55; 34,6 % bei
-#         Fuehrungskraeften gegen 25,6 % ohne Fuehrungsverantwortung;
-#         44,5 % bei stark wahrgenommener Foerderung gegen 21,3 % ohne;
-#         19,9 Prozentpunkte Effekt im multivariaten Modell (p < 0,001);
-#         33,5 % in Betrieben unter 50 gegen 25,5 % ab 250 Beschaeftigten.
-# Gegenprobe: Bitkom (2025), zitiert im selben Kurzbericht - 23 % der
-#         kleinen Unternehmen (20-99 Beschaeftigte) stellen generative KI
-#         offiziell bereit, 43 % der Grossunternehmen ab 500. Die Luecke
-#         zwischen Bedarf und Bereitstellung ist also betrieblich, nicht
-#         persoenlich.
+# Thema: Der Satz "KI frisst die Jobs" hat in den deutschen
+#        Beschaeftigtendaten bisher keine Entsprechung - und die Gruppe, die
+#        tatsaechlich verliert, ist nicht die Zielgruppe dieses Kontos.
+# Quelle: Institut fuer Arbeitsmarkt- und Berufsforschung (IAB),
+#         Melanie Arntz, Michele Dinelli, Oliver Schlenker,
+#         "KI als Jobkiller fuer Berufseinsteiger? Entwarnung mit Vorbehalt",
+#         IAB-Forum, veroeffentlicht 13.10.2026; zugehoerige IAB-Presseinfo
+#         "KI bisher kein Jobkiller, aber Berufseinsteiger zunehmend betroffen".
+#         Datenbasis: monatliche administrative Beschaeftigungsdaten der
+#         Bundesagentur fuer Arbeit, Januar 2021 bis Dezember 2025, im Schnitt
+#         rund 22,3 Mio. sozialversicherungspflichtig Vollzeitbeschaeftigte
+#         im Alter von 20 bis 64 Jahren (ohne Beamte, Selbstaendige,
+#         Minijobber, Azubis). KI-Exposition nach Eloundou et al. (2024),
+#         Berufe in Quintile geteilt; Poisson-Regression, Referenz 4. Quartal 2022.
+#         Kernzahlen: stark KI-exponierte Berufe 2025 rund +1 % gegenueber 2022,
+#         weniger exponierte gut -3 %; ab 30 Jahren in stark exponierten Berufen
+#         rund +2 %; Wachstumsabstand stark minus schwach: 30-39 fast
+#         +6 Prozentpunkte, 40-64 rund +5 Prozentpunkte, 20-29 -1,2 Prozentpunkte
+#         (-3,8 % gegen -2,6 %).
+# Gegenprobe (Pflicht, steht in Frame 5 und in beiden Captions):
+#         Im Modell je Standardabweichung ist der Zusammenhang mit der
+#         Konjunkturanfaelligkeit "mehr als doppelt so stark" wie der mit der
+#         KI-Exposition; der KI-Wert fuer die 20- bis 29-Jaehrigen (-1,8 %)
+#         ist statistisch NICHT signifikant. Signifikant negativ ist er nur
+#         im verarbeitenden Gewerbe und in nichtakademischen Berufen bei den
+#         unter 30-Jaehrigen. Die Autoren nennen ihre Befunde rein deskriptiv
+#         und ausdruecklich keinen kausalen Nachweis.
 
 NB = " "  # geschuetztes Leerzeichen: haelt Zahl und Einheit zusammen
 
-SRC_IW  = ("IW Köln · Kurzbericht 63/2026, knapp 5.000 Beschäftigte, "
-           "Befragung März/April 2026")
-SRC_IW2 = ("IW Köln, Kurzbericht 63/2026 · Basis 2.793 erwerbstätige "
-           "KI-Nutzer, Befragung März/April 2026")
-SRC_BITKOM = "Bitkom 2025, zitiert im IW-Kurzbericht 63/2026"
+SRC_IAB  = ("IAB · Arntz/Dinelli/Schlenker, 13.10.2026 · 22,3 Mio. Vollzeitstellen, "
+            "BA-Daten 2021–2025")
+SRC_IAB2 = ("IAB-Forum, 13.10.2026 · Vollzeitbeschäftigung 2025 gegen 2022, "
+            "unbereinigt, Berufe nach KI-Exposition")
+
+# ---------------------------------------------------------------- Slot 1: Story 09:00
+STORY_1 = [
+    {"k": "kicker", "t": "SONNTAG · 09 UHR"},
+    {"k": "num", "t": "+1" + NB + "%", "s": 230, "c": (77, 212, 200)},
+    {"k": "numsub", "t": "in Berufen, die KI könnte. Minus 3" + NB + "% in Berufen, die sie nicht könnte.", "s": 54},
+    {"k": "body", "t": "Das IAB hat 22,3 Millionen Vollzeitstellen nachgezählt, vier Jahre lang, Monat für Monat. Die Richtung ist nicht die, die du erwartest."},
+    {"k": "src", "t": SRC_IAB},
+    {"k": "gap", "s": 12},
+    {"k": "cta", "t": "Um 10 Uhr kommt die ganze Rechnung"},
+]
 
 # ---------------------------------------------------------------- Slot 2: Reel A 10:00
 REEL_A = [
-    # F1 (0,7 s) - Behauptung ueber den Zuschauer, keine Zahl
-    [{"k": "kicker", "t": "FREITAG"},
-     {"k": "big", "t": "Deine beste KI-Arbeit läuft über ein Werkzeug, das dein Betrieb nie freigegeben hat.", "s": 80}],
-    # F2 (1,3 s)
-    [{"k": "kicker", "t": "UND DU BIST NICHT DIE AUSNAHME"},
-     {"k": "big", "t": "Das IW Köln hat knapp 5.000 Beschäftigte gefragt, wie sie es wirklich machen.", "s": 78}],
-    # F3 (3,4 s) - harte Zahl
+    [{"k": "kicker", "t": "SONNTAG"},
+     {"k": "big", "t": "Du hältst deinen Beruf für den, den KI als Nächstes kassiert.", "s": 84}],
+    [{"k": "kicker", "t": "DAS IAB HAT NACHGEZÄHLT"},
+     {"k": "big", "t": "22,3 Millionen Vollzeitstellen. Vier Jahre. Monat für Monat.", "s": 82}],
     [{"k": "kicker", "t": "GEMESSEN"},
-     {"k": "num", "t": "29,1" + NB + "%", "s": 175},
-     {"k": "numsub", "t": "der beruflichen KI-Nutzer arbeiten mit Werkzeugen, die der Betrieb nicht bereitstellt."},
-     {"k": "body", "t": "Das IW nennt es Schatten-KI. Nicht heimlich, nicht verboten – nur außerhalb der betrieblichen Kontrolle. Knapp drei von zehn."},
-     {"k": "src", "t": SRC_IW}],
-    # F4 (3,5 s) - Deutung
+     {"k": "num", "t": "+1 : −3", "s": 185},
+     {"k": "numsub", "t": "Prozent Beschäftigung 2025 gegen 2022 – KI-nahe Berufe gegen KI-ferne."},
+     {"k": "body", "t": "Nicht die Berufe nah an der KI haben Stellen verloren. Die weit weg davon haben verloren."},
+     {"k": "src", "t": SRC_IAB}],
     [{"k": "kicker", "t": "WAS DAS FÜR DICH HEISST"},
-     {"k": "big", "t": "Arbeit, die im Betrieb nicht existiert, zählt dort auch nicht für dich.", "s": 76},
-     {"k": "body", "t": "Dein privater Chat kennt dein bestes Ergebnis. Deine Führungskraft kennt es nicht. Genau da entsteht die Lücke zwischen dem, was du kannst, und dem, was dir zugeschrieben wird."}],
-    # F5 (3,5 s) - Rehook mit zweiter Zahl, counterintuitiv
-    [{"k": "kicker", "t": "UND JETZT DIE ÜBERRASCHUNG"},
-     {"k": "num", "t": "44,5 : 21,3", "s": 128},
-     {"k": "numsub", "t": "Prozent Schatten-KI – mit starker Förderung durch den Arbeitgeber gegen keine."},
-     {"k": "body", "t": "Wo der Betrieb KI-Kompetenz am stärksten fördert, ist der Anteil am höchsten, nicht am niedrigsten: 19,9 Prozentpunkte Effekt im Modell. Die Motivation ist da. Die Freigabe fehlt."},
-     {"k": "src", "t": SRC_IW2}],
-    # F6 (3,6 s) - Urteil + genau ein CTA
+     {"k": "big", "t": "Die Jobs, die KI könnte, sind mehr geworden. Die anderen weniger.", "s": 78},
+     {"k": "body", "t": "Nähe zur KI war in diesen vier Jahren kein Risiko, sondern der Ort, an dem Stellen entstanden sind. Für den Satz „KI frisst meinen Beruf“ gibt es in den deutschen Daten bisher keine Entsprechung."}],
+    [{"k": "kicker", "t": "UND JETZT DIE ZAHL FÜR DICH"},
+     {"k": "num", "t": "fast 6", "s": 165},
+     {"k": "numsub", "t": "Prozentpunkte Vorsprung hatten die KI-nahen Berufe bei den 30- bis 39-Jährigen."},
+     {"k": "body", "t": "Bei den 40- bis 64-Jährigen rund 5 Prozentpunkte. Der einzige Rückstand liegt bei den 20- bis 29-Jährigen: 1,2 Prozentpunkte – und dort hängt er laut Modell stärker an der Konjunktur als an der KI."},
+     {"k": "src", "t": SRC_IAB2}],
     [{"k": "kicker", "t": "MEINE EINORDNUNG"},
-     {"k": "big", "t": "Der Engpass ist nicht dein Können. Es ist, dass niemand davon weiß.", "s": 76},
+     {"k": "big", "t": "Die Zahl, die dir Angst macht, stammt aus dem Jahrzehnt vor deinem.", "s": 78},
      {"k": "gap", "s": 14},
      {"k": "cta", "t": "Folgen für einen Workflow pro Tag"}],
 ]
 
 # ---------------------------------------------------------------- Slot 3: Reel B 14:00
 REEL_B = [
-    # F1 (0,7 s) - Behauptung ueber den Zuschauer
-    [{"k": "kicker", "t": "FREITAG · 14 UHR"},
-     {"k": "big", "t": "Du kannst das Werkzeug, das deine Arbeit halbiert, niemandem im Betrieb zeigen.", "s": 80}],
-    # F2 (1,3 s)
-    [{"k": "kicker", "t": "DAS KOSTET DICH ETWAS"},
-     {"k": "big", "t": "Nicht die Nutzung ist das Problem. Die Unsichtbarkeit ist es.", "s": 82}],
-    # F3 (3,4 s) - harte Zahl
+    [{"k": "kicker", "t": "SONNTAG · 14 UHR"},
+     {"k": "big", "t": "Du kannst nicht sagen, welche deiner Aufgaben KI heute schon schneller kann.", "s": 80}],
+    [{"k": "kicker", "t": "UND GENAU DAS ENTSCHEIDET"},
+     {"k": "big", "t": "Nicht dein Beruf steht in der Statistik. Deine Aufgaben stehen darin.", "s": 82}],
     [{"k": "kicker", "t": "GEMESSEN"},
-     {"k": "num", "t": "29,1" + NB + "%", "s": 175},
-     {"k": "numsub", "t": "arbeiten mit KI-Werkzeugen, die der eigene Betrieb nicht bereitstellt."},
-     {"k": "body", "t": "Bei Führungskräften sind es 34,6" + NB + "%, bei den unter 30-Jährigen 38,4" + NB + "%. Es ist der Normalfall, nicht die Ausnahme."},
-     {"k": "src", "t": SRC_IW}],
-    # F4 (3,5 s) - Mechanik
+     {"k": "num", "t": "+1 : −3", "s": 185},
+     {"k": "numsub", "t": "Prozent Beschäftigung 2025 gegen 2022 – KI-nahe Berufe gegen KI-ferne."},
+     {"k": "body", "t": "Das IAB misst einen Beruf über seine Aufgaben: Wie viel davon ginge mit einem Sprachmodell deutlich schneller? Genau diese Frage kannst du heute für dich beantworten."},
+     {"k": "src", "t": SRC_IAB}],
     [{"k": "kicker", "t": "DIE MECHANIK"},
-     {"k": "big", "t": "Aus Schatten wird Sichtbarkeit durch eine Seite, nicht durch ein Gespräch.", "s": 74},
-     {"k": "body", "t": "Zwanzig Minuten einmalig: ein Einseiter, der dein Werkzeug zur Freigabe vorschlägt. Du kommst damit nicht als Bittsteller, sondern als der Kollege, der das Thema schon gelöst hat."}],
-    # F5 (3,5 s) - Artefakt: der vollstaendige Prompt
-    [{"k": "kicker", "t": "DIE WERKZEUG-FREIGABE"},
+     {"k": "big", "t": "Fünfzehn Minuten, einmal im Quartal: das Aufgaben-Audit.", "s": 78},
+     {"k": "body", "t": "Du listest, was deine Woche wirklich füllt, und markierst, was ein Sprachmodell schneller könnte. Was übrig bleibt, ist dein Kern – und der gehört in das nächste Gespräch mit deiner Führungskraft, nicht in deinen Kopf."}],
+    [{"k": "kicker", "t": "DAS AUFGABEN-AUDIT"},
      {"k": "steps", "t": [
-         "§1 Ich nutze [Werkzeug] für [Aufgabe].",
-         "   Schreib eine Seite an meine Chefin.",
-         "§2 Nenne Zweck, Nutzen in Stunden pro",
-         "   Woche und welche Daten hineingehen.",
-         "§3 Ergänze zwei Risiken und je eine",
-         "   Maßnahme, die sie entschärft.",
-         "§4 Schließe mit der Bitte um Freigabe",
-         "   für einen Test über vier Wochen.",
+         "§1 Hier sind die 10 Aufgaben, die",
+         "   meine Arbeitswoche füllen: [Liste].",
+         "§2 Schätze je Aufgabe, wie viel Zeit",
+         "   ein Sprachmodell davon abnimmt.",
+         "§3 Nenne die 3 Aufgaben, die nur ich",
+         "   mit meinem Kontext lösen kann.",
+         "§4 Mach daraus 3 Sätze für mein",
+         "   nächstes Gespräch mit der Chefin.",
      ], "s": 33},
-     {"k": "body", "t": "Schritt 3 ist der, der aus einer Bitte einen Vorschlag macht.", "s": 38}],
-    # F6 (3,6 s) - Urteil + genau ein CTA (Folgen, Anpassung 3 der Auswertung 12.11.2026)
+     {"k": "body", "t": "Schritt 3 ist der, der aus einer Liste eine Position macht.", "s": 38}],
     [{"k": "kicker", "t": "MEINE EINORDNUNG"},
-     {"k": "big", "t": "Freigabe bekommt nicht der, der fragt. Sondern der, der sie vorbereitet hat.", "s": 74},
-     {"k": "gap", "s": 14},
-     {"k": "cta", "t": "Folgen für einen Workflow pro Tag"}],
+     {"k": "big", "t": "Wer seine Aufgaben kennt, wird nicht ersetzt. Er wird umgebaut – und redet mit.", "s": 72},
+     {"k": "gap", "s": 10},
+     {"k": "save", "t": "Sicher dir das für Montag, 9 Uhr", "lab": "Lesezeichen", "s": 46}],
+]
+
+# ---------------------------------------------------------------- Slot 4: Story 15:00
+STORY_2 = [
+    {"k": "kicker", "t": "KURZE FRAGE"},
+    {"k": "big", "t": "Welche Aufgabe würdest du morgen als Erstes abgeben?", "s": 80},
+    {"k": "gap", "s": 18},
+    {"k": "rows", "t": ["Mails und Antwortentwürfe",
+                        "Protokolle und Zusammenfassungen",
+                        "Excel-Auswertungen"], "s": 44},
+    {"k": "gap", "s": 10},
+    {"k": "cta", "t": "Antworte mit 1, 2 oder 3"},
+]
+
+# ---------------------------------------------------------------- Slot 5: Story 20:00
+STORY_3 = [
+    {"k": "kicker", "t": "SONNTAGABEND"},
+    {"k": "big", "t": "Das Aufgaben-Audit als fertige Vorlage.", "s": 84},
+    {"k": "body", "t": "Vier Schritte, fünfzehn Minuten, keine Technik. Du bekommst den vollständigen Prompt als Text zum Kopieren – heute Abend noch."},
+    {"k": "gap", "s": 16},
+    {"k": "cta", "t": "Schreib mir AUDIT als DM"},
 ]

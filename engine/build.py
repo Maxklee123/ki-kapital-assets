@@ -2,31 +2,22 @@
 import os, sys, json
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import render as R
-from content import REEL_A, REEL_B
+from content import REEL_A, REEL_B, STORY_1, STORY_2, STORY_3
 from captions import CAPTIONS
 
-DATE = "2026-11-13"
+DATE = "2026-11-15"
 OUT  = os.environ.get("OUTROOT", ".") + "/assets/" + DATE
-# Freitag, Saeule JOB-WORKFLOWS (Anpassung 2 der Auswertung 09.11.2026:
-# UNERSETZBAR = Di+Sa+Mo, JOB-WORKFLOWS = nur Fr, AENGSTE = Mi+Do+So;
-# Anpassung 5 der Auswertung 12.11.2026 haelt die Saeule noch zwei Messtage).
-#
-# Gebaut werden genau ZWEI Feed-Slots. Begruendung, alles aus OPERATIONS.md:
-#   - Slot 1 (09:00 Story), Slot 4 (15:00 Story), Slot 5 (20:00 Story):
-#     gestrichen nach Anpassung 2 der Auswertung 12.11.2026. Die Messung am
-#     Posttag 12.11. ergab auf allen drei Slots reach 0, replies 0,
-#     profile_visits 0, follows 0. Die Streichung soll ausdruecklich in den
-#     Produktionslauf, nicht nur in OPERATIONS.
-#   - 12:00 Karussell: gestrichen nach Anpassung 1 derselben Auswertung
-#     (reach oe 3,0 gegen oe 23,8 auf dem 14:00-Slot).
-#   - Slot 6 (21:00 Reel C): wird seit dem 10.11.2026 nicht gebaut
-#     (Anpassung 4 der Auswertung 09.11.2026).
-# Die Slot-Nummern 2 und 3 bleiben unveraendert, damit die Pfade
-# assets/<DATUM>/slot-2 (10:00) und slot-3 (14:00) zu den Sheet-Zeilen und
-# zur Erwartung der Post-Laeufe passen.
+
+# Tagesplan nach Auftragstext vom 15.11.2026 (Auswertung 14.11.):
+# 2 Reels + 3 Stories. Reel C (21:00) und Karussell (12:00) gestrichen.
+# Die Story-Slots waren in OPERATIONS.md am 12.11. gestrichen; der neuere
+# Auftragstext nimmt sie wieder auf. Der Konflikt steht im Lauf-Bericht.
 PLAN = {
+    1: ("09:00", "Story",  STORY_1),
     2: ("10:00", "Reel A", REEL_A),
     3: ("14:00", "Reel B", REEL_B),
+    4: ("15:00", "Story",  STORY_2),
+    5: ("20:00", "Story",  STORY_3),
 }
 made = {}
 for slot in sorted(PLAN):

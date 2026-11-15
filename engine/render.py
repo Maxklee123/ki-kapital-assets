@@ -95,6 +95,11 @@ def measure(items, scale=1.0):
             f = BOLD(int(it.get("s", 46)*scale)); lh = int(f.size*1.3)
             ls = wrap(dummy, it["t"], f, W-2*PAD-80)
             blocks.append((it, f, ls, lh + int(46*scale), int(34*scale)))
+        elif k == "save":
+            f = BOLD(int(it.get("s", 48)*scale)); lh = int(f.size*1.26)
+            ls = wrap(dummy, it["t"], f, W-2*PAD-int(210*scale))
+            box = max(int(150*scale), lh*len(ls) + int(56*scale))
+            blocks.append((it, f, ls, box + int(214*scale), int(10*scale)))
         elif k == "gap":
             blocks.append((it, None, [], int(it.get("s", 30)*scale), 0))
     for it, f, ls, lh, gap in blocks:
@@ -155,6 +160,45 @@ def render(items, out, footer=True, dots=None):
                     d.text((PAD+int(56*scale), y), line, font=f, fill=(206,208,230))
                 y += lh
             y += int(26*scale) + gap; continue
+        if k == "save":
+            # Lesezeichen-Karte + Pfeil Richtung Instagram-Save-Position (unten rechts).
+            # Neu am 15.11.2026: der reine Text-CTA erzeugte 0 Saves in KW42-46.
+            import math as _m
+            lhh = int(f.size*1.26)
+            box_h = max(int(150*scale), lhh*len(ls) + int(56*scale))
+            x0, x1 = PAD-14, W-PAD+14
+            d.rounded_rectangle([x0, y, x1, y+box_h], radius=int(26*scale),
+                                fill=CARD, outline=ACCENT, width=4)
+            bw, bh = int(74*scale), int(100*scale)
+            bx = x0 + int(44*scale); by = y + (box_h-bh)//2
+            notch = int(30*scale)
+            d.polygon([(bx, by), (bx+bw, by), (bx+bw, by+bh),
+                       (bx+bw//2, by+bh-notch), (bx, by+bh)], fill=ACCENT)
+            tx = bx + bw + int(42*scale)
+            yy = y + (box_h - lhh*len(ls))//2
+            for line in ls:
+                d.text((tx, yy), line, font=f, fill=WHITE)
+                yy += lhh
+            ay = y + box_h + int(22*scale)
+            sx = x0 + int(150*scale)
+            ex = W - PAD - int(10*scale)
+            ey = ay + int(132*scale)
+            pts = []
+            for i in range(41):
+                t = i/40.0
+                pts.append((sx + (ex-sx)*t, ay + (ey-ay)*(t**2.1)))
+            d.line(pts, fill=ACCENT, width=max(4, int(7*scale)), joint="curve")
+            px0, py0 = pts[-6]; px1, py1 = pts[-1]
+            ang = _m.atan2(py1-py0, px1-px0)
+            hs = int(44*scale); wd = _m.radians(26)
+            d.polygon([(px1, py1),
+                       (px1-hs*_m.cos(ang-wd), py1-hs*_m.sin(ang-wd)),
+                       (px1-hs*_m.cos(ang+wd), py1-hs*_m.sin(ang+wd))], fill=ACCENT)
+            sf = MED(int(30*scale))
+            lab = it.get("lab", "hier tippen")
+            lw = d.textlength(lab, font=sf)
+            d.text((ex-lw-int(46*scale), ey+int(20*scale)), lab, font=sf, fill=ACCENT2)
+            y += box_h + int(214*scale) + gap; continue
         if k == "cta":
             bh = f.size*1.3*len(ls) + int(46*scale)
             d.rounded_rectangle([PAD-14, y, W-PAD+14, y+bh], radius=int(26*scale),

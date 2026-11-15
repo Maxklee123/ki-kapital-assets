@@ -1,0 +1,19 @@
+In Berufen, die KI übernehmen könnte, gibt es heute mehr Vollzeitstellen als 2022. In den anderen weniger.
+
+Das IAB hat dafür nicht gefragt, sondern gezählt: monatliche Meldedaten der Bundesagentur für Arbeit, Januar 2021 bis Dezember 2025, im Schnitt 22,3 Millionen sozialversicherungspflichtige Vollzeitstellen. Jeder Beruf wurde danach sortiert, wie viel seiner Tätigkeiten ein Sprachmodell deutlich schneller erledigen könnte.
+
+Das Ergebnis für 2025 gegenüber 2022: in den stark KI-exponierten Berufen rund 1 Prozent mehr Beschäftigung, in den weniger exponierten gut 3 Prozent weniger. Ab 30 Jahren liegen die KI-nahen Berufe sogar rund 2 Prozent im Plus.
+
+Und dann die Zahl, die dich direkt betrifft: Bei den 30- bis 39-Jährigen wuchsen die KI-nahen Berufe um fast 6 Prozentpunkte stärker als die KI-fernen, bei den 40- bis 64-Jährigen um rund 5 Prozentpunkte. Negativ ist der Abstand in genau einer Altersgruppe — bei den 20- bis 29-Jährigen, mit 1,2 Prozentpunkten (minus 3,8 gegen minus 2,6 Prozent).
+
+Das ist keine Entwarnung für alle. Es ist eine Verschiebung: Die Gruppe, über die der Satz „KI nimmt die Jobs“ etwas aussagt, ist nicht die, die ihn am lautesten ausspricht.
+
+Und selbst dort hält der Befund nur mit Vorbehalt. Im Modell ist die wirtschaftliche Lage der Branche mehr als doppelt so stark mit dem Rückgang verbunden wie die KI-Nähe.
+
+Folgen für einen Workflow pro Tag.
+
+Quelle: Institut für Arbeitsmarkt- und Berufsforschung (IAB), Melanie Arntz, Michele Dinelli und Oliver Schlenker, „KI als Jobkiller für Berufseinsteiger? Entwarnung mit Vorbehalt“, IAB-Forum, 13.10.2026. Datenbasis: monatliche administrative Beschäftigungsdaten der Bundesagentur für Arbeit, Januar 2021 bis Dezember 2025, im Schnitt rund 22,3 Millionen sozialversicherungspflichtig Vollzeitbeschäftigte im Alter von 20 bis 64 Jahren.
+
+Einordnung, die dazugehört: Die KI-Exposition misst, wie viel eines Berufs ein Sprachmodell schneller könnte — nicht, ob der Betrieb KI überhaupt einsetzt. Im Modell ist die Konjunkturanfälligkeit mehr als doppelt so stark mit dem Rückgang bei den Jüngeren verbunden wie die KI-Nähe, und der KI-Wert für die 20- bis 29-Jährigen ist statistisch nicht signifikant. Signifikant negativ ist er nur im verarbeitenden Gewerbe und in nichtakademischen Berufen. Die Autoren nennen ihre Befunde ausdrücklich deskriptiv, nicht ursächlich.
+
+#kiimjob #jobsicherheit #15minutenvorsprung

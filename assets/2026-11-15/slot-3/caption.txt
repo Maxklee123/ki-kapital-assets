@@ -1,0 +1,24 @@
+Öffne das am Montag um 9, wenn der Kalender noch leer ist — dann brauchst du genau diesen Prompt.
+
+Nicht dein Beruf steht in der Statistik. Deine Aufgaben stehen darin.
+
+Das IAB sortiert Berufe danach, wie viel ihrer Tätigkeiten ein Sprachmodell deutlich schneller erledigen könnte. Ergebnis über 22,3 Millionen Vollzeitstellen: Die stark KI-exponierten Berufe liegen 2025 rund 1 Prozent über 2022, die weniger exponierten gut 3 Prozent darunter.
+
+Genau diese Sortierung kannst du für dich selbst machen. Fünfzehn Minuten, einmal im Quartal. Der Prompt:
+
+1. Hier sind die 10 Aufgaben, die meine Arbeitswoche füllen: [Liste].
+2. Schätze je Aufgabe, wie viel Zeit ein Sprachmodell davon abnimmt.
+3. Nenne die 3 Aufgaben, die nur ich mit meinem Kontext lösen kann.
+4. Mach daraus 3 Sätze für mein nächstes Gespräch mit der Chefin.
+
+Schritt 3 ist der entscheidende. Ohne ihn hast du eine Liste von Dingen, die du bald nicht mehr machst — das ist eine Angstliste. Mit ihm hast du eine Beschreibung dessen, wofür dich niemand ersetzen kann.
+
+Schritt 4 übrigens auch: Was in keinem Gespräch vorkommt, existiert im Betrieb nicht. Drei Sätze reichen, du brauchst dafür keinen Termin.
+
+Leg den Audit-Termin auf einen Montagmorgen im Quartal. Nicht auf „wenn mal Zeit ist“ — die Zeit kommt nicht.
+
+Quelle: Institut für Arbeitsmarkt- und Berufsforschung (IAB), Melanie Arntz, Michele Dinelli und Oliver Schlenker, „KI als Jobkiller für Berufseinsteiger? Entwarnung mit Vorbehalt“, IAB-Forum, 13.10.2026. Datenbasis: monatliche administrative Beschäftigungsdaten der Bundesagentur für Arbeit, Januar 2021 bis Dezember 2025, im Schnitt rund 22,3 Millionen sozialversicherungspflichtig Vollzeitbeschäftigte im Alter von 20 bis 64 Jahren.
+
+Einordnung, die dazugehört: Die KI-Exposition misst, wie viel eines Berufs ein Sprachmodell schneller könnte — nicht, ob der Betrieb KI überhaupt einsetzt. Im Modell ist die Konjunkturanfälligkeit mehr als doppelt so stark mit dem Rückgang bei den Jüngeren verbunden wie die KI-Nähe, und der KI-Wert für die 20- bis 29-Jährigen ist statistisch nicht signifikant. Signifikant negativ ist er nur im verarbeitenden Gewerbe und in nichtakademischen Berufen. Die Autoren nennen ihre Befunde ausdrücklich deskriptiv, nicht ursächlich.
+
+#kiimjob #promptvorlage #15minutenvorsprung

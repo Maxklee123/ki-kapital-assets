@@ -1,139 +1,151 @@
 # -*- coding: utf-8 -*-
-# Tagesausgabe 2026-11-15 (Sonntag) - Saeule: AENGSTE ENTKRAEFTEN
+# Tagesausgabe 2026-11-16 (Montag) - Saeule: JOB-WORKFLOWS
 #
-# Saeulen-Zuordnung: Sonntag = AENGSTE ENTKRAEFTEN (Auftragstext; deckungsgleich
-# mit Anpassung 2 der Auswertung 09.11.2026, dort AENGSTE = Mi+Do+So).
-# Die Auswertung 12.11.2026 misst fuer AENGSTE die hoechste Reichweite
-# (oe 23,8 gegen 5,4 bei JOB-WORKFLOWS).
+# Saeulen-Zuordnung: Montag = JOB-WORKFLOWS (Auftragstext: Mo/Mi/Fr).
+# Vorbehalt aus der Auswertung 12.11.2026, Anpassung 5: JOB-WORKFLOWS lag
+# dort bei oe 5,4 Reichweite gegen oe 23,8 bei AENGSTE ENTKRAEFTEN - die
+# beiden JOB-WORKFLOWS-Tage waren aber genau die zwei reichweitenschwaechsten
+# Tage des Fensters, ein Kalendereffekt ist nicht auszuschliessen. Die
+# Auswertung verlangt ausdruecklich zwei weitere Messtage, bevor umgestellt
+# wird. Heute ist einer davon.
 #
 # Slot-Plan heute nach Auftragstext vom 15.11.2026 (Auswertung 14.11.):
-#   2 Reels + 3 Stories, Reel C und Karussell gestrichen.
+#   2 Reels + 3 Stories, Reel C (21:00) und Karussell (12:00) gestrichen.
 #   ABWEICHUNG zu OPERATIONS.md: dort sind die drei Story-Slots am 12.11.
-#   gestrichen (reach 0). Der neuere Auftragstext nimmt sie wieder auf -
-#   ihm wird gefolgt, der Konflikt ist im Lauf-Bericht vermerkt.
-#   Reel B traegt den NEUEN visuellen Speicher-CTA (Auftragstext 15.11.),
-#   der die Folgen-CTA-Frist 13.-19.11. aus der Auswertung 12.11. ersetzt.
+#   gestrichen (reach 0, replies 0, profile_visits 0). Der neuere
+#   Auftragstext nimmt sie wieder auf - ihm wird gefolgt, der Konflikt
+#   steht im Lauf-Bericht.
+#   Reel B traegt den visuellen + situativen Speicher-CTA (Auftragstext
+#   15.11.), der die Folgen-CTA-Frist 13.-19.11. aus der Auswertung
+#   12.11.2026 ersetzt. Reel A behaelt den Folgen-CTA.
 #
-# Thema: Der Satz "KI frisst die Jobs" hat in den deutschen
-#        Beschaeftigtendaten bisher keine Entsprechung - und die Gruppe, die
-#        tatsaechlich verliert, ist nicht die Zielgruppe dieses Kontos.
-# Quelle: Institut fuer Arbeitsmarkt- und Berufsforschung (IAB),
-#         Melanie Arntz, Michele Dinelli, Oliver Schlenker,
-#         "KI als Jobkiller fuer Berufseinsteiger? Entwarnung mit Vorbehalt",
-#         IAB-Forum, veroeffentlicht 13.10.2026; zugehoerige IAB-Presseinfo
-#         "KI bisher kein Jobkiller, aber Berufseinsteiger zunehmend betroffen".
-#         Datenbasis: monatliche administrative Beschaeftigungsdaten der
-#         Bundesagentur fuer Arbeit, Januar 2021 bis Dezember 2025, im Schnitt
-#         rund 22,3 Mio. sozialversicherungspflichtig Vollzeitbeschaeftigte
-#         im Alter von 20 bis 64 Jahren (ohne Beamte, Selbstaendige,
-#         Minijobber, Azubis). KI-Exposition nach Eloundou et al. (2024),
-#         Berufe in Quintile geteilt; Poisson-Regression, Referenz 4. Quartal 2022.
-#         Kernzahlen: stark KI-exponierte Berufe 2025 rund +1 % gegenueber 2022,
-#         weniger exponierte gut -3 %; ab 30 Jahren in stark exponierten Berufen
-#         rund +2 %; Wachstumsabstand stark minus schwach: 30-39 fast
-#         +6 Prozentpunkte, 40-64 rund +5 Prozentpunkte, 20-29 -1,2 Prozentpunkte
-#         (-3,8 % gegen -2,6 %).
-# Gegenprobe (Pflicht, steht in Frame 5 und in beiden Captions):
-#         Im Modell je Standardabweichung ist der Zusammenhang mit der
-#         Konjunkturanfaelligkeit "mehr als doppelt so stark" wie der mit der
-#         KI-Exposition; der KI-Wert fuer die 20- bis 29-Jaehrigen (-1,8 %)
-#         ist statistisch NICHT signifikant. Signifikant negativ ist er nur
-#         im verarbeitenden Gewerbe und in nichtakademischen Berufen bei den
-#         unter 30-Jaehrigen. Die Autoren nennen ihre Befunde rein deskriptiv
-#         und ausdruecklich keinen kausalen Nachweis.
+# Thema: Die Zeit, die KI im Buero spart, wird vom Bedienen und Nachpruefen
+#        fast vollstaendig wieder aufgefressen. Netto bleiben 22 Minuten pro
+#        Woche. Der Hebel ist deshalb nicht ein weiteres Tool, sondern ein
+#        wiederverwendbarer Prompt-Baustein, der das Nachbessern kuerzt.
+#
+# Quelle: YouGov im Auftrag von Notion, Online-Befragung 9.-19.06.2026,
+#         2.067 Beschaeftigte im deutschen Privatsektor in computergestuetzten
+#         Positionen, davon 1.554 mit KI-Nutzung fuer die Arbeit.
+#         Kernzahlen: Bruttozeitersparnis 2,17 Stunden pro Woche,
+#         Aufwand fuer Nutzung und Betreuung (Prompting, Pruefen der
+#         Ergebnisse) 1,81 Stunden pro Woche, Netto-Ersparnis 22 Minuten
+#         pro Woche bzw. 17,2 Stunden im Jahr.
+#         Weitere Werte derselben Studie: 21 % der Agenten-Nutzer sehen einen
+#         hoeheren Mehrwert fuer ihr Unternehmen, unter taeglichen Nutzern
+#         35 %; 59 % der taeglichen Nutzer haben ihren Verantwortungsbereich
+#         erweitert; 34 % sehen bessere Karriereaussichten; 45 % sagen, die
+#         taeglich benoetigten Faehigkeiten wandeln sich grundlegend;
+#         22 % aller KI-Nutzer bekommen keine wirksame Schulung.
+#         Gegengeprueft in zwei unabhaengigen Fachmedien:
+#         digitalbusiness-magazin.de, 21.09.2026 (alle Kernzahlen woertlich
+#         bestaetigt) und MIDRANGE, 15.09.2026.
+#
+# Gegenprobe (Pflicht, steht in Frame 5 von Reel A und in beiden Captions):
+#         (1) Alle Werte sind SELBSTAUSKUNFT, nicht gemessene Arbeitszeit.
+#         (2) Auftraggeber Notion verkauft selbst KI-Funktionen in einem
+#             Workspace-Produkt - ein Ergebnis "Zeit geht beim Hin- und
+#             Herspringen verloren" liegt im Interesse des Auftraggebers.
+#         (3) Die Stichprobe deckt nur den Privatsektor in computergestuetzten
+#             Positionen ab, nicht alle Beschaeftigten.
+#         (4) Die Quelle sagt nicht, ob sich 2,17 h und 1,81 h auf alle 2.067
+#             Befragten oder nur auf die 1.554 KI-Nutzer beziehen.
+#         (5) Die Jahresangabe 17,2 Stunden ist nicht hergeleitet: 0,36 h mal
+#             52 Wochen ergibt 18,7 h; 17,2 h passen zu rund 48 Arbeitswochen.
+#             Deshalb steht in den Bildern die Wochenzahl, nicht die Jahreszahl.
 
 NB = " "  # geschuetztes Leerzeichen: haelt Zahl und Einheit zusammen
 
-SRC_IAB  = ("IAB · Arntz/Dinelli/Schlenker, 13.10.2026 · 22,3 Mio. Vollzeitstellen, "
-            "BA-Daten 2021–2025")
-SRC_IAB2 = ("IAB-Forum, 13.10.2026 · Vollzeitbeschäftigung 2025 gegen 2022, "
-            "unbereinigt, Berufe nach KI-Exposition")
+SRC_NOTION = ("YouGov für Notion, 9.–19.06.2026 · 2.067 Beschäftigte, "
+              "deutscher Privatsektor · Selbstauskunft")
+SRC_NOTION2 = ("YouGov/Notion, Befragung Juni 2026 · brutto 2,17" + NB + "h minus "
+               "1,81" + NB + "h Bedienung = netto")
 
 # ---------------------------------------------------------------- Slot 1: Story 09:00
 STORY_1 = [
-    {"k": "kicker", "t": "SONNTAG · 09 UHR"},
-    {"k": "num", "t": "+1" + NB + "%", "s": 230, "c": (77, 212, 200)},
-    {"k": "numsub", "t": "in Berufen, die KI könnte. Minus 3" + NB + "% in Berufen, die sie nicht könnte.", "s": 54},
-    {"k": "body", "t": "Das IAB hat 22,3 Millionen Vollzeitstellen nachgezählt, vier Jahre lang, Monat für Monat. Die Richtung ist nicht die, die du erwartest."},
-    {"k": "src", "t": SRC_IAB},
+    {"k": "kicker", "t": "MONTAG · 09 UHR"},
+    {"k": "num", "t": "22" + NB + "Min.", "s": 205, "c": (77, 212, 200)},
+    {"k": "numsub", "t": "bleiben pro Woche übrig, wenn man beide Seiten der KI-Rechnung abfragt.", "s": 52},
+    {"k": "body", "t": "YouGov hat 2.067 Beschäftigte nicht nur gefragt, was KI ihnen spart — sondern auch, was das Bedienen und Prüfen kostet. Die Differenz ist die ganze Geschichte."},
+    {"k": "src", "t": SRC_NOTION},
     {"k": "gap", "s": 12},
     {"k": "cta", "t": "Um 10 Uhr kommt die ganze Rechnung"},
 ]
 
 # ---------------------------------------------------------------- Slot 2: Reel A 10:00
 REEL_A = [
-    [{"k": "kicker", "t": "SONNTAG"},
-     {"k": "big", "t": "Du hältst deinen Beruf für den, den KI als Nächstes kassiert.", "s": 84}],
-    [{"k": "kicker", "t": "DAS IAB HAT NACHGEZÄHLT"},
-     {"k": "big", "t": "22,3 Millionen Vollzeitstellen. Vier Jahre. Monat für Monat.", "s": 82}],
+    [{"k": "kicker", "t": "MONTAG"},
+     {"k": "big", "t": "Du bist sicher, dass dir KI jede Woche zwei Stunden spart.", "s": 86}],
+    [{"k": "kicker", "t": "YOUGOV HAT NACHGERECHNET"},
+     {"k": "big", "t": "Diesmal wurde auch die andere Seite der Rechnung abgefragt.", "s": 82}],
     [{"k": "kicker", "t": "GEMESSEN"},
-     {"k": "num", "t": "+1 : −3", "s": 185},
-     {"k": "numsub", "t": "Prozent Beschäftigung 2025 gegen 2022 – KI-nahe Berufe gegen KI-ferne."},
-     {"k": "body", "t": "Nicht die Berufe nah an der KI haben Stellen verloren. Die weit weg davon haben verloren."},
-     {"k": "src", "t": SRC_IAB}],
+     {"k": "num", "t": "22" + NB + "Min.", "s": 178},
+     {"k": "numsub", "t": "netto pro Woche – nicht pro Tag. 2.067 Beschäftigte, deutscher Privatsektor."},
+     {"k": "body", "t": "2,17 Stunden spart die KI. 1,81 Stunden kostet es, sie zu bedienen und ihre Ergebnisse zu prüfen. Übrig bleiben 22 Minuten."},
+     {"k": "src", "t": SRC_NOTION}],
     [{"k": "kicker", "t": "WAS DAS FÜR DICH HEISST"},
-     {"k": "big", "t": "Die Jobs, die KI könnte, sind mehr geworden. Die anderen weniger.", "s": 78},
-     {"k": "body", "t": "Nähe zur KI war in diesen vier Jahren kein Risiko, sondern der Ort, an dem Stellen entstanden sind. Für den Satz „KI frisst meinen Beruf“ gibt es in den deutschen Daten bisher keine Entsprechung."}],
-    [{"k": "kicker", "t": "UND JETZT DIE ZAHL FÜR DICH"},
-     {"k": "num", "t": "fast 6", "s": 165},
-     {"k": "numsub", "t": "Prozentpunkte Vorsprung hatten die KI-nahen Berufe bei den 30- bis 39-Jährigen."},
-     {"k": "body", "t": "Bei den 40- bis 64-Jährigen rund 5 Prozentpunkte. Der einzige Rückstand liegt bei den 20- bis 29-Jährigen: 1,2 Prozentpunkte – und dort hängt er laut Modell stärker an der Konjunktur als an der KI."},
-     {"k": "src", "t": SRC_IAB2}],
+     {"k": "big", "t": "Dein Zeitgewinn ist echt. Er wird nur an der Tastatur wieder aufgebraucht.", "s": 76},
+     {"k": "body", "t": "Nicht das Tool ist das Problem. Das Neuschreiben jedes Prompts und das Nachbessern jedes Ergebnisses ist es — und genau dieser Teil ist der, den du selbst in der Hand hast."}],
+    [{"k": "kicker", "t": "UND DAS GEHÖRT DAZU"},
+     {"k": "num", "t": "1,81" + NB + "h", "s": 158},
+     {"k": "numsub", "t": "Bedienen und Prüfen pro Woche. Das ist die Stellschraube, nicht die 2,17."},
+     {"k": "body", "t": "Ehrlich dazu: alles Selbstauskunft, kein gemessener Kalender. Auftraggeber der Studie ist ein Anbieter, der selbst KI verkauft. Befragt wurde nur der Privatsektor am Schreibtisch."},
+     {"k": "src", "t": SRC_NOTION2}],
     [{"k": "kicker", "t": "MEINE EINORDNUNG"},
-     {"k": "big", "t": "Die Zahl, die dir Angst macht, stammt aus dem Jahrzehnt vor deinem.", "s": 78},
+     {"k": "big", "t": "Wer die 1,81 Stunden halbiert, gewinnt mehr als jeder Tool-Wechsel bringt.", "s": 76},
      {"k": "gap", "s": 14},
      {"k": "cta", "t": "Folgen für einen Workflow pro Tag"}],
 ]
 
 # ---------------------------------------------------------------- Slot 3: Reel B 14:00
 REEL_B = [
-    [{"k": "kicker", "t": "SONNTAG · 14 UHR"},
-     {"k": "big", "t": "Du kannst nicht sagen, welche deiner Aufgaben KI heute schon schneller kann.", "s": 80}],
-    [{"k": "kicker", "t": "UND GENAU DAS ENTSCHEIDET"},
-     {"k": "big", "t": "Nicht dein Beruf steht in der Statistik. Deine Aufgaben stehen darin.", "s": 82}],
+    [{"k": "kicker", "t": "MONTAG · 14 UHR"},
+     {"k": "big", "t": "Du tippst jeden Prompt neu, als wäre es der erste.", "s": 88}],
+    [{"k": "kicker", "t": "GENAU DAS KOSTET DIE ZEIT"},
+     {"k": "big", "t": "Nicht die KI ist langsam. Das Erklären und Nachbessern ist es.", "s": 82}],
     [{"k": "kicker", "t": "GEMESSEN"},
-     {"k": "num", "t": "+1 : −3", "s": 185},
-     {"k": "numsub", "t": "Prozent Beschäftigung 2025 gegen 2022 – KI-nahe Berufe gegen KI-ferne."},
-     {"k": "body", "t": "Das IAB misst einen Beruf über seine Aufgaben: Wie viel davon ginge mit einem Sprachmodell deutlich schneller? Genau diese Frage kannst du heute für dich beantworten."},
-     {"k": "src", "t": SRC_IAB}],
+     {"k": "num", "t": "1,81" + NB + "h", "s": 170},
+     {"k": "numsub", "t": "pro Woche gehen fürs Bedienen und Prüfen weg – von 2,17 gesparten."},
+     {"k": "body", "t": "Netto bleiben 22 Minuten die Woche. Jede Minute, die du beim Erklären und Nachbessern einsparst, landet direkt in diesem Rest."},
+     {"k": "src", "t": SRC_NOTION}],
     [{"k": "kicker", "t": "DIE MECHANIK"},
-     {"k": "big", "t": "Fünfzehn Minuten, einmal im Quartal: das Aufgaben-Audit.", "s": 78},
-     {"k": "body", "t": "Du listest, was deine Woche wirklich füllt, und markierst, was ein Sprachmodell schneller könnte. Was übrig bleibt, ist dein Kern – und der gehört in das nächste Gespräch mit deiner Führungskraft, nicht in deinen Kopf."}],
-    [{"k": "kicker", "t": "DAS AUFGABEN-AUDIT"},
+     {"k": "big", "t": "Einmal einen Baustein bauen statt fünfzigmal einen Prompt.", "s": 80},
+     {"k": "body", "t": "Für jede Aufgabe, die du mehr als dreimal im Monat machst, schreibst du den Rahmen ein einziges Mal auf: Rolle, Kontext, Format, Prüffrage. Danach tauschst du nur noch den Inhalt."}],
+    [{"k": "kicker", "t": "DER BAUSTEIN"},
      {"k": "steps", "t": [
-         "§1 Hier sind die 10 Aufgaben, die",
-         "   meine Arbeitswoche füllen: [Liste].",
-         "§2 Schätze je Aufgabe, wie viel Zeit",
-         "   ein Sprachmodell davon abnimmt.",
-         "§3 Nenne die 3 Aufgaben, die nur ich",
-         "   mit meinem Kontext lösen kann.",
-         "§4 Mach daraus 3 Sätze für mein",
-         "   nächstes Gespräch mit der Chefin.",
+         "§1 Du bist [Rolle]. Ziel in einem Satz:",
+         "   [was am Ende rauskommen soll].",
+         "§2 Kontext: Empfänger [wer], Vorwissen",
+         "   [was bekannt ist], Ton [wie].",
+         "§3 Format: [Form], maximal [Länge],",
+         "   in dieser Reihenfolge: [1., 2., 3.].",
+         "§4 Sag am Ende, was du nicht wissen",
+         "   konntest und was ich prüfen muss.",
      ], "s": 33},
-     {"k": "body", "t": "Schritt 3 ist der, der aus einer Liste eine Position macht.", "s": 38}],
+     {"k": "body", "t": "Schritt 4 ist der, der das Nachbessern kürzt: Du prüfst nicht mehr alles, sondern die zwei Stellen, die genannt werden.", "s": 36}],
     [{"k": "kicker", "t": "MEINE EINORDNUNG"},
-     {"k": "big", "t": "Wer seine Aufgaben kennt, wird nicht ersetzt. Er wird umgebaut – und redet mit.", "s": 72},
+     {"k": "big", "t": "Der Baustein ist in zehn Minuten geschrieben und spart jede Woche länger.", "s": 72},
      {"k": "gap", "s": 10},
-     {"k": "save", "t": "Sicher dir das für Montag, 9 Uhr", "lab": "Lesezeichen", "s": 46}],
+     {"k": "save", "t": "Sicher dir das für morgen, 9 Uhr", "lab": "Lesezeichen", "s": 40}],
 ]
 
 # ---------------------------------------------------------------- Slot 4: Story 15:00
 STORY_2 = [
     {"k": "kicker", "t": "KURZE FRAGE"},
-    {"k": "big", "t": "Welche Aufgabe würdest du morgen als Erstes abgeben?", "s": 80},
+    {"k": "big", "t": "Welcher Teil frisst bei dir die gesparte Zeit?", "s": 84},
     {"k": "gap", "s": 18},
-    {"k": "rows", "t": ["Mails und Antwortentwürfe",
-                        "Protokolle und Zusammenfassungen",
-                        "Excel-Auswertungen"], "s": 44},
+    {"k": "rows", "t": ["Den Prompt überhaupt formulieren",
+                        "Das Ergebnis Zeile für Zeile prüfen",
+                        "Nachbessern, bis es rausgehen kann"], "s": 42},
     {"k": "gap", "s": 10},
     {"k": "cta", "t": "Antworte mit 1, 2 oder 3"},
 ]
 
 # ---------------------------------------------------------------- Slot 5: Story 20:00
 STORY_3 = [
-    {"k": "kicker", "t": "SONNTAGABEND"},
-    {"k": "big", "t": "Das Aufgaben-Audit als fertige Vorlage.", "s": 84},
-    {"k": "body", "t": "Vier Schritte, fünfzehn Minuten, keine Technik. Du bekommst den vollständigen Prompt als Text zum Kopieren – heute Abend noch."},
+    {"k": "kicker", "t": "MONTAGABEND"},
+    {"k": "big", "t": "Der Prompt-Baustein als fertige Vorlage.", "s": 84},
+    {"k": "body", "t": "Vier Zeilen, einmal ausgefüllt, für jede Aufgabe wiederverwendbar. Du bekommst den vollständigen Text zum Kopieren — heute Abend noch."},
     {"k": "gap", "s": 16},
-    {"k": "cta", "t": "Schreib mir AUDIT als DM"},
+    {"k": "cta", "t": "Schreib mir BAUSTEIN als DM"},
 ]

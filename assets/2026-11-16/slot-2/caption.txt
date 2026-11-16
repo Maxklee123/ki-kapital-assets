@@ -1,0 +1,15 @@
+Deine KI spart dir zwei Stunden pro Woche. Netto bleiben 22 Minuten davon übrig.
+
+YouGov hat für diese Befragung beide Seiten der Rechnung abgefragt — und das ist der Unterschied zu allen Zahlen, die du bisher gesehen hast. 2.067 Beschäftigte im deutschen Privatsektor, alle an computergestützten Arbeitsplätzen.
+
+Die eine Seite: 2,17 Stunden pro Woche, die KI an Arbeit abnimmt. Die andere Seite: 1,81 Stunden pro Woche, die das Bedienen kostet — den Prompt formulieren, das Ergebnis lesen, es prüfen, es nachbessern. Übrig bleiben 22 Minuten die Woche.
+
+Das ist keine Nachricht gegen KI. Es ist eine Nachricht darüber, wo der Hebel liegt: nicht im nächsten Tool, sondern in den 1,81 Stunden. Die 2,17 sind dir vom Modell gegeben. Die 1,81 gehören dir.
+
+Wer das Erklären einmalig erledigt statt fünfzigmal, verschiebt die Rechnung — und zwar auf der Seite, die er selbst steuert.
+
+Quelle: YouGov im Auftrag von Notion, Online-Befragung vom 9. bis 19. Juni 2026. Stichprobe: 2.067 Beschäftigte im deutschen Privatsektor in computergestützten Positionen, davon 1.554 mit KI-Nutzung für die Arbeit. Berichtete Werte: 2,17 Stunden Zeitersparnis pro Woche, 1,81 Stunden Aufwand für Nutzung und Betreuung, daraus eine Netto-Ersparnis von 22 Minuten pro Woche. Gegengeprüft in digitalbusiness-magazin.de vom 21.09.2026 und bei MIDRANGE vom 15.09.2026 — beide nennen dieselben Zahlen.
+
+Einordnung, die dazugehört: Alle Werte sind Selbstauskunft, kein gemessener Kalender — Beschäftigte schätzen ihre eigene Zeitersparnis, und solche Schätzungen fallen regelmäßig zu hoch aus. Auftraggeber der Studie ist ein Anbieter, der selbst KI-Funktionen verkauft; dass Zeit beim Hin- und Herspringen zwischen Werkzeugen verloren geht, liegt in seinem Interesse. Befragt wurde nur der Privatsektor in computergestützten Positionen, nicht alle Beschäftigten. Und die Quelle sagt nicht, ob sich die 2,17 und 1,81 Stunden auf alle 2.067 Befragten oder nur auf die 1.554 KI-Nutzer beziehen. Die Richtung der Zahlen ist belastbar, die zweite Dezimalstelle nicht.
+
+#kiimjob #zeitmanagement #15minutenvorsprung

@@ -1,24 +1,24 @@
-Öffne das zwei Wochen vor deinem Jahresgespräch — dann brauchst du genau diesen Prompt.
+Öffne das am Freitagnachmittag, wenn die erste Stunde ruhig ist — dann brauchst du genau diesen Prompt.
 
-Du nutzt KI längst im Job. Belegen könntest du es nicht.
+Du weißt nicht, welche KI-Fähigkeit dir in deinem Job überhaupt etwas bringt. Deshalb fängst du gar nicht erst an.
 
-Genau das entscheidet im Jahresgespräch: nicht was du kannst, sondern was du zeigen kannst. PwC hat ausgezählt, dass in stark KI-exponierten Berufen seit 2019 rund 225 neue Kompetenzen dazugekommen sind. Niemand lernt 225 Dinge nach. Aber ein Teil davon steckt längst in deinen letzten vier Wochen Arbeit — nur unaufgeschrieben.
+Auf den Kurs der Firma zu warten, ist dabei statistisch keine gute Idee: 27 Prozent der Unternehmen haben überhaupt jemanden im Umgang mit KI geschult. 2024 waren es 12 Prozent — die Zahl hat sich verdoppelt und ist trotzdem die Minderheit. In Betrieben mit 20 bis 49 Beschäftigten sind es 21 Prozent.
 
-Die Mechanik ist deshalb keine Weiterbildung, sondern eine Übersetzung: Du lässt die KI deine eigenen Aufgaben durchgehen und in Sätze fassen, die ein Vorgesetzter als Ergebnis liest.
+Die Mechanik braucht deshalb keinen Kurs. Dein Lehrplan steht schon, er steht in deiner Aufgabenliste: drei Fähigkeiten, die zu den Aufgaben passen, die du ohnehin jede Woche machst.
 
-Der Nachweis-Prompt:
+Der Lehrplan-Prompt:
 
-1. Hier sind 10 Aufgaben aus meinen letzten vier Wochen: [Liste].
-2. Markiere, wo KI das Ergebnis messbar verbessert hat: schneller, genauer, mehr Umfang.
-3. Schreib je Treffer einen Satz: Aufgabe, Werkzeug, Ergebnis, Zahl.
-4. Sag, welcher Satz ohne Zahl nicht überzeugt — und welche Zahl mir fehlt.
+1. Das sind meine 8 wiederkehrenden Aufgaben im Job: [Liste].
+2. Welche drei davon könnte KI heute übernehmen — ohne neues Werkzeug?
+3. Nenne je Aufgabe die EINE Fähigkeit, die ich dafür beherrschen muss.
+4. Gib mir pro Fähigkeit eine Übung von 20 Minuten, mit Beispiel zum Nachbauen.
 
-Schritt 4 ist der entscheidende. Er sagt dir vorher, welchen Satz dein Chef auseinandernimmt, und du lieferst die Zahl nach, statt im Gespräch zu improvisieren. Schritt 3 verhindert die Floskel: Ohne Zahl ist es eine Behauptung, mit Zahl ein Ergebnis.
+Schritt 2 ist die Begrenzung: ohne „ohne neues Werkzeug“ bekommst du eine Tool-Liste statt eines Lehrplans. Schritt 4 macht es umsetzbar — ohne Übung bleibt die Antwort eine Sammlung von Begriffen, die du nach zwei Tagen vergessen hast.
 
-Zwanzig Minuten jetzt sind später drei Sätze, die niemand bestreitet.
+Drei Übungen zu 20 Minuten sind eine Stunde. So lange wartet man sonst auf gar nichts.
 
-Quelle: PwC AI Jobs Barometer 2026, 30.06.2026, über eine Milliarde Stellenanzeigen aus 27 Ländern. Rund 225 neue Kompetenzen pro Beruf zwischen 2019 und 2025 in stark KI-exponierten Berufen. Gegengeprüft bei silicon.de vom 30.06.2026 und bei aktuelle-sozialpolitik.de vom 20.08.2026.
+Quelle: TÜV Weiterbildungsstudie 2026, erhoben von Forsa für den TÜV-Verband, veröffentlicht am 28.04.2026. Befragt wurden 500 Unternehmen ab 20 Mitarbeitenden in Deutschland, Januar bis März 2026. Werte: 56 Prozent nutzen generative KI im Arbeitsalltag, 27 Prozent haben jemanden geschult (2024: 12 Prozent), 45 Prozent sehen derzeit keinen Bedarf, 21 Prozent der Betriebe mit 20 bis 49 Beschäftigten gegen 49 Prozent ab 250. Gegengeprüft bei silicon.de vom 28.04.2026.
 
-Einordnung: Gemessen werden Stellenanzeigen, nicht Beschäftigte — was eine Anzeige zur KI-Anzeige macht, legt PwC nicht offen. Die 225 gelten nur für stark exponierte Berufe, nicht für jeden Job. Und PwC ist eine Beratung, die von diesem Bedarf lebt.
+Einordnung: Befragt wurden Unternehmen, nicht Beschäftigte. Auftraggeber ist der TÜV-Verband, dessen Mitglieder Weiterbildung verkaufen.
 
 #kiimjob #promptvorlage #15minutenvorsprung

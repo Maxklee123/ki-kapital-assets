@@ -1,151 +1,175 @@
 # -*- coding: utf-8 -*-
-# Tagesausgabe 2026-11-16 (Montag) - Saeule: JOB-WORKFLOWS
+# Tagesausgabe 2026-11-17 (Dienstag) - Saeule: UNERSETZBAR-FRAMING
 #
-# Saeulen-Zuordnung: Montag = JOB-WORKFLOWS (Auftragstext: Mo/Mi/Fr).
-# Vorbehalt aus der Auswertung 12.11.2026, Anpassung 5: JOB-WORKFLOWS lag
-# dort bei oe 5,4 Reichweite gegen oe 23,8 bei AENGSTE ENTKRAEFTEN - die
-# beiden JOB-WORKFLOWS-Tage waren aber genau die zwei reichweitenschwaechsten
-# Tage des Fensters, ein Kalendereffekt ist nicht auszuschliessen. Die
-# Auswertung verlangt ausdruecklich zwei weitere Messtage, bevor umgestellt
-# wird. Heute ist einer davon.
+# Saeulen-Zuordnung: Dienstag = UNERSETZBAR-FRAMING nach Auftragstext
+# (Di/Sa). ABWEICHENDE EMPFEHLUNG, die bewusst NICHT gefahren wird:
+# Anpassung 1 der Auswertung 16.11.2026 schlaegt vor, Di auf JOB-WORKFLOWS
+# zu legen (AENGSTE Mo/Mi/Fr/So, UNERSETZBAR nur Sa), weil AENGSTE im
+# Fenster 10.-16.11. oe 33,3 Reichweite gegen 7,3 (JOB-WORKFLOWS) und 8,5
+# (UNERSETZBAR) erreichte. Diese Anpassung stammt aus dem automatischen
+# Auswertungslauf, nicht von Max; der Auftragstext ist die Anweisung des
+# Kontoinhabers und hat am 15.11. schon einmal eine Auswertungs-Empfehlung
+# ueberstimmt. Gefahren wird deshalb der Auftragstext, die Abweichung steht
+# im Lauf-Bericht und in der HINWEIS-Zeile.
 #
-# Slot-Plan heute nach Auftragstext vom 15.11.2026 (Auswertung 14.11.):
-#   2 Reels + 3 Stories, Reel C (21:00) und Karussell (12:00) gestrichen.
-#   ABWEICHUNG zu OPERATIONS.md: dort sind die drei Story-Slots am 12.11.
-#   gestrichen (reach 0, replies 0, profile_visits 0). Der neuere
-#   Auftragstext nimmt sie wieder auf - ihm wird gefolgt, der Konflikt
-#   steht im Lauf-Bericht.
-#   Reel B traegt den visuellen + situativen Speicher-CTA (Auftragstext
-#   15.11.), der die Folgen-CTA-Frist 13.-19.11. aus der Auswertung
-#   12.11.2026 ersetzt. Reel A behaelt den Folgen-CTA.
+# Slot-Plan heute nach Auftragstext: 2 Reels + 3 Stories.
+#   Offener Widerspruch, dritte Auswertung in Folge: Anpassung 3 der
+#   Auswertung 16.11.2026 streicht die drei Story-Slots endgueltig
+#   (6 von 6 am Posttag gemessenen Slots mit reach 0, 15 Stories im
+#   Fenster mit 0 erreichten Accounts) und will die Kapazitaet in einen
+#   dritten Reel-Slot um 17:00 geben. Der Auftragstext fuehrt die Stories
+#   weiter. Entscheidung liegt bei Max, bis dahin gilt der Auftragstext.
 #
-# Thema: Die Zeit, die KI im Buero spart, wird vom Bedienen und Nachpruefen
-#        fast vollstaendig wieder aufgefressen. Netto bleiben 22 Minuten pro
-#        Woche. Der Hebel ist deshalb nicht ein weiteres Tool, sondern ein
-#        wiederverwendbarer Prompt-Baustein, der das Nachbessern kuerzt.
+# Thema: Die Lohnpraemie fuer KI-Kompetenz in Deutschland haengt nicht am
+#        Programmieren. Auf eine Entwicklerrolle kommen sieben
+#        Anwenderrollen - gefragt und bezahlt wird das Anwenden.
 #
-# Quelle: YouGov im Auftrag von Notion, Online-Befragung 9.-19.06.2026,
-#         2.067 Beschaeftigte im deutschen Privatsektor in computergestuetzten
-#         Positionen, davon 1.554 mit KI-Nutzung fuer die Arbeit.
-#         Kernzahlen: Bruttozeitersparnis 2,17 Stunden pro Woche,
-#         Aufwand fuer Nutzung und Betreuung (Prompting, Pruefen der
-#         Ergebnisse) 1,81 Stunden pro Woche, Netto-Ersparnis 22 Minuten
-#         pro Woche bzw. 17,2 Stunden im Jahr.
-#         Weitere Werte derselben Studie: 21 % der Agenten-Nutzer sehen einen
-#         hoeheren Mehrwert fuer ihr Unternehmen, unter taeglichen Nutzern
-#         35 %; 59 % der taeglichen Nutzer haben ihren Verantwortungsbereich
-#         erweitert; 34 % sehen bessere Karriereaussichten; 45 % sagen, die
-#         taeglich benoetigten Faehigkeiten wandeln sich grundlegend;
-#         22 % aller KI-Nutzer bekommen keine wirksame Schulung.
-#         Gegengeprueft in zwei unabhaengigen Fachmedien:
-#         digitalbusiness-magazin.de, 21.09.2026 (alle Kernzahlen woertlich
-#         bestaetigt) und MIDRANGE, 15.09.2026.
+# Quelle: PwC AI Jobs Barometer 2026, veroeffentlicht am 30.06.2026
+#         (Pressemitteilung Duesseldorf). Datengrundlage: mehr als eine
+#         Milliarde Stellenanzeigen aus 27 Laendern auf sechs Kontinenten,
+#         davon rund 9 Millionen in Deutschland; Berichtsjahr 2025,
+#         Trendreihe seit 2023, Skill-Wandel 2019 bis 2025. Eigene
+#         Messgroesse: AI Occupational Exposure Index von PwC.
+#         Kernzahlen Deutschland:
+#         - Anwenderrollen 2025: 109.400 (+2.800 / +2,6 %)
+#         - Entwicklerrollen 2025: 15.400 (+339 / +2,2 %)
+#         - Verhaeltnis laut PwC-Fliesstext 7:1 (109.400/15.400 = 7,1)
+#         - KI-bezogene Stellenanzeigen: 1,3 % aller Anzeigen, rund
+#           125.000 (2024: ca. 1,0 %); TMT ueber 6 %
+#         - Lohnpraemie fuer KI-Kompetenz: in den meisten Sektoren ueber
+#           20 %, Spitze 39 % (Energie und Versorger), professionelle
+#           Dienstleistungen 13 %, Finanzsektor -9 %
+#         - rund 225 neue Kompetenzen pro Beruf (2019-2025) in stark
+#           KI-exponierten Berufen; Kompetenzen aendern sich dort global
+#           mehr als doppelt so schnell
+#         - Korrelation KI-Exponierung / Netto-Skill-Wandel in
+#           Deutschland: 0,02
 #
-# Gegenprobe (Pflicht, steht in Frame 5 von Reel A und in beiden Captions):
-#         (1) Alle Werte sind SELBSTAUSKUNFT, nicht gemessene Arbeitszeit.
-#         (2) Auftraggeber Notion verkauft selbst KI-Funktionen in einem
-#             Workspace-Produkt - ein Ergebnis "Zeit geht beim Hin- und
-#             Herspringen verloren" liegt im Interesse des Auftraggebers.
-#         (3) Die Stichprobe deckt nur den Privatsektor in computergestuetzten
-#             Positionen ab, nicht alle Beschaeftigten.
-#         (4) Die Quelle sagt nicht, ob sich 2,17 h und 1,81 h auf alle 2.067
-#             Befragten oder nur auf die 1.554 KI-Nutzer beziehen.
-#         (5) Die Jahresangabe 17,2 Stunden ist nicht hergeleitet: 0,36 h mal
-#             52 Wochen ergibt 18,7 h; 17,2 h passen zu rund 48 Arbeitswochen.
-#             Deshalb steht in den Bildern die Wochenzahl, nicht die Jahreszahl.
+# Gegenprobe (zwei unabhaengige Quellen, Pflicht):
+#         - silicon.de, 30.06.2026 (Roger Homrich): bestaetigt 1,3 % /
+#           rund 125.000, -9 % Finanzsektor, 225 neue Kompetenzen, 0,02,
+#           ueber 1 Mrd. Anzeigen aus 27 Laendern, rund 9 Mio. in
+#           Deutschland. ABWEICHUNG: nennt das Verhaeltnis "rund 8:1"
+#           statt 7:1.
+#         - aktuelle-sozialpolitik.de, 20.08.2026 (Stefan Sell):
+#           bestaetigt 7:1, 1,3 %, 2024 ca. 1,0 %, 225, 0,02.
+#
+# Gegenprobe/Einordnung (Pflicht, steht in Frame 5 von Reel A und in
+# beiden Captions):
+#         (1) Gemessen werden STELLENANZEIGEN, nicht Beschaeftigte. Die
+#             Lohnpraemie ist ein Aufschlag in Anzeigen - kein Nachweis,
+#             dass irgendwer mehr Geld bekommen hat.
+#         (2) 1,3 % aller Anzeigen ist ein kleiner Anteil. Sell nennt den
+#             Wert ausdruecklich nicht beeindruckend; von einem
+#             Massenphaenomen kann keine Rede sein.
+#         (3) PwC ist eine Beratung und profitiert von dem Bedarf, den die
+#             Studie beschreibt (Einwand Sell).
+#         (4) Die Quellen widersprechen sich beim Verhaeltnis: pwc.de und
+#             Sell nennen 7:1, silicon.de 8:1. 109.400/15.400 = 7,1.
+#             Deshalb steht in den Bildern 7:1 mit den Rohzahlen daneben.
+#         (5) "KI-Kompetenz" ist in der Studie nicht aufgefaechert; was
+#             genau eine Anzeige zur KI-Anzeige macht, legt PwC nicht
+#             offen.
+#         (6) Flankierend, nicht aus der Studie: OECD 2026 ("AI and
+#             skills") - nur rund 1 % der Beschaeftigten hat
+#             fortgeschrittene ML-/Data-Science-Kenntnisse; fuer die
+#             meisten zaehlen KI-Grundverstaendnis, Datenkompetenz und
+#             kritische Bewertung der Ergebnisse. Zitiert bei Sell.
 
 NB = " "  # geschuetztes Leerzeichen: haelt Zahl und Einheit zusammen
 
-SRC_NOTION = ("YouGov für Notion, 9.–19.06.2026 · 2.067 Beschäftigte, "
-              "deutscher Privatsektor · Selbstauskunft")
-SRC_NOTION2 = ("YouGov/Notion, Befragung Juni 2026 · brutto 2,17" + NB + "h minus "
-               "1,81" + NB + "h Bedienung = netto")
+SRC_PWC = ("PwC AI Jobs Barometer 2026, 30.06.2026 · über 1 Mrd. "
+           "Stellenanzeigen, 27 Länder · Deutschland 2025")
+SRC_PWC2 = ("PwC 2026 · Lohnaufschlag in Stellenanzeigen, nicht in "
+            "gezahlten Gehältern")
+SRC_PWC3 = ("PwC AI Jobs Barometer 2026 · stark KI-exponierte Berufe, "
+            "2019–2025")
 
 # ---------------------------------------------------------------- Slot 1: Story 09:00
 STORY_1 = [
-    {"k": "kicker", "t": "MONTAG · 09 UHR"},
-    {"k": "num", "t": "22" + NB + "Min.", "s": 205, "c": (77, 212, 200)},
-    {"k": "numsub", "t": "bleiben pro Woche übrig, wenn man beide Seiten der KI-Rechnung abfragt.", "s": 52},
-    {"k": "body", "t": "YouGov hat 2.067 Beschäftigte nicht nur gefragt, was KI ihnen spart — sondern auch, was das Bedienen und Prüfen kostet. Die Differenz ist die ganze Geschichte."},
-    {"k": "src", "t": SRC_NOTION},
+    {"k": "kicker", "t": "DIENSTAG · 09 UHR"},
+    {"k": "num", "t": "7" + NB + ":" + NB + "1", "s": 205, "c": (77, 212, 200)},
+    {"k": "numsub", "t": "So viele KI-Stellen in Deutschland suchen Anwender statt Entwickler.", "s": 52},
+    {"k": "body", "t": "PwC hat über eine Milliarde Stellenanzeigen ausgezählt. In Deutschland stehen 109.400 Anwenderrollen gegen 15.400 Entwicklerrollen."},
+    {"k": "src", "t": SRC_PWC},
     {"k": "gap", "s": 12},
-    {"k": "cta", "t": "Um 10 Uhr kommt die ganze Rechnung"},
+    {"k": "cta", "t": "Um 10 Uhr kommt die Lohnzahl dazu"},
 ]
 
 # ---------------------------------------------------------------- Slot 2: Reel A 10:00
 REEL_A = [
-    [{"k": "kicker", "t": "MONTAG"},
-     {"k": "big", "t": "Du bist sicher, dass dir KI jede Woche zwei Stunden spart.", "s": 86}],
-    [{"k": "kicker", "t": "YOUGOV HAT NACHGERECHNET"},
-     {"k": "big", "t": "Diesmal wurde auch die andere Seite der Rechnung abgefragt.", "s": 82}],
-    [{"k": "kicker", "t": "GEMESSEN"},
-     {"k": "num", "t": "22" + NB + "Min.", "s": 178},
-     {"k": "numsub", "t": "netto pro Woche – nicht pro Tag. 2.067 Beschäftigte, deutscher Privatsektor."},
-     {"k": "body", "t": "2,17 Stunden spart die KI. 1,81 Stunden kostet es, sie zu bedienen und ihre Ergebnisse zu prüfen. Übrig bleiben 22 Minuten."},
-     {"k": "src", "t": SRC_NOTION}],
+    [{"k": "kicker", "t": "DIENSTAG"},
+     {"k": "big", "t": "Du denkst, die KI-Jobs gehen an die, die programmieren können.", "s": 84}],
+    [{"k": "kicker", "t": "PWC HAT NACHGEZÄHLT"},
+     {"k": "big", "t": "Über eine Milliarde Stellenanzeigen, 27 Länder, ausgezählt nach KI-Anforderung.", "s": 74}],
+    [{"k": "kicker", "t": "GEZÄHLT IN DEUTSCHLAND"},
+     {"k": "num", "t": "7" + NB + ":" + NB + "1", "s": 185},
+     {"k": "numsub", "t": "Anwenderrollen zu Entwicklerrollen: 109.400 gegen 15.400."},
+     {"k": "body", "t": "Auf jede Stelle, die KI bauen soll, kommen sieben, die KI nur benutzen sollen. Gesucht wird das Anwenden, nicht das Programmieren."},
+     {"k": "src", "t": SRC_PWC}],
     [{"k": "kicker", "t": "WAS DAS FÜR DICH HEISST"},
-     {"k": "big", "t": "Dein Zeitgewinn ist echt. Er wird nur an der Tastatur wieder aufgebraucht.", "s": 76},
-     {"k": "body", "t": "Nicht das Tool ist das Problem. Das Neuschreiben jedes Prompts und das Nachbessern jedes Ergebnisses ist es — und genau dieser Teil ist der, den du selbst in der Hand hast."}],
-    [{"k": "kicker", "t": "UND DAS GEHÖRT DAZU"},
-     {"k": "num", "t": "1,81" + NB + "h", "s": 158},
-     {"k": "numsub", "t": "Bedienen und Prüfen pro Woche. Das ist die Stellschraube, nicht die 2,17."},
-     {"k": "body", "t": "Ehrlich dazu: alles Selbstauskunft, kein gemessener Kalender. Auftraggeber der Studie ist ein Anbieter, der selbst KI verkauft. Befragt wurde nur der Privatsektor am Schreibtisch."},
-     {"k": "src", "t": SRC_NOTION2}],
+     {"k": "big", "t": "Die Stelle, die dich ersetzen könnte, verlangt kein Studium. Nur Routine.", "s": 76},
+     {"k": "body", "t": "Dieselbe Zahl heißt beides: Der Vorsprung liegt nicht hinter einem Informatikstudium — und er ist deshalb auch für den Kollegen neben dir erreichbar."}],
+    [{"k": "kicker", "t": "UND DAS WIRD DAFÜR GEZAHLT"},
+     {"k": "num", "t": "+20" + NB + "%", "s": 150},
+     {"k": "numsub", "t": "und mehr, in den meisten Sektoren. Spitze 39 % bei Energie und Versorgern."},
+     {"k": "body", "t": "Ehrlich dazu: Gemessen sind Stellenanzeigen, keine gezahlten Gehälter. Nur 1,3 % aller Anzeigen verlangen überhaupt KI. Im Finanzsektor liegt der Aufschlag bei minus 9 %."},
+     {"k": "src", "t": SRC_PWC2}],
     [{"k": "kicker", "t": "MEINE EINORDNUNG"},
-     {"k": "big", "t": "Wer die 1,81 Stunden halbiert, gewinnt mehr als jeder Tool-Wechsel bringt.", "s": 76},
+     {"k": "big", "t": "Unersetzbar wird hier niemand durch Technik. Sondern durch sieben zu eins.", "s": 76},
      {"k": "gap", "s": 14},
      {"k": "cta", "t": "Folgen für einen Workflow pro Tag"}],
 ]
 
 # ---------------------------------------------------------------- Slot 3: Reel B 14:00
 REEL_B = [
-    [{"k": "kicker", "t": "MONTAG · 14 UHR"},
-     {"k": "big", "t": "Du tippst jeden Prompt neu, als wäre es der erste.", "s": 88}],
-    [{"k": "kicker", "t": "GENAU DAS KOSTET DIE ZEIT"},
-     {"k": "big", "t": "Nicht die KI ist langsam. Das Erklären und Nachbessern ist es.", "s": 82}],
-    [{"k": "kicker", "t": "GEMESSEN"},
-     {"k": "num", "t": "1,81" + NB + "h", "s": 170},
-     {"k": "numsub", "t": "pro Woche gehen fürs Bedienen und Prüfen weg – von 2,17 gesparten."},
-     {"k": "body", "t": "Netto bleiben 22 Minuten die Woche. Jede Minute, die du beim Erklären und Nachbessern einsparst, landet direkt in diesem Rest."},
-     {"k": "src", "t": SRC_NOTION}],
+    [{"k": "kicker", "t": "DIENSTAG · 14 UHR"},
+     {"k": "big", "t": "Du nutzt KI längst im Job. Belegen könntest du es nicht.", "s": 86}],
+    [{"k": "kicker", "t": "GENAU DAS ENTSCHEIDET"},
+     {"k": "big", "t": "Im Jahresgespräch zählt nicht, was du kannst. Sondern was du zeigen kannst.", "s": 76}],
+    [{"k": "kicker", "t": "GEZÄHLT"},
+     {"k": "num", "t": "225", "s": 190},
+     {"k": "numsub", "t": "neue Kompetenzen pro Beruf seit 2019 – in stark KI-exponierten Berufen."},
+     {"k": "body", "t": "Niemand lernt 225 Dinge nach. Aber ein Teil davon steht längst in deinen letzten vier Wochen Arbeit — unaufgeschrieben."},
+     {"k": "src", "t": SRC_PWC3}],
     [{"k": "kicker", "t": "DIE MECHANIK"},
-     {"k": "big", "t": "Einmal einen Baustein bauen statt fünfzigmal einen Prompt.", "s": 80},
-     {"k": "body", "t": "Für jede Aufgabe, die du mehr als dreimal im Monat machst, schreibst du den Rahmen ein einziges Mal auf: Rolle, Kontext, Format, Prüffrage. Danach tauschst du nur noch den Inhalt."}],
-    [{"k": "kicker", "t": "DER BAUSTEIN"},
+     {"k": "big", "t": "Nicht mehr lernen. Das Vorhandene belegbar machen.", "s": 82},
+     {"k": "body", "t": "Du lässt die KI deine eigenen Aufgaben der letzten vier Wochen durchgehen und in Sätze übersetzen, die ein Vorgesetzter als Ergebnis liest: Aufgabe, Werkzeug, Ergebnis, Zahl."}],
+    [{"k": "kicker", "t": "DER NACHWEIS-PROMPT"},
      {"k": "steps", "t": [
-         "§1 Du bist [Rolle]. Ziel in einem Satz:",
-         "   [was am Ende rauskommen soll].",
-         "§2 Kontext: Empfänger [wer], Vorwissen",
-         "   [was bekannt ist], Ton [wie].",
-         "§3 Format: [Form], maximal [Länge],",
-         "   in dieser Reihenfolge: [1., 2., 3.].",
-         "§4 Sag am Ende, was du nicht wissen",
-         "   konntest und was ich prüfen muss.",
+         "§1 Hier sind 10 Aufgaben aus meinen",
+         "   letzten vier Wochen: [Liste].",
+         "§2 Markiere, wo KI das Ergebnis messbar",
+         "   verbessert hat: schneller, genauer, mehr.",
+         "§3 Schreib je Treffer einen Satz:",
+         "   Aufgabe, Werkzeug, Ergebnis, Zahl.",
+         "§4 Sag, welcher Satz ohne Zahl nicht",
+         "   überzeugt – und welche Zahl mir fehlt.",
      ], "s": 33},
-     {"k": "body", "t": "Schritt 4 ist der, der das Nachbessern kürzt: Du prüfst nicht mehr alles, sondern die zwei Stellen, die genannt werden.", "s": 36}],
+     {"k": "body", "t": "Schritt 4 ist der entscheidende: Er sagt dir vorher, welchen Satz dein Chef auseinandernimmt.", "s": 36}],
     [{"k": "kicker", "t": "MEINE EINORDNUNG"},
-     {"k": "big", "t": "Der Baustein ist in zehn Minuten geschrieben und spart jede Woche länger.", "s": 72},
+     {"k": "big", "t": "Zwanzig Minuten jetzt sind im Jahresgespräch drei Sätze, die niemand bestreitet.", "s": 70},
      {"k": "gap", "s": 10},
-     {"k": "save", "t": "Sicher dir das für morgen, 9 Uhr", "lab": "Lesezeichen", "s": 40}],
+     {"k": "save", "t": "Sicher dir das fürs Jahresgespräch", "lab": "Lesezeichen", "s": 40}],
 ]
 
 # ---------------------------------------------------------------- Slot 4: Story 15:00
 STORY_2 = [
     {"k": "kicker", "t": "KURZE FRAGE"},
-    {"k": "big", "t": "Welcher Teil frisst bei dir die gesparte Zeit?", "s": 84},
+    {"k": "big", "t": "Woran würde dein Chef heute sehen, dass du KI nutzt?", "s": 80},
     {"k": "gap", "s": 18},
-    {"k": "rows", "t": ["Den Prompt überhaupt formulieren",
-                        "Das Ergebnis Zeile für Zeile prüfen",
-                        "Nachbessern, bis es rausgehen kann"], "s": 42},
+    {"k": "rows", "t": ["An einem Ergebnis mit Zahl dahinter",
+                        "Daran, dass ich schneller fertig bin",
+                        "An gar nichts – ich erzähle es nicht"], "s": 40},
     {"k": "gap", "s": 10},
     {"k": "cta", "t": "Antworte mit 1, 2 oder 3"},
 ]
 
 # ---------------------------------------------------------------- Slot 5: Story 20:00
 STORY_3 = [
-    {"k": "kicker", "t": "MONTAGABEND"},
-    {"k": "big", "t": "Der Prompt-Baustein als fertige Vorlage.", "s": 84},
-    {"k": "body", "t": "Vier Zeilen, einmal ausgefüllt, für jede Aufgabe wiederverwendbar. Du bekommst den vollständigen Text zum Kopieren — heute Abend noch."},
+    {"k": "kicker", "t": "DIENSTAGABEND"},
+    {"k": "big", "t": "Der Nachweis-Prompt als fertige Vorlage.", "s": 84},
+    {"k": "body", "t": "Vier Zeilen, einmal ausgefüllt. Sie machen aus vier Wochen Arbeit drei Sätze, die im Jahresgespräch bestehen. Du bekommst den vollständigen Text zum Kopieren."},
     {"k": "gap", "s": 16},
-    {"k": "cta", "t": "Schreib mir BAUSTEIN als DM"},
+    {"k": "cta", "t": "Schreib mir NACHWEIS als DM"},
 ]

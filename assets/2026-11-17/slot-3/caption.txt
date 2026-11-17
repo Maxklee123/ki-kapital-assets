@@ -1,0 +1,24 @@
+Öffne das zwei Wochen vor deinem Jahresgespräch — dann brauchst du genau diesen Prompt.
+
+Du nutzt KI längst im Job. Belegen könntest du es nicht.
+
+Genau das entscheidet im Jahresgespräch: nicht was du kannst, sondern was du zeigen kannst. PwC hat ausgezählt, dass in stark KI-exponierten Berufen seit 2019 rund 225 neue Kompetenzen dazugekommen sind. Niemand lernt 225 Dinge nach. Aber ein Teil davon steckt längst in deinen letzten vier Wochen Arbeit — nur unaufgeschrieben.
+
+Die Mechanik ist deshalb keine Weiterbildung, sondern eine Übersetzung: Du lässt die KI deine eigenen Aufgaben durchgehen und in Sätze fassen, die ein Vorgesetzter als Ergebnis liest.
+
+Der Nachweis-Prompt:
+
+1. Hier sind 10 Aufgaben aus meinen letzten vier Wochen: [Liste].
+2. Markiere, wo KI das Ergebnis messbar verbessert hat: schneller, genauer, mehr Umfang.
+3. Schreib je Treffer einen Satz: Aufgabe, Werkzeug, Ergebnis, Zahl.
+4. Sag, welcher Satz ohne Zahl nicht überzeugt — und welche Zahl mir fehlt.
+
+Schritt 4 ist der entscheidende. Er sagt dir vorher, welchen Satz dein Chef auseinandernimmt, und du lieferst die Zahl nach, statt im Gespräch zu improvisieren. Schritt 3 verhindert die Floskel: Ohne Zahl ist es eine Behauptung, mit Zahl ein Ergebnis.
+
+Zwanzig Minuten jetzt sind später drei Sätze, die niemand bestreitet.
+
+Quelle: PwC AI Jobs Barometer 2026, 30.06.2026, über eine Milliarde Stellenanzeigen aus 27 Ländern. Rund 225 neue Kompetenzen pro Beruf zwischen 2019 und 2025 in stark KI-exponierten Berufen. Gegengeprüft bei silicon.de vom 30.06.2026 und bei aktuelle-sozialpolitik.de vom 20.08.2026.
+
+Einordnung: Gemessen werden Stellenanzeigen, nicht Beschäftigte — was eine Anzeige zur KI-Anzeige macht, legt PwC nicht offen. Die 225 gelten nur für stark exponierte Berufe, nicht für jeden Job. Und PwC ist eine Beratung, die von diesem Bedarf lebt.
+
+#kiimjob #promptvorlage #15minutenvorsprung

@@ -1,0 +1,15 @@
+Die KI-Stellen in Deutschland gehen nicht an Programmierer. Auf eine Entwicklerrolle kommen sieben für Anwender.
+
+PwC hat für das AI Jobs Barometer 2026 über eine Milliarde Stellenanzeigen aus 27 Ländern ausgezählt, rund neun Millionen davon in Deutschland. Das Ergebnis für 2025: 109.400 Anzeigen suchen jemanden, der KI anwendet. 15.400 suchen jemanden, der KI baut.
+
+Das Verhältnis ist die eigentliche Nachricht, nicht die Zahl. Es heißt: Was im deutschen Arbeitsmarkt knapp ist, ist nicht das Programmieren. Knapp ist der Angestellte, der ein Werkzeug sicher benutzt.
+
+Bezahlt wird es auch. Anzeigen, die KI-Kompetenz verlangen, nennen in den meisten Sektoren über 20 Prozent mehr Gehalt, bei Energie und Versorgern bis zu 39 Prozent. In professionellen Dienstleistungen sind es 13 Prozent.
+
+Und die Kehrseite derselben Zahl: Wenn der Vorsprung kein Studium braucht, dann ist er auch für den Kollegen neben dir erreichbar. Genau das macht ihn dringend und nicht beruhigend.
+
+Quelle: PwC AI Jobs Barometer 2026, veröffentlicht am 30.06.2026. Ausgezählt wurden über eine Milliarde Stellenanzeigen aus 27 Ländern, davon rund 9 Millionen in Deutschland; Berichtsjahr 2025. Deutsche Werte: 109.400 Anwenderrollen gegen 15.400 Entwicklerrollen, 1,3 Prozent aller Anzeigen mit KI-Anforderung (rund 125.000), Lohnaufschlag in den meisten Sektoren über 20 Prozent. Gegengeprüft bei silicon.de vom 30.06.2026 und bei aktuelle-sozialpolitik.de vom 20.08.2026.
+
+Einordnung, die dazugehört: Gemessen sind Stellenanzeigen, keine gezahlten Gehälter — der Aufschlag steht in Ausschreibungen, nicht auf Lohnzetteln. 1,3 Prozent aller Anzeigen ist ein kleiner Anteil, von einem Massenphänomen kann keine Rede sein. Im Finanzsektor liegt der Aufschlag bei minus 9 Prozent. PwC ist eine Beratung und profitiert von dem Bedarf, den die Studie beschreibt. Und die Quellen widersprechen sich leicht: pwc.de nennt 7 zu 1, silicon.de rund 8 zu 1; die Rohzahlen ergeben 7,1.
+
+#kiimjob #karriere #15minutenvorsprung

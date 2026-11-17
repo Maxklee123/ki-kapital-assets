@@ -13,72 +13,79 @@
 # HTTP 400 ab. Ursache des Ausfalls vom 16.11. um 14:00 (2619 Zeichen).
 CAPTIONS = {}
 
-TAGS_A = "#kiimjob #karriere #15minutenvorsprung"
+TAGS_A = "#kiimjob #weiterbildung #15minutenvorsprung"
 TAGS_B = "#kiimjob #promptvorlage #15minutenvorsprung"
 
-Q_PWC = ("Quelle: PwC AI Jobs Barometer 2026, veröffentlicht am 30.06.2026. "
-         "Ausgezählt wurden über eine Milliarde Stellenanzeigen aus 27 Ländern, "
-         "davon rund 9 Millionen in Deutschland; Berichtsjahr 2025. Deutsche Werte: "
-         "109.400 Anwenderrollen gegen 15.400 Entwicklerrollen, 1,3 Prozent aller "
-         "Anzeigen mit KI-Anforderung (rund 125.000), Lohnaufschlag in den meisten "
-         "Sektoren über 20 Prozent. Gegengeprüft bei silicon.de vom 30.06.2026 und "
-         "bei aktuelle-sozialpolitik.de vom 20.08.2026.")
+Q_TUV = ("Quelle: TÜV Weiterbildungsstudie 2026, erhoben von Forsa für den "
+         "TÜV-Verband, veröffentlicht am 28.04.2026. Befragt wurden 500 "
+         "Unternehmen ab 20 Mitarbeitenden in Deutschland, Januar bis März 2026. "
+         "Werte: 56 Prozent nutzen generative KI im Arbeitsalltag, 27 Prozent "
+         "haben jemanden geschult (2024: 12 Prozent), 45 Prozent sehen derzeit "
+         "keinen Bedarf, 21 Prozent der Betriebe mit 20 bis 49 Beschäftigten "
+         "gegen 49 Prozent ab 250. Gegengeprüft bei silicon.de vom 28.04.2026.")
+
+Q_EINORDNUNG = ("Einordnung, die dazugehört: Befragt wurden Unternehmen, nicht "
+                "Beschäftigte — das ist die Sicht der Leitung, keine Messung, wer "
+                "wirklich etwas gelernt hat. Auftraggeber ist der TÜV-Verband, "
+                "dessen Mitglieder Weiterbildung verkaufen. Und fair dagegen "
+                "gehalten: 27 Prozent sind mehr als doppelt so viel wie 2024. Die "
+                "Richtung stimmt, das Tempo reicht nur nicht an die Nutzung heran.")
 
 # ------------------------------------------------ Slot 1 (Story 09:00)
-CAPTIONS[1] = """Teaser für das 10-Uhr-Reel: 7 zu 1. In Deutschland stehen 109.400 KI-Anwenderrollen gegen 15.400 Entwicklerrollen. PwC AI Jobs Barometer 2026, über eine Milliarde ausgezählte Stellenanzeigen.
+CAPTIONS[1] = """Teaser für das 10-Uhr-Reel: 45 Prozent der Unternehmen sehen derzeit keinen Bedarf an KI-Weiterbildung — während 56 Prozent generative KI im Arbeitsalltag nutzen. TÜV Weiterbildungsstudie 2026, Forsa, 500 Unternehmen.
 """
 
 # ------------------------------------------------ Slot 2 (Reel A 10:00)
-CAPTIONS[2] = """Die KI-Stellen in Deutschland gehen nicht an Programmierer. Auf eine Entwicklerrolle kommen sieben für Anwender.
+CAPTIONS[2] = """Deine Firma nutzt KI längst. Beibringen will sie es dir nicht: 56 Prozent nutzen, 27 Prozent schulen.
 
-PwC hat für das AI Jobs Barometer 2026 über eine Milliarde Stellenanzeigen aus 27 Ländern ausgezählt, rund neun Millionen davon in Deutschland. Das Ergebnis für 2025: 109.400 Anzeigen suchen jemanden, der KI anwendet. 15.400 suchen jemanden, der KI baut.
+Forsa hat für den TÜV-Verband 500 Unternehmen ab 20 Mitarbeitenden befragt, und zwar die Geschäftsführung und die Weiterbildungsverantwortlichen selbst. 45 Prozent sehen derzeit keinen Bedarf an KI-Weiterbildung. 9 Prozent planen konkret etwas, 17 Prozent ermitteln gerade erst den Bedarf.
 
-Das Verhältnis ist die eigentliche Nachricht, nicht die Zahl. Es heißt: Was im deutschen Arbeitsmarkt knapp ist, ist nicht das Programmieren. Knapp ist der Angestellte, der ein Werkzeug sicher benutzt.
+Die Lücke ist das Thema, nicht die einzelne Zahl: Benutzt wird das Werkzeug in mehr als jedem zweiten Betrieb. Beigebracht wird es in gut jedem vierten.
 
-Bezahlt wird es auch. Anzeigen, die KI-Kompetenz verlangen, nennen in den meisten Sektoren über 20 Prozent mehr Gehalt, bei Energie und Versorgern bis zu 39 Prozent. In professionellen Dienstleistungen sind es 13 Prozent.
+Am längsten wartet, wer in einem kleinen Betrieb sitzt. 21 Prozent bei 20 bis 49 Beschäftigten, 32 Prozent bei 50 bis 249, 49 Prozent ab 250. Dazu kommt das Budget: 29 Prozent geben weniger als 500 Euro pro Mitarbeitendem und Jahr aus — für Weiterbildung insgesamt, nicht für KI.
 
-Und die Kehrseite derselben Zahl: Wenn der Vorsprung kein Studium braucht, dann ist er auch für den Kollegen neben dir erreichbar. Genau das macht ihn dringend und nicht beruhigend.
+Daraus folgt nichts Dramatisches, sondern etwas Praktisches: Die Kompetenz, mit der du im Job unersetzbar wirst, wird dir mit hoher Wahrscheinlichkeit nicht angeboten. Du gibst sie dir selbst — und genau das ist der Vorsprung, weil die Kollegen auf dieselbe Schulung warten.
 
-""" + Q_PWC + """
+""" + Q_TUV + """
 
-Einordnung, die dazugehört: Gemessen sind Stellenanzeigen, keine gezahlten Gehälter — der Aufschlag steht in Ausschreibungen, nicht auf Lohnzetteln. 1,3 Prozent aller Anzeigen ist ein kleiner Anteil, von einem Massenphänomen kann keine Rede sein. Im Finanzsektor liegt der Aufschlag bei minus 9 Prozent. PwC ist eine Beratung und profitiert von dem Bedarf, den die Studie beschreibt. Und die Quellen widersprechen sich leicht: pwc.de nennt 7 zu 1, silicon.de rund 8 zu 1; die Rohzahlen ergeben 7,1.
+""" + Q_EINORDNUNG + """
 
 """ + TAGS_A + """
 """
 
 # ------------------------------------------------ Slot 3 (Reel B 14:00)
-CAPTIONS[3] = """Öffne das zwei Wochen vor deinem Jahresgespräch — dann brauchst du genau diesen Prompt.
+CAPTIONS[3] = """Öffne das am Freitagnachmittag, wenn die erste Stunde ruhig ist — dann brauchst du genau diesen Prompt.
 
-Du nutzt KI längst im Job. Belegen könntest du es nicht.
+Du weißt nicht, welche KI-Fähigkeit dir in deinem Job überhaupt etwas bringt. Deshalb fängst du gar nicht erst an.
 
-Genau das entscheidet im Jahresgespräch: nicht was du kannst, sondern was du zeigen kannst. PwC hat ausgezählt, dass in stark KI-exponierten Berufen seit 2019 rund 225 neue Kompetenzen dazugekommen sind. Niemand lernt 225 Dinge nach. Aber ein Teil davon steckt längst in deinen letzten vier Wochen Arbeit — nur unaufgeschrieben.
+Auf den Kurs der Firma zu warten, ist dabei statistisch keine gute Idee: 27 Prozent der Unternehmen haben überhaupt jemanden im Umgang mit KI geschult. 2024 waren es 12 Prozent — die Zahl hat sich verdoppelt und ist trotzdem die Minderheit. In Betrieben mit 20 bis 49 Beschäftigten sind es 21 Prozent.
 
-Die Mechanik ist deshalb keine Weiterbildung, sondern eine Übersetzung: Du lässt die KI deine eigenen Aufgaben durchgehen und in Sätze fassen, die ein Vorgesetzter als Ergebnis liest.
+Die Mechanik braucht deshalb keinen Kurs. Dein Lehrplan steht schon, er steht in deiner Aufgabenliste: drei Fähigkeiten, die zu den Aufgaben passen, die du ohnehin jede Woche machst.
 
-Der Nachweis-Prompt:
+Der Lehrplan-Prompt:
 
-1. Hier sind 10 Aufgaben aus meinen letzten vier Wochen: [Liste].
-2. Markiere, wo KI das Ergebnis messbar verbessert hat: schneller, genauer, mehr Umfang.
-3. Schreib je Treffer einen Satz: Aufgabe, Werkzeug, Ergebnis, Zahl.
-4. Sag, welcher Satz ohne Zahl nicht überzeugt — und welche Zahl mir fehlt.
+1. Das sind meine 8 wiederkehrenden Aufgaben im Job: [Liste].
+2. Welche drei davon könnte KI heute übernehmen — ohne neues Werkzeug?
+3. Nenne je Aufgabe die EINE Fähigkeit, die ich dafür beherrschen muss.
+4. Gib mir pro Fähigkeit eine Übung von 20 Minuten, mit Beispiel zum Nachbauen.
 
-Schritt 4 ist der entscheidende. Er sagt dir vorher, welchen Satz dein Chef auseinandernimmt, und du lieferst die Zahl nach, statt im Gespräch zu improvisieren. Schritt 3 verhindert die Floskel: Ohne Zahl ist es eine Behauptung, mit Zahl ein Ergebnis.
+Schritt 2 ist die Begrenzung: ohne „ohne neues Werkzeug“ bekommst du eine Tool-Liste statt eines Lehrplans. Schritt 4 macht es umsetzbar — ohne Übung bleibt die Antwort eine Sammlung von Begriffen, die du nach zwei Tagen vergessen hast.
 
-Zwanzig Minuten jetzt sind später drei Sätze, die niemand bestreitet.
+Drei Übungen zu 20 Minuten sind eine Stunde. So lange wartet man sonst auf gar nichts.
 
-Quelle: PwC AI Jobs Barometer 2026, 30.06.2026, über eine Milliarde Stellenanzeigen aus 27 Ländern. Rund 225 neue Kompetenzen pro Beruf zwischen 2019 und 2025 in stark KI-exponierten Berufen. Gegengeprüft bei silicon.de vom 30.06.2026 und bei aktuelle-sozialpolitik.de vom 20.08.2026.
+""" + Q_TUV + """
 
-Einordnung: Gemessen werden Stellenanzeigen, nicht Beschäftigte — was eine Anzeige zur KI-Anzeige macht, legt PwC nicht offen. Die 225 gelten nur für stark exponierte Berufe, nicht für jeden Job. Und PwC ist eine Beratung, die von diesem Bedarf lebt.
+Einordnung: Befragt wurden Unternehmen, nicht Beschäftigte. Auftraggeber ist der TÜV-Verband, dessen Mitglieder Weiterbildung verkaufen.
 
 """ + TAGS_B + """
 """
 
 # ------------------------------------------------ Slot 4 (Story 15:00)
-CAPTIONS[4] = """Woran würde dein Chef heute sehen, dass du KI nutzt? 1 an einem Ergebnis mit Zahl, 2 daran, dass du schneller fertig bist, 3 an gar nichts. Antworte mit 1, 2 oder 3.
+CAPTIONS[4] = """Was hält dich davon ab, dir KI selbst beizubringen? 1 keine Zeit neben dem Tagesgeschäft, 2 ich weiß nicht, womit anfangen, 3 Angst, etwas falsch zu machen. Antworte mit 1, 2 oder 3.
 """
 
 # ------------------------------------------------ Slot 5 (Story 20:00)
-CAPTIONS[5] = """Der Nachweis-Prompt als fertige Vorlage: vier Zeilen, die aus vier Wochen Arbeit drei Sätze machen, die im Jahresgespräch bestehen. Schreib mir NACHWEIS als DM, dann bekommst du den vollständigen Text zum Kopieren.
+CAPTIONS[5] = """Der Lehrplan-Prompt als fertige Vorlage: vier Zeilen, die aus deiner Aufgabenliste drei Fähigkeiten und drei Übungen zu je 20 Minuten machen. Schreib mir LEHRPLAN als DM, dann bekommst du den vollständigen Text zum Kopieren.
 """
 
 # ------------------------------------------------ Laengenpruefung

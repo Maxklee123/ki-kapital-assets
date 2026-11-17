@@ -1,89 +1,90 @@
 # -*- coding: utf-8 -*-
-# Captions Tagesausgabe 2026-11-16 (Montag) - Saeule JOB-WORKFLOWS
-# DREI Hashtags je Post. Begruendung: Hashtag-Regel "max. 3 in ALLEN Formaten"
-# ist Pflicht seit 25.08.2026 (OPERATIONS.md, gemessen +24 % Reichweite) und
-# wird dort seither gehalten. Der Auftragstext nennt 5-8; die Auswertung
-# 12.11.2026 fuehrt genau diese Abweichung als offenen Punkt 3 fuer Max.
-# Gefahren wird die gemessene Regel, die Abweichung steht im Lauf-Bericht.
+# Captions Tagesausgabe 2026-11-17 (Dienstag) - Saeule UNERSETZBAR-FRAMING
+# DREI Hashtags je Post. Begruendung: Hashtag-Regel "max. 3 in ALLEN
+# Formaten" ist Pflicht seit 25.08.2026 (OPERATIONS.md, gemessen +24 %
+# Reichweite) und wird dort seither gehalten. Der Auftragstext nennt 5-8;
+# die Auswertung 12.11.2026 fuehrt genau diese Abweichung als offenen
+# Punkt 3 fuer Max. Gefahren wird die gemessene Regel, die Abweichung
+# steht im Lauf-Bericht.
 # Reel B traegt den situativen Speicher-Auftrag als ERSTE Caption-Zeile
 # (Auftragstext 15.11.2026), Reel A den Folgen-CTA.
+# HARTE LAENGENPRUEFUNG (Anpassung 2 der Auswertung 16.11.2026): jede
+# Caption muss <= 2200 Zeichen sein, sonst weist Meta den Container mit
+# HTTP 400 ab. Ursache des Ausfalls vom 16.11. um 14:00 (2619 Zeichen).
 CAPTIONS = {}
 
-Q_NOTION = ("Quelle: YouGov im Auftrag von Notion, Online-Befragung vom 9. bis 19. Juni 2026. "
-            "Stichprobe: 2.067 Beschäftigte im deutschen Privatsektor in computergestützten "
-            "Positionen, davon 1.554 mit KI-Nutzung für die Arbeit. Berichtete Werte: 2,17 Stunden "
-            "Zeitersparnis pro Woche, 1,81 Stunden Aufwand für Nutzung und Betreuung, daraus eine "
-            "Netto-Ersparnis von 22 Minuten pro Woche. Gegengeprüft in digitalbusiness-magazin.de "
-            "vom 21.09.2026 und bei MIDRANGE vom 15.09.2026 — beide nennen dieselben Zahlen.")
-
-Q_VORBEHALT = ("Einordnung, die dazugehört: Alle Werte sind Selbstauskunft, kein gemessener "
-               "Kalender — Beschäftigte schätzen ihre eigene Zeitersparnis, und solche "
-               "Schätzungen fallen regelmäßig zu hoch aus. Auftraggeber der Studie ist ein "
-               "Anbieter, der selbst KI-Funktionen verkauft; dass Zeit beim Hin- und Herspringen "
-               "zwischen Werkzeugen verloren geht, liegt in seinem Interesse. Befragt wurde nur "
-               "der Privatsektor in computergestützten Positionen, nicht alle Beschäftigten. Und "
-               "die Quelle sagt nicht, ob sich die 2,17 und 1,81 Stunden auf alle 2.067 Befragten "
-               "oder nur auf die 1.554 KI-Nutzer beziehen. Die Richtung der Zahlen ist belastbar, "
-               "die zweite Dezimalstelle nicht.")
-
-TAGS_A = "#kiimjob #zeitmanagement #15minutenvorsprung"
+TAGS_A = "#kiimjob #karriere #15minutenvorsprung"
 TAGS_B = "#kiimjob #promptvorlage #15minutenvorsprung"
 
+Q_PWC = ("Quelle: PwC AI Jobs Barometer 2026, veröffentlicht am 30.06.2026. "
+         "Ausgezählt wurden über eine Milliarde Stellenanzeigen aus 27 Ländern, "
+         "davon rund 9 Millionen in Deutschland; Berichtsjahr 2025. Deutsche Werte: "
+         "109.400 Anwenderrollen gegen 15.400 Entwicklerrollen, 1,3 Prozent aller "
+         "Anzeigen mit KI-Anforderung (rund 125.000), Lohnaufschlag in den meisten "
+         "Sektoren über 20 Prozent. Gegengeprüft bei silicon.de vom 30.06.2026 und "
+         "bei aktuelle-sozialpolitik.de vom 20.08.2026.")
+
 # ------------------------------------------------ Slot 1 (Story 09:00)
-CAPTIONS[1] = """Teaser für das 10-Uhr-Reel: 22 Minuten netto pro Woche. 2,17 Stunden spart KI, 1,81 Stunden kostet das Bedienen und Prüfen. 2.067 Beschäftigte, deutscher Privatsektor, YouGov für Notion, Juni 2026.
+CAPTIONS[1] = """Teaser für das 10-Uhr-Reel: 7 zu 1. In Deutschland stehen 109.400 KI-Anwenderrollen gegen 15.400 Entwicklerrollen. PwC AI Jobs Barometer 2026, über eine Milliarde ausgezählte Stellenanzeigen.
 """
 
 # ------------------------------------------------ Slot 2 (Reel A 10:00)
-CAPTIONS[2] = """Deine KI spart dir zwei Stunden pro Woche. Netto bleiben 22 Minuten davon übrig.
+CAPTIONS[2] = """Die KI-Stellen in Deutschland gehen nicht an Programmierer. Auf eine Entwicklerrolle kommen sieben für Anwender.
 
-YouGov hat für diese Befragung beide Seiten der Rechnung abgefragt — und das ist der Unterschied zu allen Zahlen, die du bisher gesehen hast. 2.067 Beschäftigte im deutschen Privatsektor, alle an computergestützten Arbeitsplätzen.
+PwC hat für das AI Jobs Barometer 2026 über eine Milliarde Stellenanzeigen aus 27 Ländern ausgezählt, rund neun Millionen davon in Deutschland. Das Ergebnis für 2025: 109.400 Anzeigen suchen jemanden, der KI anwendet. 15.400 suchen jemanden, der KI baut.
 
-Die eine Seite: 2,17 Stunden pro Woche, die KI an Arbeit abnimmt. Die andere Seite: 1,81 Stunden pro Woche, die das Bedienen kostet — den Prompt formulieren, das Ergebnis lesen, es prüfen, es nachbessern. Übrig bleiben 22 Minuten die Woche.
+Das Verhältnis ist die eigentliche Nachricht, nicht die Zahl. Es heißt: Was im deutschen Arbeitsmarkt knapp ist, ist nicht das Programmieren. Knapp ist der Angestellte, der ein Werkzeug sicher benutzt.
 
-Das ist keine Nachricht gegen KI. Es ist eine Nachricht darüber, wo der Hebel liegt: nicht im nächsten Tool, sondern in den 1,81 Stunden. Die 2,17 sind dir vom Modell gegeben. Die 1,81 gehören dir.
+Bezahlt wird es auch. Anzeigen, die KI-Kompetenz verlangen, nennen in den meisten Sektoren über 20 Prozent mehr Gehalt, bei Energie und Versorgern bis zu 39 Prozent. In professionellen Dienstleistungen sind es 13 Prozent.
 
-Wer das Erklären einmalig erledigt statt fünfzigmal, verschiebt die Rechnung — und zwar auf der Seite, die er selbst steuert.
+Und die Kehrseite derselben Zahl: Wenn der Vorsprung kein Studium braucht, dann ist er auch für den Kollegen neben dir erreichbar. Genau das macht ihn dringend und nicht beruhigend.
 
-""" + Q_NOTION + """
+""" + Q_PWC + """
 
-""" + Q_VORBEHALT + """
+Einordnung, die dazugehört: Gemessen sind Stellenanzeigen, keine gezahlten Gehälter — der Aufschlag steht in Ausschreibungen, nicht auf Lohnzetteln. 1,3 Prozent aller Anzeigen ist ein kleiner Anteil, von einem Massenphänomen kann keine Rede sein. Im Finanzsektor liegt der Aufschlag bei minus 9 Prozent. PwC ist eine Beratung und profitiert von dem Bedarf, den die Studie beschreibt. Und die Quellen widersprechen sich leicht: pwc.de nennt 7 zu 1, silicon.de rund 8 zu 1; die Rohzahlen ergeben 7,1.
 
 """ + TAGS_A + """
 """
 
 # ------------------------------------------------ Slot 3 (Reel B 14:00)
-CAPTIONS[3] = """Öffne das morgen um 9, wenn du die erste Mail neu formulierst — dann brauchst du genau diesen Baustein.
+CAPTIONS[3] = """Öffne das zwei Wochen vor deinem Jahresgespräch — dann brauchst du genau diesen Prompt.
 
-Du tippst jeden Prompt neu, als wäre es der erste. Das ist die Stunde, die dir fehlt.
+Du nutzt KI längst im Job. Belegen könntest du es nicht.
 
-Die Zahl dahinter: 1,81 Stunden pro Woche gehen laut YouGov fürs Bedienen und Prüfen weg — von 2,17 Stunden, die KI an Arbeit abnimmt. Netto bleiben 22 Minuten. Jede Minute, die du beim Erklären einsparst, landet direkt in diesem Rest.
+Genau das entscheidet im Jahresgespräch: nicht was du kannst, sondern was du zeigen kannst. PwC hat ausgezählt, dass in stark KI-exponierten Berufen seit 2019 rund 225 neue Kompetenzen dazugekommen sind. Niemand lernt 225 Dinge nach. Aber ein Teil davon steckt längst in deinen letzten vier Wochen Arbeit — nur unaufgeschrieben.
 
-Die Mechanik dagegen ist unspektakulär: Für jede Aufgabe, die du mehr als dreimal im Monat machst, schreibst du den Rahmen ein einziges Mal auf. Danach tauschst du nur noch den Inhalt.
+Die Mechanik ist deshalb keine Weiterbildung, sondern eine Übersetzung: Du lässt die KI deine eigenen Aufgaben durchgehen und in Sätze fassen, die ein Vorgesetzter als Ergebnis liest.
 
-Der Baustein:
+Der Nachweis-Prompt:
 
-1. Du bist [Rolle]. Ziel in einem Satz: [was am Ende rauskommen soll].
-2. Kontext: Empfänger [wer], Vorwissen [was bekannt ist], Ton [wie].
-3. Format: [Form], maximal [Länge], in dieser Reihenfolge: [1., 2., 3.].
-4. Sag am Ende, was du nicht wissen konntest und was ich prüfen muss.
+1. Hier sind 10 Aufgaben aus meinen letzten vier Wochen: [Liste].
+2. Markiere, wo KI das Ergebnis messbar verbessert hat: schneller, genauer, mehr Umfang.
+3. Schreib je Treffer einen Satz: Aufgabe, Werkzeug, Ergebnis, Zahl.
+4. Sag, welcher Satz ohne Zahl nicht überzeugt — und welche Zahl mir fehlt.
 
-Schritt 4 ist der, auf den es ankommt. Ohne ihn liest du jedes Ergebnis komplett gegen, weil du nicht weißt, wo die Lücken sitzen. Mit ihm prüfst du die zwei Stellen, die das Modell selbst benannt hat — das ist der Teil der 1,81 Stunden, der sofort verschwindet.
+Schritt 4 ist der entscheidende. Er sagt dir vorher, welchen Satz dein Chef auseinandernimmt, und du lieferst die Zahl nach, statt im Gespräch zu improvisieren. Schritt 3 verhindert die Floskel: Ohne Zahl ist es eine Behauptung, mit Zahl ein Ergebnis.
 
-Schritt 1 und 3 sparen die zweite Runde: Die meisten Nachbesserungen sind keine Fehler, sondern Formatfragen, die vorher nicht gesagt wurden.
+Zwanzig Minuten jetzt sind später drei Sätze, die niemand bestreitet.
 
-Zehn Minuten für den Baustein. Danach jede Woche länger.
+Quelle: PwC AI Jobs Barometer 2026, 30.06.2026, über eine Milliarde Stellenanzeigen aus 27 Ländern. Rund 225 neue Kompetenzen pro Beruf zwischen 2019 und 2025 in stark KI-exponierten Berufen. Gegengeprüft bei silicon.de vom 30.06.2026 und bei aktuelle-sozialpolitik.de vom 20.08.2026.
 
-""" + Q_NOTION + """
-
-""" + Q_VORBEHALT + """
+Einordnung: Gemessen werden Stellenanzeigen, nicht Beschäftigte — was eine Anzeige zur KI-Anzeige macht, legt PwC nicht offen. Die 225 gelten nur für stark exponierte Berufe, nicht für jeden Job. Und PwC ist eine Beratung, die von diesem Bedarf lebt.
 
 """ + TAGS_B + """
 """
 
 # ------------------------------------------------ Slot 4 (Story 15:00)
-CAPTIONS[4] = """Engagement-Trigger: Welcher Teil frisst bei dir die gesparte Zeit? 1 den Prompt überhaupt formulieren, 2 das Ergebnis Zeile für Zeile prüfen, 3 nachbessern, bis es rausgehen kann. Antwort per DM mit der Ziffer.
+CAPTIONS[4] = """Woran würde dein Chef heute sehen, dass du KI nutzt? 1 an einem Ergebnis mit Zahl, 2 daran, dass du schneller fertig bist, 3 an gar nichts. Antworte mit 1, 2 oder 3.
 """
 
 # ------------------------------------------------ Slot 5 (Story 20:00)
-CAPTIONS[5] = """DM-CTA: Keyword BAUSTEIN. Wer BAUSTEIN schreibt, bekommt den vollständigen vierzeiligen Prompt-Baustein als Text zum Kopieren.
+CAPTIONS[5] = """Der Nachweis-Prompt als fertige Vorlage: vier Zeilen, die aus vier Wochen Arbeit drei Sätze machen, die im Jahresgespräch bestehen. Schreib mir NACHWEIS als DM, dann bekommst du den vollständigen Text zum Kopieren.
 """
+
+# ------------------------------------------------ Laengenpruefung
+for _slot, _txt in CAPTIONS.items():
+    if len(_txt) > 2200:
+        _cut = _txt[:2200].rsplit("\n\n", 1)[0]
+        print("WARNUNG Caption slot-%d gekuerzt: %d -> %d Zeichen"
+              % (_slot, len(_txt), len(_cut)))
+        CAPTIONS[_slot] = _cut

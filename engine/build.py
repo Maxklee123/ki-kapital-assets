@@ -5,7 +5,7 @@ import render as R
 from content import REEL_A, REEL_B, STORY_1, STORY_2, STORY_3
 from captions import CAPTIONS
 
-DATE = "2026-11-17"
+DATE = "2026-11-18"
 OUT  = os.environ.get("OUTROOT", ".") + "/assets/" + DATE
 
 # Tagesplan nach Auftragstext (Fassung 15.11.2026, Auswertung 14.11.):

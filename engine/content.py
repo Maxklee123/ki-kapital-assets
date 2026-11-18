@@ -1,186 +1,194 @@
 # -*- coding: utf-8 -*-
-# Tagesausgabe 2026-11-17 (Dienstag) - Saeule: UNERSETZBAR-FRAMING
+# Tagesausgabe 2026-11-18 (Mittwoch) - Saeule: JOB-WORKFLOWS
 #
-# Saeulen-Zuordnung: Dienstag = UNERSETZBAR-FRAMING. Deckungsgleich im
-# Auftragstext (Di/Sa) und in Anpassung 2 der Auswertung 09.11.2026
-# (UNERSETZBAR = Di+Sa+Mo). ABWEICHENDE EMPFEHLUNG, die NICHT gefahren
-# wird: Anpassung 1 der Auswertung 16.11.2026 will Di auf JOB-WORKFLOWS
-# legen (AENGSTE Mo/Mi/Fr/So, UNERSETZBAR nur Sa), weil AENGSTE im
-# Fenster 10.-16.11. oe 33,3 Reichweite erreichte gegen 7,3
-# (JOB-WORKFLOWS) und 8,5 (UNERSETZBAR). Diese Anpassung stammt aus dem
-# automatischen Auswertungslauf, nicht von Max; der Auftragstext ist die
-# Anweisung des Kontoinhabers. Gefahren wird der Auftragstext, die
-# Abweichung steht im Lauf-Bericht und in der HINWEIS-Zeile.
+# Saeulen-Zuordnung: Mittwoch = JOB-WORKFLOWS nach Auftragstext (Mo/Mi/Fr).
+# ABWEICHENDE EMPFEHLUNG, die NICHT gefahren wird: Anpassung 1 der
+# Auswertung 16.11.2026 will AENGSTE ENTKRAEFTEN auf Mo/Mi/Fr/So legen
+# und JOB-WORKFLOWS auf Di/Do, weil AENGSTE im Fenster 10.-16.11. ein
+# oe reach von 33,3 erreichte gegen 7,3 (JOB-WORKFLOWS) und 8,5
+# (UNERSETZBAR). Diese Anpassung stammt aus dem automatischen
+# Auswertungslauf, nicht von Max; der Auftragstext ist die Anweisung des
+# Kontoinhabers. Gefahren wird der Auftragstext, die Abweichung steht im
+# Lauf-Bericht und in der HINWEIS-Zeile. Dasselbe gilt fuer Anpassung 5
+# (Reel A und B ab 17.11. drei Tage tauschen) - die Slot-Tabelle des
+# Auftragstexts hat Vorrang.
 #
 # Slot-Plan heute nach Auftragstext: 2 Reels + 3 Stories.
-#   Offener Widerspruch, dritte Auswertung in Folge: Anpassung 3 der
+#   Offener Widerspruch, vierte Auswertung in Folge: Anpassung 3 der
 #   Auswertung 16.11.2026 streicht die drei Story-Slots endgueltig
 #   (6 von 6 am Posttag gemessenen Slots mit reach 0, 15 Stories im
 #   Fenster mit 0 erreichten Accounts) und will die Kapazitaet in einen
 #   dritten Reel-Slot um 17:00 geben. Der Auftragstext fuehrt die
 #   Stories weiter; entschieden werden muss das von Max.
 #
-# Thema: Die Firma benutzt KI laengst, beibringen will sie es nicht.
-#        56 % der Unternehmen nutzen generative KI im Arbeitsalltag,
-#        aber nur 27 % haben jemanden dafuer geschult und 45 % sehen
-#        derzeit keinen Bedarf. Die Luecke zwischen Benutzen und Koennen
-#        schliesst niemand ausser dem Beschaeftigten selbst - deshalb
-#        traegt Reel B einen Prompt, der den eigenen Lehrplan aus der
-#        eigenen Aufgabenliste ableitet.
+# Thema: Der Unterschied zwischen der KI-Spitzengruppe und allen anderen
+#        ist nicht das Werkzeug, sondern die Entscheidung VOR der Arbeit,
+#        was die KI uebernimmt und was der Mensch. Deshalb traegt Reel B
+#        einen Workflow, der genau diese Entscheidung an einer konkreten
+#        Aufgabe vorfuehrt: die Meeting-Unterlage, zehn Minuten vorher.
 #
-# Quelle: TUEV Weiterbildungsstudie 2026, herausgegeben vom
-#         TUEV-Verband e. V., erhoben von Forsa. Stichprobe: 500
-#         Unternehmen ab 20 Mitarbeitenden in Deutschland, befragt
-#         wurden Weiterbildungsverantwortliche, Geschaeftsfuehrer und
-#         Vorstaende. Befragungszeitraum Januar bis Maerz 2026,
-#         veroeffentlicht am 28.04.2026.
+# Quelle: Microsoft 2026 Work Trend Index Annual Report, "Agents, human
+#         agency, and the opportunity for every organization",
+#         veroeffentlicht am 05.05.2026. Erhebung durch Edelman Data x
+#         Intelligence: 20.000 vollzeitbeschaeftigte oder selbststaendige
+#         Wissensarbeitende, DIE KI IM JOB NUTZEN, in 10 Maerkten
+#         (Australien, Brasilien, Frankreich, DEUTSCHLAND, Indien,
+#         Italien, Japan, Niederlande, UK, USA), rund 2.000 je Markt,
+#         online, 20 Minuten. Feldzeit laut Methodenteil 18.02.-07.04.2026
+#         (Grafik-Fussnoten nennen abweichend 18.02.-20.04.2026).
 #         Kernzahlen:
-#         - 56 % nutzen generative KI im Arbeitsalltag (ChatGPT, Gemini,
-#           Copilot); nach Groesse 68 / 60 / 53 %
-#         - 27 % haben Beschaeftigte im Umgang mit KI geschult
-#           (2024: 12 %)
-#         - 45 % sehen derzeit keinen Bedarf an KI-Weiterbildung;
-#           9 % planen konkret, 17 % ermitteln den Bedarf
-#         - geschult nach Betriebsgroesse: 49 % ab 250 Beschaeftigten,
-#           32 % bei 50-249, 21 % bei 20-49
-#         - 29 % geben weniger als 500 Euro Weiterbildungsbudget je
-#           Mitarbeitendem und Jahr aus; 29 % haben eine schriftliche
-#           Weiterbildungsstrategie
-#         - Zitat Dr. Joachim Buehler, Geschaeftsfuehrer TUEV-Verband:
-#           "Der Kompetenzaufbau haelt mit der Nutzung nicht Schritt"
+#         - 16 % der befragten KI-Nutzer sind "Frontier Professionals"
+#           (3.233 von 20.000); der Bericht nennt an anderer Stelle 19 %
+#           als Anteil der Reifegrad-Zone "Frontier" - die beiden Werte
+#           loest er nicht auf
+#         - 53 % der Spitzengruppe gegen 33 % ALLER befragten KI-Nutzer
+#           halten inne und entscheiden, was KI und was ein Mensch tun soll
+#         - 43 % gegen 30 % erledigen manche Arbeit bewusst ohne KI
+#         - 66 % sagen, KI verschaffe ihnen mehr Zeit fuer hochwertige
+#           Arbeit; 58 % liefern Arbeit, die sie vor einem Jahr nicht
+#           haetten liefern koennen (80 % in der Spitzengruppe)
+#         - 86 % behandeln KI-Output als Ausgangspunkt, nicht als
+#           Endergebnis
+#         - wichtigste menschliche Faehigkeiten: Qualitaetskontrolle von
+#           KI-Output 50 %, kritisches Denken 46 %
+#         - 65 % fuerchten zurueckzufallen; nur 26 % sehen die eigene
+#           Fuehrung klar und konsistent ausgerichtet; 13 % werden fuer
+#           den Umbau von Arbeit belohnt, auch wenn das Ergebnis schwankt
 #
-# Gegenprobe (zweite unabhaengige Quelle, Pflicht):
-#         silicon.de vom 28.04.2026 bestaetigt 27 %, 45 %, 56 %
-#         (68/60/53), 49 % und 21 % nach Groesse, Befragungszeitraum und
-#         Budgetwerte. Keine abweichende Zahl; abweichend ist nur die
-#         Blickrichtung der Ueberschrift ("wenige KI-Schulungen" gegen
-#         "verdoppelt" in der Pressemitteilung).
+# Gegenprobe (zweite und dritte unabhaengige Quelle, Pflicht):
+#         The Neuron vom 08.05.2026 bestaetigt woertlich 20.000 Befragte,
+#         Edelman Data x Intelligence, den Ausschluss aller Nicht-Nutzer,
+#         66 %, 58 %, "die oberen 16 % der KI-Nutzer", 13 %, 65 % und
+#         26 %. Fast Company/Inc. vom 12.05.2026 bestaetigt 20.000, 66 %,
+#         58 % (80 % in der Spitzengruppe), 86 %, 53 % gegen 33 % und
+#         43 % gegen 30 %. WICHTIGE PRAEZISIERUNG aus dieser Gegenprobe:
+#         die Vergleichsgroesse bei 53/33 und 43/30 ist "alle befragten
+#         KI-Nutzer", NICHT "die Nicht-Spitzengruppe" - im Text wird
+#         deshalb durchgaengig so formuliert.
 #
 # Gegenprobe/Einordnung (Pflicht, steht in Frame 5 von Reel A und in
 # beiden Captions):
-#         (1) Befragt wurden UNTERNEHMEN, nicht Beschaeftigte - das ist
-#             die Sicht der Leitung, keine Messung, wer tatsaechlich
-#             etwas gelernt hat.
-#         (2) Auftraggeber ist der TUEV-Verband, dessen Mitglieder
-#             Weiterbildung verkaufen. Ein Befund "zu wenig Schulung"
-#             liegt im Interesse des Auftraggebers.
-#         (3) Ehrlich dagegen: der Wert hat sich seit 2024 mehr als
-#             verdoppelt (12 % -> 27 %). Die Richtung stimmt, das Tempo
-#             reicht nur nicht an die 56 % Nutzung heran.
-#         (4) Erhebungsmodus, Gewichtung und Fehlertoleranz nennt die
-#             Pressemitteilung nicht. 27 + 9 + 17 + 45 ergibt 98 %; ob
-#             sich die Kategorien ausschliessen, sagt die Quelle nicht.
-#         (5) Kleine Betriebe sind am schwaechsten (21 % bei 20-49
-#             Beschaeftigten gegen 49 % ab 250) - wer dort arbeitet,
-#             wartet mit der hoechsten Wahrscheinlichkeit vergeblich.
+#         (1) Herausgeber ist Microsoft, das mit Copilot und Agenten
+#             genau das verkauft, was der Bericht empfiehlt.
+#         (2) Befragt wurden ausschliesslich Menschen, die KI im Job
+#             schon nutzen - wer "nie" angab, wurde herausgefiltert. Die
+#             Zahlen beschreiben KI-Nutzer, nicht Beschaeftigte.
+#         (3) Selbstauskunft und Zusammenhaenge, keine Kausalitaet; der
+#             Bericht sagt das an einer Stelle selbst.
+#         (4) Die Stichprobe ist geschrumpft: 20.000 in 10 Maerkten gegen
+#             31.000 in 31 Maerkten in frueheren Jahrgaengen.
+#         (5) Deutschland ist einer der zehn Maerkte, wird aber nicht
+#             separat ausgewiesen - alle Werte sind Weltdurchschnitte.
+#         (6) Fuer die Spitzengruppe stehen zwei Zahlen nebeneinander
+#             (16 % und 19 %), der Bericht loest den Unterschied nicht auf.
 #
 # Abgrenzung zu frueheren Ausgaben (Pflicht-Pruefung):
-#   - 03.10.2026 (Sa, UNERSETZBAR) lief das PwC AI Jobs Barometer mit
-#     7:1 und Lohnpraemie, Reel B "Der Freitags-Nachweis". Die
-#     PwC-Studie wird heute deshalb NICHT verwendet.
-#   - 12.11.2026 lief Reel B "Die drei Marktwert-Saetze" (Aufgabe ->
-#     belegbarer Satz). Der heutige Prompt leitet einen Lehrplan ab und
-#     erzeugt keine Belegzeilen.
-#   - 11.11. und 15.11. lief "Das Aufgaben-Audit" (Aufgaben nach
-#     KI-Exposition sortieren), 16.11. "Der Prompt-Baustein". Der
-#     heutige Prompt fragt nach FAEHIGKEITEN und UEBUNGEN.
-#   - TUEV-Verband, Forsa und das Thema Weiterbildung kommen in
-#     OPERATIONS.md bisher nicht vor.
+#   - Microsoft, Work Trend Index und Copilot kommen in den Ausgaben
+#     01.-17.11.2026 nicht vor; die Quellen dort waren TU Darmstadt,
+#     Randstad, TUEV/Forsa, BCG, IW Koeln, PwC, IU, Civey, IAB und
+#     YouGov/Notion.
+#   - Workflow-Abgrenzung: 02.11. Meeting-PROTOKOLL (nach dem Termin),
+#     heute die VORBEREITUNG (vor dem Termin) - andere Aufgabe, anderer
+#     Zeitpunkt. 10.11. war der Faktencheck eines fertigen KI-Textes,
+#     heute geht es um ein fremdes Dokument und die eigene Frage.
+#     11./15.11. Aufgaben-Audit, 12.11. Marktwert-Saetze, 13.11.
+#     Freigabe-Anfrage, 16.11. Prompt-Baustein, 17.11. Lehrplan - keiner
+#     dieser Prompts arbeitet an einer konkreten Unterlage.
 
 NB = " "  # geschuetztes Leerzeichen: haelt Zahl und Einheit zusammen
 
-SRC_TUV = ("TÜV Weiterbildungsstudie 2026 · Forsa für den TÜV-Verband · "
-           "500 Unternehmen ab 20 Mitarbeitenden, Jan.–März 2026")
-SRC_TUV2 = ("TÜV/Forsa 2026 · Unternehmensbefragung, nicht Beschäftigte · "
-            "2024 waren es 12 %")
-SRC_TUV3 = ("TÜV Weiterbildungsstudie 2026 · 27 % geschult, 2024: 12 % · "
-            "Forsa, 500 Unternehmen")
+SRC_MS = ("Microsoft Work Trend Index 2026 · Edelman Data x Intelligence · "
+          "20.000 Wissensarbeitende, die KI nutzen, 10 Märkte, Feb.–Apr. 2026")
+SRC_MS2 = ("Microsoft/Edelman 2026 · befragt wurden nur KI-Nutzer · "
+           "Selbstauskunft, keine Deutschland-Werte")
+SRC_MS3 = ("Microsoft Work Trend Index 2026 · Spitzengruppe gegen alle "
+           "befragten KI-Nutzer · Edelman, 20.000 Befragte")
 
 # ---------------------------------------------------------------- Slot 1: Story 09:00
 STORY_1 = [
-    {"k": "kicker", "t": "DIENSTAG · 09 UHR"},
-    {"k": "num", "t": "45" + NB + "%", "s": 205, "c": (77, 212, 200)},
-    {"k": "numsub", "t": "der Unternehmen sehen derzeit keinen Bedarf, jemanden zu KI zu schulen.", "s": 52},
-    {"k": "body", "t": "Forsa hat 500 Unternehmen gefragt. 56 Prozent nutzen generative KI im Arbeitsalltag. 27 Prozent haben dafür überhaupt jemanden geschult."},
-    {"k": "src", "t": SRC_TUV},
+    {"k": "kicker", "t": "MITTWOCH · 09 UHR"},
+    {"k": "num", "t": "16" + NB + "%", "s": 205, "c": (77, 212, 200)},
+    {"k": "numsub", "t": "der Leute, die KI im Job nutzen, holen wirklich etwas heraus.", "s": 52},
+    {"k": "body", "t": "Microsoft hat 20.000 KI-Nutzer befragt. Die anderen 84 Prozent benutzen dieselben Werkzeuge. Der Unterschied liegt woanders."},
+    {"k": "src", "t": SRC_MS},
     {"k": "gap", "s": 12},
-    {"k": "cta", "t": "Um 10 Uhr steht die ganze Lücke"},
+    {"k": "cta", "t": "Um 10 Uhr steht, worin er liegt"},
 ]
 
 # ---------------------------------------------------------------- Slot 2: Reel A 10:00
 REEL_A = [
-    [{"k": "kicker", "t": "DIENSTAG"},
-     {"k": "big", "t": "Du wartest darauf, dass deine Firma dich zu KI schult.", "s": 88}],
-    [{"k": "kicker", "t": "FORSA HAT NACHGEFRAGT"},
-     {"k": "big", "t": "500 Unternehmen, Geschäftsführung befragt: Ist das überhaupt vorgesehen?", "s": 78}],
+    [{"k": "kicker", "t": "MITTWOCH"},
+     {"k": "big", "t": "Du denkst, dir fehlt bei KI noch das richtige Werkzeug.", "s": 88}],
+    [{"k": "kicker", "t": "MICROSOFT HAT NACHGEZÄHLT"},
+     {"k": "big", "t": "20.000 Befragte, die KI im Job längst benutzen. Dieselben Werkzeuge.", "s": 78}],
     [{"k": "kicker", "t": "GEMESSEN"},
-     {"k": "num", "t": "45" + NB + "%", "s": 185},
-     {"k": "numsub", "t": "sehen derzeit keinen Bedarf an KI-Weiterbildung."},
-     {"k": "body", "t": "Gleichzeitig nutzen 56 Prozent generative KI im Arbeitsalltag. Geschult hat nur gut jedes vierte Unternehmen."},
-     {"k": "src", "t": SRC_TUV}],
-    [{"k": "kicker", "t": "WAS DAS FÜR DICH HEISST"},
-     {"k": "big", "t": "Benutzt wird KI in deiner Firma längst. Beigebracht wird sie dir nicht.", "s": 78},
-     {"k": "body", "t": "Die Lücke zwischen „wir nutzen das“ und „wir können das“ schließt in den meisten Betrieben niemand. Wer wartet, wartet statistisch auf nichts."}],
-    [{"k": "kicker", "t": "UND WER AM LÄNGSTEN WARTET"},
-     {"k": "num", "t": "21" + NB + "%", "s": 170},
-     {"k": "numsub", "t": "in Betrieben mit 20 bis 49 Beschäftigten – gegen 49 % ab 250."},
-     {"k": "body", "t": "Ehrlich dazu: Befragt wurden Unternehmen, nicht Beschäftigte. Auftraggeber ist der TÜV-Verband, dessen Mitglieder Weiterbildung verkaufen. Und der Wert hat sich seit 2024 mehr als verdoppelt."},
-     {"k": "src", "t": SRC_TUV2}],
+     {"k": "num", "t": "16" + NB + "%", "s": 185},
+     {"k": "numsub", "t": "von ihnen gehören zur Spitzengruppe des Berichts."},
+     {"k": "body", "t": "Die übrigen 84 Prozent haben dieselben Programme auf demselben Rechner. Am Werkzeug liegt es also nicht."},
+     {"k": "src", "t": SRC_MS}],
+    [{"k": "kicker", "t": "WORAN ES LIEGT"},
+     {"k": "num", "t": "53" + NB + "%", "s": 150, "c": (77, 212, 200)},
+     {"k": "numsub", "t": "der Spitzengruppe entscheiden vorher, was die KI macht – und was sie selbst.", "s": 46},
+     {"k": "body", "t": "Unter allen befragten KI-Nutzern sind es 33 Prozent. Der Unterschied ist kein Tastendruck, sondern eine Minute Nachdenken vor der Aufgabe."}],
+    [{"k": "kicker", "t": "EHRLICH DAZU"},
+     {"k": "big", "t": "Das ist Microsofts eigene Studie – und befragt wurden nur KI-Nutzer.", "s": 72},
+     {"k": "body", "t": "66 Prozent sagen, sie hätten mehr Zeit für hochwertige Arbeit. Das ist Selbstauskunft, kein gemessener Effekt. Deutschland ist einer von zehn Märkten, wird aber nicht gesondert ausgewiesen."},
+     {"k": "src", "t": SRC_MS2}],
     [{"k": "kicker", "t": "MEINE EINORDNUNG"},
-     {"k": "big", "t": "Unersetzbar wird hier, wer sich die Schulung selbst gibt. Es fragt keiner.", "s": 74},
+     {"k": "big", "t": "Die eine Minute vorher ist der ganze Vorsprung. Die hat jeder.", "s": 78},
      {"k": "gap", "s": 14},
      {"k": "cta", "t": "Folgen für einen Workflow pro Tag"}],
 ]
 
 # ---------------------------------------------------------------- Slot 3: Reel B 14:00
 REEL_B = [
-    [{"k": "kicker", "t": "DIENSTAG · 14 UHR"},
-     {"k": "big", "t": "Du weißt nicht, welche KI-Fähigkeit dir im Job überhaupt etwas bringt.", "s": 80}],
-    [{"k": "kicker", "t": "DESHALB FÄNGST DU NICHT AN"},
-     {"k": "big", "t": "Und auf den Kurs der Firma zu warten, ist statistisch keine gute Idee.", "s": 78}],
+    [{"k": "kicker", "t": "MITTWOCH · 14 UHR"},
+     {"k": "big", "t": "Du überfliegst die Unterlage zehn Minuten vor dem Meeting.", "s": 86}],
+    [{"k": "kicker", "t": "UND DANN"},
+     {"k": "big", "t": "sagst du nichts, weil dir keine Frage einfällt, die nicht dumm klingt.", "s": 76}],
     [{"k": "kicker", "t": "GEMESSEN"},
-     {"k": "num", "t": "27" + NB + "%", "s": 185},
-     {"k": "numsub", "t": "der Unternehmen haben überhaupt jemanden im Umgang mit KI geschult."},
-     {"k": "body", "t": "2024 waren es 12 Prozent. Die Zahl hat sich verdoppelt und ist trotzdem die Minderheit — in kleinen Betrieben sind es 21 Prozent."},
-     {"k": "src", "t": SRC_TUV3}],
+     {"k": "num", "t": "53" + NB + "%", "s": 185},
+     {"k": "numsub", "t": "der KI-Spitzengruppe legen vorher fest, was die KI tut und was sie selbst."},
+     {"k": "body", "t": "Unter allen befragten KI-Nutzern sind es 33 Prozent. Genau diese Aufteilung macht aus zehn Minuten Überfliegen zehn Minuten Vorbereitung."},
+     {"k": "src", "t": SRC_MS3}],
     [{"k": "kicker", "t": "DIE MECHANIK"},
-     {"k": "big", "t": "Dein Lehrplan steht schon. Er steht in deiner Aufgabenliste.", "s": 82},
-     {"k": "body", "t": "Du brauchst keinen Kurs, sondern drei Fähigkeiten, die genau zu deinen wiederkehrenden Aufgaben passen. Die lässt du dir aus der Liste ableiten — mitsamt Übung."}],
-    [{"k": "kicker", "t": "DER LEHRPLAN-PROMPT"},
+     {"k": "big", "t": "Die KI liest die Unterlage. Du entscheidest, was darin eine Entscheidung ist.", "s": 74},
+     {"k": "body", "t": "Nicht zusammenfassen lassen – trennen lassen: Was wird heute entschieden, was wird nur berichtet? Deine Frage zielt immer auf das Erste."}],
+    [{"k": "kicker", "t": "DIE VIER ZEILEN"},
      {"k": "steps", "t": [
-         "§1 Das sind meine 8 wiederkehrenden",
-         "   Aufgaben im Job: [Liste].",
-         "§2 Welche drei davon könnte KI heute",
-         "   übernehmen – ohne neues Werkzeug?",
-         "§3 Nenne je Aufgabe die EINE Fähigkeit,",
-         "   die ich dafür beherrschen muss.",
-         "§4 Gib mir pro Fähigkeit eine Übung von",
-         "   20 Minuten, mit Beispiel zum Nachbauen.",
+         "§1 Das ist die Unterlage zum Termin:",
+         "   [einfügen].",
+         "§2 Was wird darin entschieden – und",
+         "   was nur berichtet?",
+         "§3 Nenne die drei Stellen, die meinen",
+         "   Bereich betreffen: [Bereich].",
+         "§4 Mach daraus drei Fragen unter 15",
+         "   Wörtern. Sag, welche zuerst kommt.",
      ], "s": 33},
-     {"k": "body", "t": "Schritt 4 ist der, der es umsetzbar macht: Ohne Übung bleibt die Antwort eine Liste von Begriffen.", "s": 36}],
+     {"k": "body", "t": "Schritt 2 ist der Kern: Ohne die Trennung bekommst du eine Zusammenfassung – und Zusammenfassungen erzeugen keine Fragen.", "s": 36}],
     [{"k": "kicker", "t": "MEINE EINORDNUNG"},
-     {"k": "big", "t": "Drei Übungen zu 20 Minuten sind eine Stunde. So lang wartet man sonst auf gar nichts.", "s": 68},
+     {"k": "big", "t": "Eine präzise Frage im Meeting wirkt länger als jede Wortmeldung danach.", "s": 70},
      {"k": "gap", "s": 10},
-     {"k": "save", "t": "Sicher dir das für Freitagnachmittag", "lab": "Lesezeichen", "s": 38}],
+     {"k": "save", "t": "Sicher dir das für 10 Minuten vor dem Termin", "lab": "Lesezeichen", "s": 38}],
 ]
 
 # ---------------------------------------------------------------- Slot 4: Story 15:00
 STORY_2 = [
     {"k": "kicker", "t": "KURZE FRAGE"},
-    {"k": "big", "t": "Was hält dich davon ab, dir KI selbst beizubringen?", "s": 80},
+    {"k": "big", "t": "Woran scheitert dein nächstes Meeting?", "s": 84},
     {"k": "gap", "s": 18},
-    {"k": "rows", "t": ["Keine Zeit neben dem Tagesgeschäft",
-                        "Ich weiß nicht, womit ich anfangen soll",
-                        "Angst, etwas falsch zu machen"], "s": 40},
+    {"k": "rows", "t": ["Ich lese die Unterlage zu spät",
+                        "Mir fällt keine gute Frage ein",
+                        "Ich rede – es bleibt nichts hängen"], "s": 40},
     {"k": "gap", "s": 10},
     {"k": "cta", "t": "Antworte mit 1, 2 oder 3"},
 ]
 
 # ---------------------------------------------------------------- Slot 5: Story 20:00
 STORY_3 = [
-    {"k": "kicker", "t": "DIENSTAGABEND"},
-    {"k": "big", "t": "Der Lehrplan-Prompt als fertige Vorlage.", "s": 84},
-    {"k": "body", "t": "Vier Zeilen, einmal ausgefüllt. Sie machen aus deiner Aufgabenliste drei Fähigkeiten und drei Übungen zu je 20 Minuten. Du bekommst den vollständigen Text zum Kopieren."},
+    {"k": "kicker", "t": "MITTWOCHABEND"},
+    {"k": "big", "t": "Die Meeting-Vorbereitung als fertige Vorlage.", "s": 84},
+    {"k": "body", "t": "Vier Zeilen, die aus einer fremden Unterlage drei Fragen machen – und dir sagen, welche du zuerst stellst. Du bekommst den vollständigen Text zum Kopieren."},
     {"k": "gap", "s": 16},
-    {"k": "cta", "t": "Schreib mir LEHRPLAN als DM"},
+    {"k": "cta", "t": "Schreib mir MEETING als DM"},
 ]

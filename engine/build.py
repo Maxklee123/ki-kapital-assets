@@ -5,14 +5,14 @@ import render as R
 from content import REEL_A, REEL_B, STORY_1, STORY_2, STORY_3
 from captions import CAPTIONS
 
-DATE = "2026-11-19"
+DATE = "2026-11-20"
 OUT  = os.environ.get("OUTROOT", ".") + "/assets/" + DATE
 
 # Tagesplan nach Auftragstext (Fassung 15.11.2026, Auswertung 14.11.):
 # 2 Reels + 3 Stories. Reel C (21:00) und Karussell (12:00) gestrichen.
 # Die Story-Slots sind in OPERATIONS.md am 12.11., 16.11. UND zuvor
 # gestrichen (6 von 6 am Posttag gemessenen Slots mit reach 0); der
-# Auftragstext fuehrt sie weiter. Fuenfte Auswertung in Folge mit diesem
+# Auftragstext fuehrt sie weiter. Sechste Auswertung in Folge mit diesem
 # Widerspruch - er steht im Lauf-Bericht und in der HINWEIS-Zeile,
 # entschieden wird er von Max.
 PLAN = {

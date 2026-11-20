@@ -1,50 +1,51 @@
 # -*- coding: utf-8 -*-
-# Captions Tagesausgabe 2026-11-19 (Donnerstag) - Saeule AENGSTE ENTKRAEFTEN
+# Captions Tagesausgabe 2026-11-20 (Freitag) - Saeule JOB-WORKFLOWS
 # DREI Hashtags je Post. Begruendung: Hashtag-Regel "max. 3 in ALLEN
 # Formaten" ist Pflicht seit 25.08.2026 (OPERATIONS.md, gemessen +24 %
-# Reichweite). Der Auftragstext nennt 5-8; seit 12.10. offener Punkt fuer
-# Max. Gefahren wird die gemessene Regel, die Abweichung steht im Bericht.
+# Reichweite), bestaetigt in Anpassung 1 der Auswertung 22.10.2026. Der
+# Auftragstext nennt 5-8; seit 12.10. offener Punkt fuer Max.
 # Reel B traegt den situativen Speicher-Auftrag als ERSTE Caption-Zeile
 # (Auftragstext 15.11.2026), Reel A den Folgen-CTA.
 # HARTE LAENGENPRUEFUNG (Anpassung 2 der Auswertung 16.11.2026): jede
-# Caption <= 2200 Zeichen, sonst weist Meta den Container mit HTTP 400 ab.
+# Caption <= 2200 Zeichen, sonst weist Meta den Container mit HTTP 400 ab
+# (Ausfallursache 16.11. 14:00).
 CAPTIONS = {}
 
-TAGS_A = "#kiimjob #arbeitsmarkt #15minutenvorsprung"
-TAGS_B = "#kiimjob #arbeitsalltag #15minutenvorsprung"
+TAGS_A = "#kiimjob #arbeitsalltag #15minutenvorsprung"
+TAGS_B = "#kiimjob #produktivitaet #15minutenvorsprung"
 
-Q_GS = ("Quelle: Goldman Sachs, Analyse des Ökonomen Pierfrancesco Mei, Note "
-        "von Ende Oktober 2026. Grundlage: über 15.000 Beschäftigte, die "
-        "zwischen 2016 und 2025 ihren Job verloren haben (Displaced Worker "
-        "Supplement der US-Arbeitsmarktstatistik). Berichtet von Fortune "
-        "(30.10.2026), TheStreet (01.11.2026) und Axios (03.11.2026). Die "
-        "Septemberzahlen stammen aus der US-Statistik JOLTS, zitiert in "
-        "Goldmans Ausblick 2027 (16.11.2026).")
+Q_AD = ("Quelle: Adecco Group, „Global Workforce of the Future“ 2026 "
+        "(7. Ausgabe), veröffentlicht am 19.11.2026. 40.500 Beschäftigte in "
+        "36 Ländern und 21 Branchen, Online-Befragung Juni bis Juli 2026. "
+        "Zahlen gegengeprüft in den unabhängig formulierten Berichten von "
+        "it-boltwise.de und spielemagazin.de, beide vom 19.11.2026.")
 
-Q_EIN = ("Einordnung: Goldman Sachs ist eine Investmentbank, kein unabhängiges "
-         "Institut. Keine Statistik fragt Entlassene, ob KI der Grund war — "
-         "Goldman schätzt die KI-Nähe aus Beruf, Branchen-Adoption und "
-         "gestrichener Stelle und zählt die obersten 30 Prozent als "
-         "wahrscheinlich KI-verdrängt. Das ist eine Annahme, keine Messung. "
-         "Alles US-Daten, deutsche Werte gibt es dazu nicht. Die Berichte "
-         "nennen zwei verschiedene Startjahre (2022 bzw. 2023), und Goldman "
-         "erwartet die stärkere Wirkung erst in den Folgejahren: Der Befund "
-         "heißt „noch nicht“, nicht „nie“.")
+Q_EIN = ("Einordnung: Herausgeber ist ein Personaldienstleister, der "
+         "Weiterbildung und Workforce-Beratung verkauft — also genau das, "
+         "was die Studie empfiehlt. Alle Werte sind Selbstauskunft, niemand "
+         "hat nachgemessen. Die 20 Prozent sind ein relativer Aufschlag ohne "
+         "genannte Basis und lassen sich nicht in Minuten umrechnen, „gut "
+         "eingebettet“ wird nicht definiert, und die Gruppen bilden sich "
+         "selbst: Wer so arbeitet, sitzt vielleicht ohnehin im besser "
+         "organisierten Betrieb. Erhebungsinstitut, Gewichtung und deutsche "
+         "Fallzahl nennt die Mitteilung nicht.")
 
 # ------------------------------------------------ Slot 1 (Story 09:00)
-CAPTIONS[1] = """Teaser für das 10-Uhr-Reel: Im September wurde 1 Prozent der Beschäftigten gekündigt — ein normaler Monat. Die KI-Entlassungswelle ist 2026 nicht gekommen. Die zweite Zahl steht um 10 Uhr. Quelle: US-Statistik JOLTS, zitiert in Goldmans Ausblick 2027.
+CAPTIONS[1] = """Teaser für das 10-Uhr-Reel: 74 Prozent der Befragten arbeiten mit KI-Agenten, ein Jahr davor waren es 64. Das Werkzeug ist damit Grundausstattung, kein Vorsprung. Die Zahl, die trennt, steht um 10 Uhr. Quelle: Adecco Group, Global Workforce of the Future 2026, 40.500 Beschäftigte in 36 Ländern.
 """
 
 # ------------------------------------------------ Slot 2 (Reel A 10:00)
-CAPTIONS[2] = """Die große KI-Entlassungswelle ist 2026 nicht gekommen. Das Risiko sitzt an einer anderen Stelle.
+CAPTIONS[2] = """Das Werkzeug haben jetzt fast alle. Es entscheidet nicht mehr, welches du hast — sondern wo es steht.
 
-Angst vor KI im Job hängt fast immer an einem Bild: der Welle, die irgendwann kommt und ganze Abteilungen mitnimmt. In den Arbeitsmarktzahlen ist sie nicht angekommen. Im September wurde 1 Prozent der Beschäftigten gekündigt, 1,6 Millionen Kündigungen stehen 5,4 Millionen Einstellungen gegenüber, und die Erstanträge auf Arbeitslosengeld lagen bei 200.000 — ein Jahr davor bei 228.000.
+74 Prozent der Befragten arbeiten mit KI-Agenten, im Jahr davor waren es 64. Wer also darauf wartet, endlich das richtige Werkzeug zu finden, wartet auf etwas, das die Kollegen schon haben.
 
-Die Zahl, die stattdessen zählt, betrifft den Wiedereinstieg. Wer einen KI-nahen Job verliert, sucht rund einen Monat länger als andere Entlassene: unter 35 drei Wochen, ab 35 fünf Wochen. Und ein Jahr nach dem Jobverlust ist diese Gruppe rund 10 Prozentpunkte häufiger noch ohne Arbeit.
+Die Zahl, die stattdessen trennt: 20 Prozent mehr Zeit pro Tag — bei denen, deren KI im Arbeitsablauf sitzt statt in einem Chatfenster daneben. Dieselbe Gruppe fühlt sich siebenmal seltener überfordert, mit den Werkzeugen umzugehen.
 
-Das verschiebt die Frage. Nicht: Kommt die Welle? Sondern: Wie stehe ich da, wenn ich suchen muss?
+Das ist der ganze Unterschied: nicht mehr Werkzeuge, sondern derselbe Handgriff, nur eingebaut. Zwei weitere Zahlen aus derselben Studie zeigen, woran das hängt: 96 Prozent derjenigen, die ihre Arbeit selbst mitgestalten durften, sind bereit, sich anzupassen — gegen 29 Prozent der übrigen. Und unter den KI-Nutzern berichten 93 Prozent der Geschulten eine Produktivitätssteigerung, gegen 47 Prozent der Ungeschulten. Die Schulungsteilnahme ist im selben Zeitraum von 77 auf 67 Prozent gefallen.
 
-""" + Q_GS + """
+Ein neues Werkzeug ändert deinen Freitag nicht. Ein eingebauter Schritt schon.
+
+""" + Q_AD + """
 
 """ + Q_EIN + """
 
@@ -52,38 +53,38 @@ Das verschiebt die Frage. Nicht: Kommt die Welle? Sondern: Wie stehe ich da, wen
 """
 
 # ------------------------------------------------ Slot 3 (Reel B 14:00)
-CAPTIONS[3] = """Öffne das morgen früh, bevor du auf Senden drückst — dann brauchst du genau diese vier Zeilen.
+CAPTIONS[3] = """Öffne das am Montag um 9, wenn die Woche wieder bei Null anfängt — dann brauchst du genau diese vier Zeilen.
 
-Du schickst die Unterlage raus und hoffst, dass keiner nachfragt. Fragt dann doch jemand, antwortest du aus dem Stand — und genau das bleibt hängen.
+Du tippst dieselbe Aufgabe jede Woche neu in die KI. Montag sitzt du wieder vor einem leeren Chatfenster und formulierst alles von vorn. Das ist der Punkt, an dem Zeitersparnis verschwindet.
 
-Wer aus einem KI-nahen Job verdrängt wird, sucht rund einen Monat länger als andere Entlassene. Nachgewiesen wird dabei nie, dass du KI benutzt hast, sondern dass dein Urteil über dem Ergebnis stand. Das übt man an eigenen Unterlagen, nicht an Kursen.
+Gemessen wurde das so: 20 Prozent mehr Zeit pro Tag haben die Befragten, bei denen die KI im Arbeitsablauf steckt — nicht daneben. Der Unterschied ist kein Werkzeug, sondern ein Schritt, der nächste Woche noch da ist.
 
-Der Trick: Lass die KI nicht deinen Text prüfen. Lass sie drei Leser spielen.
+Nimm also den Handgriff, den du diese Woche dreimal gemacht hast. Daraus wird keine bessere Frage, sondern eine stehende Arbeitsanweisung.
 
 Die vier Zeilen:
 
-1. Hier ist mein Entwurf: [einfügen]. Es liest: [wer entscheidet].
-2. Spiele drei Leser: den Skeptiker, den Zahlenmenschen, den Chef mit 2 Minuten.
-3. Nenne je den härtesten Einwand — als Frage, die im Termin fällt.
-4. Sag, welche zwei ich vorher beantworten muss und welche nicht.
+1. Diese Aufgabe mache ich jede Woche: [beschreiben]. So sah sie zuletzt aus: [einfügen].
+2. Mach daraus eine feste Anweisung: was ich reingebe, was du tust, wie das Ergebnis aussehen muss.
+3. Nenne den EINEN Punkt, an dem ich prüfen muss, bevor es rausgeht.
+4. Schreib sie so, dass ich nächste Woche nur die neuen Zahlen tausche.
 
-Zeile 2 macht den Unterschied: „Prüfe meinen Entwurf“ bringt Stilhinweise, eine Rolle bringt den Einwand, der wirklich fällt. Zeile 4 bleibt bei dir — die KI sammelt, du entscheidest.
+Zeile 3 ist der Kern: Ohne festen Prüfpunkt wird aus Zeitersparnis Nachkontrolle. Zeile 4 macht aus einem Versuch einen Schritt — du legst die Anweisung dorthin, wo die Aufgabe liegt, und tauschst nächste Woche nur die Zahlen.
 
-Eine Unterlage, die den härtesten Einwand schon beantwortet, fällt auf.
+Montag früh entscheidet sich, ob du KI benutzt oder eingebaut hast.
 
-""" + Q_GS + """
+""" + Q_AD + """
 
-Einordnung: Herausgeber ist eine Investmentbank, die KI-Nähe ist geschätzt und nicht erhoben, alle Werte sind US-Daten.
+Einordnung: Herausgeber ist ein Personaldienstleister, der Weiterbildung verkauft. Alle Werte sind Selbstauskunft, die 20 Prozent sind ein Aufschlag ohne genannte Basis, und die Gruppen bilden sich selbst.
 
 """ + TAGS_B + """
 """
 
 # ------------------------------------------------ Slot 4 (Story 15:00)
-CAPTIONS[4] = """Was macht dir bei KI im Job am meisten Sorge? 1 mein Job fällt irgendwann weg, 2 ich finde dann nichts Neues, 3 ich bleibe hängen, wo ich bin. Antworte mit 1, 2 oder 3.
+CAPTIONS[4] = """Welcher Handgriff kommt bei dir jede Woche wieder? 1 derselbe Statusbericht, 2 dieselbe Art von Mail, 3 dieselbe Tabelle auffrischen. Antworte mit 1, 2 oder 3.
 """
 
 # ------------------------------------------------ Slot 5 (Story 20:00)
-CAPTIONS[5] = """Der Einwand-Vorlauf als fertige Vorlage: vier Zeilen, die deinen Entwurf von drei harten Lesern angreifen lassen — und dir sagen, welche zwei Einwände du vorher beantworten musst. Schreib mir EINWAND als DM, dann bekommst du den vollständigen Text zum Kopieren.
+CAPTIONS[5] = """Die Wiedervorlage als fertige Vorlage: vier Zeilen, die aus einer wöchentlichen Aufgabe eine stehende Arbeitsanweisung machen — mit dem einen Punkt, an dem du vorher draufschaust, damit aus Zeitersparnis keine Nachkontrolle wird. Schreib mir VORLAGE als DM, dann bekommst du den vollständigen Text zum Kopieren.
 """
 
 # ------------------------------------------------ Laengenpruefung

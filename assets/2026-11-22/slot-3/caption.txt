@@ -1,0 +1,24 @@
+Öffne das am Montag um 9, wenn die erste Aufgabe wieder vor dir liegt — dann brauchst du genau diese vier Zeilen.
+
+Du benutzt KI jede Woche und könntest trotzdem nicht sagen, was sie dir bringt.
+
+Genau da sitzt die Unsicherheit. Unter Beschäftigten mit KI-Berührung liegt die geschätzte Jobsorge bei 21,2 Prozent, wenn sie keinen Gewinn spüren — und bei 6,1 Prozent, wenn sie ihn klar spüren. Nicht Abstand zur KI trennt die beiden Gruppen. Eine Zahl trennt sie.
+
+Die bekommst du an einem einzigen Nachmittag. Nicht schätzen, nicht sortieren: eine Aufgabe, einmal durchlaufen, mitgestoppt.
+
+Die vier Zeilen:
+
+1. Diese Aufgabe mache ich jede Woche: [beschreiben]. Ohne KI brauche ich dafür etwa [Minuten].
+2. Geh sie jetzt mit mir Schritt für Schritt durch und markiere, was am Ende noch offen bleibt.
+3. Rechne ehrlich: Welche Minuten sind weg — und welche kommen fürs Prüfen und Nacharbeiten dazu?
+4. Schreib das Ergebnis als einen Satz mit genau einer Zahl.
+
+Zeile 3 ist der Kern. Ein Gewinn, der die Prüfzeit nicht mitrechnet, ist keiner — und genau das hält die Unsicherheit am Leben. Zeile 4 macht aus einem Gefühl etwas, das du am Dienstag noch sagen kannst.
+
+Einen Satz mit einer Zahl kann dir niemand wegdiskutieren. Auch du dir selbst nicht.
+
+Quelle: Federal Reserve Bank of Boston, Current Policy Perspectives 26-8, „Workers' Perspectives on Artificial Intelligence: Productivity Gains and Job-loss Fears“, Anat Bracha, Rees Hagler und Jenny Tang, veröffentlicht am 02.09.2026. Sondermodul des Survey of Consumer Expectations der Federal Reserve Bank of New York, Wellen Dezember 2024 und Dezember 2025, rotierendes Panel von rund 1.300 US-Haushaltsvorständen.
+
+Einordnung: US-Daten, nicht Deutschland. Selbsteinschätzung, nicht gemessen. Die Prozentwerte sind Schätzwerte aus einer Regression mit Kontrollvariablen und zeigen einen Zusammenhang, keine Ursache.
+
+#kiimjob #produktivitaet #arbeitsalltag #prompt #15minutenvorsprung

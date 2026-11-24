@@ -1,0 +1,22 @@
+Öffne das am Sonntagabend um 20 Uhr, wenn du deine Woche sortierst – dann brauchst du genau diesen Prompt.
+
+Du weißt nicht, welche KI-Aufgabe in deinem Job überhaupt zählt. Deshalb fängst du mit keiner an.
+
+Der Stellenmarkt schreibt sie längst auf. 125.000 KI-bezogene Stellenanzeigen gab es 2025 in Deutschland, und sieben von acht davon suchen Anwender statt Entwickler. In diesen Texten steht wörtlich, welche KI-Aufgaben in deiner Branche bezahlt werden – nicht als Prognose, sondern als Anforderung.
+
+Du musst die Anzeigen nur für deine eigene Rolle auswerten lassen. Nicht für eine, die du nie haben wirst.
+
+Die vier Schritte:
+1. Sonntag, 20 Uhr, 10 Minuten: fünf aktuelle Stellenanzeigen für deine eigene Rolle heraussuchen und den Text kopieren.
+2. In den Prompt unten einsetzen.
+3. Die drei meistgenannten KI-Aufgaben herausziehen lassen.
+4. Eine davon diese Woche einmal selbst machen – an einer echten Aufgabe, nicht als Übung.
+
+Der Prompt zum Kopieren:
+„Du bist Analyst für Stellenanzeigen. Unten stehen fünf aktuelle Anzeigen für meine Rolle. Aufgabe: Finde jede Stelle im Text, an der eine KI- oder Automatisierungsaufgabe verlangt wird. Nutze ausschließlich die Texte unten, ergänze nichts aus eigenem Wissen. Gib aus: 1) Die drei Aufgaben, die am häufigsten vorkommen, nach Häufigkeit sortiert, je mit der Zahl der Anzeigen. 2) Zu jeder Aufgabe den wörtlichen Satz aus einer Anzeige. 3) Zu jeder Aufgabe einen Satz, was ich konkret tun müsste, um sie einmal ausgeführt zu haben. Keine Empfehlungen, keine Einleitung. Anzeigen: [hier einfügen]“
+
+Quelle: PwC, „2026 AI Jobs Barometer“, Deutschland-Auswertung, veröffentlicht am 30.06.2026. Rund 125.000 KI-bezogene Anzeigen entsprechen 1,3 Prozent aller deutschen Stellenanzeigen 2025; das Verhältnis Anwender zu Entwickler liegt bei etwa 109.400 zu 15.400.
+
+Einordnung: Das sind ausgeschriebene Stellen, keine besetzten. Der Prompt liest aus, was Arbeitgeber verlangen – ob eine Aufgabe zu dir passt, entscheidest du.
+
+#kiimjob #prompt #15minutenvorsprung

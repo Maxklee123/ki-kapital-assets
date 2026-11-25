@@ -1,0 +1,22 @@
+Oeffne das am Montag um 9, wenn du vor dem leeren Promptfeld sitzt und der Bericht bis 12 fertig sein soll.
+
+Du promptest zu frueh. Deshalb pruefst du anschliessend so lange.
+
+Laut Work AI Index 2026 gehen 6,4 Stunden pro Woche fuer Botsitting drauf - Kontext nachreichen, pruefen, korrigieren. Allein 2,3 Stunden davon entfallen darauf, der KI hinterher zu erklaeren, was sie von Anfang an haette wissen muessen.
+
+Der Grund ist simpel: Ein Prompt ohne Pruefspur liefert ein Ergebnis, das du nicht stichprobenartig kontrollieren kannst. Du musst es komplett lesen. Genau da verschwinden die Stunden.
+
+Diese vier Zeilen setzt du vor jeden Arbeitsauftrag:
+
+1. Kontext zuerst: "Hier sind die Fakten: [Text einfuegen]. Nutze ausschliesslich das."
+2. Form festlegen: "Antworte in genau 5 Punkten, je maximal 15 Woerter."
+3. Pruefspur erzwingen: "Hinter jeden Punkt in Klammern die Stelle aus meinem Text."
+4. Luecken sichtbar machen: "Was dir fehlt, markiere mit [UNKLAR] - rate nicht."
+
+Zeile 3 ist die wichtige. Sie verwandelt das Pruefen von Lesen in Abgleichen: Du springst an die markierte Stelle statt den ganzen Text zu lesen. Zeile 4 verhindert, dass die KI Luecken mit plausibel klingenden Erfindungen fuellt - das ist der Teil, der dich sonst die 1,7 Stunden Fehlersuche kostet.
+
+Funktioniert fuer Berichte, Protokolle, Mails an Kunden, Zusammenfassungen von Studien. Ueberall da, wo jemand dich nach der Quelle fragen koennte.
+
+Quelle: Work AI Index 2026, Work AI Institute (Glean), n=6.000 Vollzeitbeschaeftigte (USA, UK, Australien), Erhebung Dezember 2025 bis Januar 2026.
+
+#KIimJob #Prompting #Arbeitsalltag

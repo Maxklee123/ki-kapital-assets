@@ -1,0 +1,22 @@
+Öffne das am Montag um 9, wenn du dir die Woche sortierst — dann brauchst du genau diese vier Zeilen.
+
+Du weißt nicht, welche Aufgabe du abgeben sollst. Also gibst du keine ab.
+
+Die meisten sortieren nach Lästigkeit. Das ist der Fehler. Abgeben solltest du, was keine Entscheidung von dir verlangt — nicht das, was nervt.
+
+In derselben Befragungsreihe sagen 27 Prozent der Beschäftigten mit KI-Nutzung, dass Aufgaben ersetzt wurden. 21 Prozent sagen, dass neue entstanden sind. Dein Job schrumpft nicht. Er wird umgebaut — und wer beim Umbau nicht mitsortiert, bekommt den Rest zugeteilt.
+
+Diese vier Zeilen kopierst du einmal pro Woche in dein KI-Tool:
+
+1. "Meine wiederkehrenden Aufgaben dieser Woche: [Liste]. Sortiere sie in A, B und C."
+2. "A = das Ergebnis ist Text, Tabelle oder Auswertung und braucht kein Haus-Wissen. B = braucht mein Urteil über Menschen, Historie oder Risiko. C = KI bringt hier nichts."
+3. "Nenne für jede B-Aufgabe in einem Satz, an welcher Stelle genau mein Urteil die Entscheidung ist."
+4. "Nenne die eine A-Aufgabe, die ich diese Woche komplett abgeben kann — plus den Prompt dafür."
+
+Zeile 3 ist die wichtige. Sie liefert dir den Satz, mit dem du im Meeting begründest, warum diese Aufgabe bei dir bleibt. Zeile 4 verhindert, dass du dich verzettelst: eine Aufgabe, diese Woche, fertig.
+
+Funktioniert in Sachbearbeitung, Projektarbeit, Marketing und HR. Überall dort, wo Aufgaben im Team verteilt werden.
+
+Quelle: Epoch AI / Ipsos KnowledgePanel, Befragung 3. bis 5. März 2026, n = 2.021 Erwachsene in den USA.
+
+#kiimjob #prompt #15minutenvorsprung

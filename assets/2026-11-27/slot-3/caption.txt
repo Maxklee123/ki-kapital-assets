@@ -1,0 +1,26 @@
+Öffne das direkt nach deiner nächsten Besprechung — in den fünf Minuten, in denen die Notizen noch vor dir liegen.
+
+Du schreibst nach dem Meeting kein Protokoll. Niemand sonst auch.
+
+Das ist keine Nachlässigkeit, das ist die Regel: etwas mehr als die Hälfte der Besprechungen wird protokolliert, und von den vereinbarten Aktionspunkten werden nicht einmal zwei Drittel umgesetzt.
+
+Der Fehler ist der Anspruch. Ein Protokoll ist zu viel Arbeit, also entsteht gar nichts. Du brauchst aber kein Protokoll. Du brauchst vier Zeilen, in denen steht: was, wer, bis wann.
+
+Deine krakeligen Notizen reichen dafür. Du tippst ab, was du mitgeschrieben hast, und lässt die KI daraus Zusagen machen — ausdrücklich keine Zusammenfassung.
+
+Diese vier Zeilen kopierst du direkt nach der Besprechung in dein KI-Tool:
+
+1. "Hier meine Notizen aus der Besprechung: [abtippen]. Mach daraus nur die Zusagen."
+2. "Jede Zeile: Was – wer – bis wann. Keine Zusammenfassung, keine Höflichkeit."
+3. "Markiere jede Zusage, bei der Name oder Datum fehlt, mit OFFEN."
+4. "Formuliere eine Nachricht, die nur die OFFEN-Punkte klärt – höchstens drei Sätze."
+
+Schritt 3 ist der wichtige. Er macht sichtbar, was im Raum nur nach Einigkeit geklungen hat: eine Aufgabe ohne Namen ist keine Aufgabe, ein Termin ohne Datum ist keiner.
+
+Schritt 4 ist der, der dich sichtbar macht. Du schickst keine Zusammenfassung, die keiner liest, sondern drei Sätze mit den offenen Punkten — zwanzig Minuten nach der Besprechung. Das fällt auf, und zwar bei genau den Leuten, bei denen es auffallen soll.
+
+Funktioniert in Sachbearbeitung, Projektarbeit, Marketing und HR. Überall dort, wo in Besprechungen Aufgaben verteilt werden.
+
+Quelle: AKAD University / Büro-Kaizen, „Arbeitswelten im Wandel 2026“, S. 34, Online-Befragung Mitte Januar bis Mitte März 2026, n = 1.260, überwiegend Deutschland, nicht repräsentativ.
+
+#kiimjob #prompt #15minutenvorsprung

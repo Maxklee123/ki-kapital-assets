@@ -1,0 +1,26 @@
+Öffne das beim nächsten Mal, wenn eine KI-Antwort fast fertig aussieht — da entscheidet sich, ob man deine Arbeit sieht.
+
+Du prüfst, was die KI dir ausgibt. Nur sieht das niemand.
+
+Die Befragung von HiBob hat Entscheidern eine unangenehm konkrete Frage gestellt: für welche KI-Fähigkeit würdet ihr mindestens zehn Prozent mehr Gehalt zahlen? Der Spitzenwert in DACH ist nicht „kennt die Tools“ und nicht „schreibt gute Prompts“. Es sind 33,5 Prozent für das Bewerten und Verbessern von Output-Qualität.
+
+Das ist die Fähigkeit, die du schon hast. Du setzt sie jeden Tag ein, wenn du eine KI-Antwort liest und merkst, dass die dritte Zahl nicht stimmen kann.
+
+Nur passiert diese Prüfung in deinem Kopf — und verschwindet dort. Was bewertet wird, ist aber nicht das Denken. Es ist das, was danach noch da ist.
+
+Diese vier Zeilen kopierst du, wenn der Output fast fertig aussieht:
+
+1. "Hier ist deine Antwort und meine Aufgabe dazu. Nenne die drei Stellen, an denen du am ehesten falsch liegst."
+2. "Sag mir zu jeder Stelle in einem Satz, woran ich erkenne, ob sie stimmt – ohne Fachsprache."
+3. "Markiere, was du nicht wissen kannst, weil ich dir die Angabe nicht gegeben habe."
+4. "Schreib zwei Zeilen: was ich geprüft habe, was ich geändert habe."
+
+Zeile 2 ist die, die dich besser macht. Sie verlangt ein Prüfkriterium, das du ohne Fachwissen nachvollziehen kannst — und genau daran merkst du, ob du dem Ergebnis trauen darfst.
+
+Zeile 4 ist die, die dich sichtbar macht. Zwei Zeilen unter dem Ergebnis: geprüft wurde das, geändert wurde das. Wer deine Arbeit weiterverwendet, sieht sofort, dass da jemand nachgedacht hat.
+
+Funktioniert in Sachbearbeitung, Projektarbeit, Marketing und HR. Überall dort, wo du KI-Output weitergibst, für den du am Ende einstehst.
+
+Quelle: HiBob, „Vom KI-Druck zur KI-Kompetenz“, DACH-Auswertung, 26.05.2026, n = 200 Entscheider. Anbieterstudie, Selbstauskunft, kleine Stichprobe.
+
+#kiimjob #prompt #15minutenvorsprung

@@ -10,7 +10,7 @@ sys.path.insert(0, HERE)
 os.environ["BRAND"] = BRAND
 import render_v3 as R
 
-spec = importlib.util.spec_from_file_location("content", os.path.join(HERE, "content_2026-11-26.py"))
+spec = importlib.util.spec_from_file_location("content", os.path.join(HERE, "content_" + os.environ.get("CDATE", "2026-11-26") + ".py"))
 C = importlib.util.module_from_spec(spec); spec.loader.exec_module(C)
 
 MAKERS = {"hook": R.f_hook, "text": R.f_text, "number": R.f_number, "steps": R.f_steps,
